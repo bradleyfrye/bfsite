@@ -1,0 +1,122 @@
+#navbar{
+	position:fixed;
+	border:1px solid gray;
+	background:#ED112E;
+	width:798px;
+	margin:0 auto;
+	margin-top:-1px;
+}
+
+.navItem{
+	color:white;
+	display:inline-block;
+}
+
+#email{
+	float:right;
+}
+
+.navItem{
+	font-family:Arial;
+	padding-top:4px;
+	font-size:1.5em;
+	margin-left:6px;
+	margin-right:6px;
+	margin-top:4px;
+}
+
+#navSpacer{
+	height:40px;
+	display:block;
+}
+
+#wrapper{
+	border:1px solid black;
+	background:white;
+	width:800px;
+	margin:auto;
+}
+
+#top{
+	height:250px;
+	margin:2px 2px 15px 2px;
+	border-bottom: 1px solid #efece7;
+}
+
+#dancinJesus{
+	float:right;
+	margin:2px;
+}
+
+#name{
+	display:inline-block;
+}
+
+#main{
+	margin:4px;
+        border-bottom: 1px solid #efece7;
+}
+
+.program{
+	margin:2px;
+	display:inline-block;
+	text-align:center;
+	font-size:1.2em;
+}
+
+h2{
+        border-bottom:2px solid black;
+        width: 200px;
+        margin:0 auto;
+        margin-bottom:20px;
+}
+
+#nameField{
+        height:50px;
+        padding:5px;
+        font-weight:bold;
+}
+
+#textField{
+        height:100px;
+        padding:5px;
+        font-weight:bold;
+}
+
+input[type=text]{
+        float:right;
+        position:relative;
+        right:400px;
+}
+
+textarea{
+        float:right;
+        position:relative;
+        right:400px;
+}
+
+.comment{
+    margin:5px;
+    padding:5px;
+    clear:right;
+}
+
+.commentName{
+        display:inline-block;
+        float:left;
+        width:150px;
+}
+
+.commentText{
+        display:inline-block;
+        float:right;
+        width:550px;
+}
+
+#count{
+        margin:0 auto;
+        margin-top:15px;
+        border-top:1px solid #efece7;
+        text-align:center;
+        clear:both;
+}

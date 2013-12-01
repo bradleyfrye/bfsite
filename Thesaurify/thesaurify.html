@@ -1,0 +1,62 @@
+﻿<!DOCTYPE html>
+<html>
+    <head>
+        <title>Thesaurify</title>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width">
+        
+		<link rel="stylesheet" href="thesaurify.css" />
+        <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+        <script type="text/javascript" src='thesaurify.js'></script>
+    </head>
+    <body>
+		<div id=instWrapper>
+			<div id=instTitle>Instructions&#x25BC;</div>
+			<div id=instructions>
+				<h3>How to use Thesaurify</h3>
+				<p><b>Step 1 - </b>Enter a sentence in the text box, by the phrase "Enter your sentence:".  Click Submit when you are finished.</p>
+				<p><b>Step 2 - </b>Your sentence is analyzed (this may take a few seconds), and your words are added to the "Analysis" section.
+					If the word doesn't have any synonyms, it will be colored gray, and cannot be interacted with.  Otherwise, it will have the
+					color corresponding to a part of speech.  The initial part of speech is arbitrary, so it may be incorrect - you can change
+					this by clicking on the word, and selecting the correct type of word from the dropdown.  Doing this helps make the final product
+					make more sense.</p>
+				<p>You can also check the box next to the lock: &#x1f512; icon, which will keep the word in its original form in the final result.</p>
+				<p><b>Step 3 - </b>Click the Thesaurify button to create a new sentence with random synonyms of your words, according to the assigned
+					parts of speech from Step 2.  Clicking the button again will generate new random synonyms.</p>
+				<br/>
+				<p><b>Notes:</b></p>
+				<p>- The program will only be able to find synonyms of the <b>root</b> of a word, also known as the lemma, and will not find anything
+				if given conjugated or plural forms; e.g., "drink" will get synonyms, but "drinks" or "drank" will not.</p>
+				<p>- Certain words may be given strange synonyms based on abbreviations or other substitutions, due to the thesaurus service used.  For
+				example, an earlier version of this program would replace the word "I" with "One" or "Iodine".  I've since adding special handling for
+				common words like this, but there are likely other words that will still be treated as abbreviations.</p>
+				<p>- Thesaurus lookup service is provided by <b>thesaurus.altervista.org</b>.</p>
+			</div>
+		</div>
+		</div>
+        <div id=header>
+			<div id=title>Thesaurify</div>
+		</div>
+		<div id=inputWrapper>
+			<h2 id=inputText>Enter your sentence:</h2>
+			<br/>
+			<input type="text" id="input" value="" size=50>
+			<button id="Submit">Submit</button>
+        </div>
+		<div id=configWrapper>
+			<h2 id="analTitle">Analysis Zone</h2>
+			<div id=legendWrapper>
+				<h3 id=legendTitle>Legend:</h3><div class='noun legend'></div> = Noun <div class='verb legend'></div> = Verb <div class='adj legend'></div> = Adjective <div class='adv legend'></div> = Adverb <div class='noSyns legend'></div> = No Synonyms
+			</div>
+			<div id=loadingWrapper>
+				<div id=loading><span id=loadText>Loading  </span><img src="loading.gif" id=loadImg></div>
+			</div>
+			<div id=config></div>
+			<button id="Thesaurify">Thesaurify</button>
+		</div>
+		<div id=resultWrapper>
+			<h2 id="resultTitle">Result</h2>
+			<div id="synonyms"></div>
+		</div>
+    </body>
+</html>

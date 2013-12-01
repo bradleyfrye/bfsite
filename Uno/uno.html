@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Uno!</title>
+        
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width">
+        
+        <link rel="stylesheet" href="unoCss.css" />
+        <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+        <script type="text/javascript" src='unoScript.js'></script>
+    </head>
+        <body>
+		<div id="wrapper">
+                        <button id="Replay">Replay!</button>
+                        
+                        <div id="instructionWrapper">
+                            <div id="instructions">
+                                <h3>UNO - How to Play</h3>
+                                <p>
+                                    - Starting the game:  The dealer shuffles the deck and deals 7 cards to each player.  The dealer then draws one card
+                                    from the draw pile and places it in the discard pile.  Play then starts with the player after the dealer.  Any cards
+                                    with special effects are applied to the next player, and the dealer chooses a color in the case of a Wild card. (Note: 
+                                    in this game, you are always the dealer and these steps are taken automatically.)
+                                </p>
+                                <p>
+                                    - Playing the game:  On a player's turn, the player may either play a card from their hand, or pass.  To play a card,
+                                    it must either match the color of the card on the discard pile (or the color chosen by someone playing a wild), or
+                                    match the value of the top card of the discard pile, i.e. its number or letter(s).  Wild cards can be played at any 
+                                    time, and the player must select a color before the next player takes their turn.  If the player does not have any valid
+                                    cards to play, they must pass.  When passing, a player draws a card from the deck.  If this card is playable, the player 
+                                    may play this card, but they can't play any other cards from their hand at this point.  If the card is not playable, or 
+                                    the player does not wish to play it, they can pass again to end their turn.
+                                </p>
+                                <p>
+                                    - Special cards:  Certain cards have special effects when played.  They are:
+                                    <br/>
+                                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Draw 2 (D2) - The next player must draw 2 cards, and their turn is skipped.
+                                    <br/>
+                                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Skip (S) - The next player's turn is skipped.
+                                    <br/>
+                                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Reverse (R) - The order of play is reversed.  If there are only 2 players, this just acts like a Skip.
+                                    <br/>
+                                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Wild (W) - Can be played at any time.  The player who used this card selects a new color.
+                                    <br/>
+                                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Wild Draw 4 (W4) - Same as Wild, but the next player must draw 4 cards, and their turn is skipped.
+                                </p>
+                                <p>
+                                    - Winning the game:  The first player to play all of their cards is the winner.  (Note: the saying of "UNO" has not
+                                    been implemented.  Considering putting in a button that you have to click for this or something.)
+                                </p>
+								<p>
+									<br/>UNO trademark is owned by Mattel, Inc.
+								</p>
+                            </div>
+                            <div id="instructionTitle">Instructions&#x25BC;</div>
+                        </div>
+			<div id="cpuWrapper">
+				<div id="cpuTitle">CPU Cards</div>
+				<div id="CPU"></div>
+			</div>
+			
+			<div id="whoseTurn">
+				Player's turn
+			</div>
+			
+			<div> Current color: <span id="curColor"></span> </div>
+			<div> Current value: <span id="curValue"></span> </div>
+			
+			<div id="middleWrapper">
+				<div id="drawWrapper">
+					<div id="drawTitle">Draw Pile</div>
+					<div id="draw"></div>
+				</div>
+				<div id="drawCount">#</div>
+				<div id="discardWrapper">
+					<div id="discardTitle">Discard Pile</div>
+					<div id="discard"></div>
+				</div>
+				<div id="discardCount">##</div>
+			</div>
+			<div id="buttonsWrapper">
+				<button id="Play">Play</button><br/>
+				<button id="Pass">Pass</button>
+			</div>
+			<div id="colorsWrapper">
+				<input type="radio" name="color" value="blue">Blue
+				<input type="radio" name="color" value="green">Green
+				<input type="radio" name="color" value="red">Red
+				<input type="radio" name="color" value="yellow">Yellow
+				<button id="Color">Accept</button>
+			</div>
+			<div id="playerWrapper">
+				<div id="playerTitle">Player's cards</div>
+				<div id="player"></div>
+			</div>
+		</div>
+	</body>
+</html>

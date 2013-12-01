@@ -1,0 +1,68 @@
+body{
+	margin:0 auto;
+	width:800px;
+	border-left: 2px solid gray;
+	border-right: 2px solid gray;
+	padding:5px;
+}
+
+.bold{
+	font-weight:bold;
+}
+
+.italics{
+	font-style:italic;
+}
+
+.underlined{
+	text-decoration:underline;
+}
+
+.rightAlign{
+	float:right;
+}
+
+.leftIndent{
+	position:relative;
+	left:8px;
+}
+
+#header{
+	border-bottom:2px solid gray;
+}
+
+#name{
+	display:inline-block;
+	width:400px;
+}
+
+#contact{
+	float:right;
+	display:inline-block;
+}
+
+#email{
+	float:right;
+}
+
+#phone{
+	float:right;
+	clear:right;
+}
+
+.section{
+	border-bottom:1px solid gray;
+	padding:3px 3px 10px 3px;
+}
+
+#skills{
+	
+}
+
+#education{
+
+}
+
+#work{
+
+}
