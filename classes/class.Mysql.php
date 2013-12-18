@@ -1,6 +1,6 @@
 <?php
 
-    require_once("./bfsite/classes/class.Logging.php");
+    require_once("./classes/class.Logging.php");
 
     class Mysql {
         function __construct(){

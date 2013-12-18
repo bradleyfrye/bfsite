@@ -13,7 +13,7 @@ class Page {
 		// get content into this->content, don't echo yet
 		// assume we know content exists already, url parsing should confirm
 
-		$filename = "./bfsite/".$this->folder."/".$this->file;
+		$filename = "./".$this->folder."/".$this->file;
 		$this->content = file_get_contents($filename);
         $this->doHeaders();
 	}

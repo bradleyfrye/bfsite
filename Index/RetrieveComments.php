@@ -1,7 +1,7 @@
 <?php
 
-    require_once("./bfsite/classes/class.Mysql.php");
-    require_once("./bfsite/classes/class.Logging.php");
+    require_once("./classes/class.Mysql.php");
+    require_once("./classes/class.Logging.php");
 
     $mysql = new Mysql();
     $logging = new Logging();

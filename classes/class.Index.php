@@ -1,7 +1,7 @@
 <?php
 
-require_once("./bfsite/classes/class.Page.php");
-require_once("./bfsite/classes/class.Logging.php");
+require_once("./classes/class.Page.php");
+require_once("./classes/class.Logging.php");
 
 class PageClass extends Page {
     // Index class	
@@ -9,7 +9,7 @@ class PageClass extends Page {
         $logging = new Logging();
         if($this->type == 'php'){
             // doesn't follow the usual retrieve/echo content process
-            require_once("./bfsite/Index/".$this->file);
+            require_once("./Index/".$this->file);
         }
         
         else{
