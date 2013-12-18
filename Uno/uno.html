@@ -9,6 +9,7 @@
         <link rel="stylesheet" href="/Uno/uno.css" />
         <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
         <script type="text/javascript" src='/Uno/uno.js'></script>
+        <script type="text/javascript" src="/Common/backButton.js"></script>
     </head>
         <body>
 		<div id="wrapper">
@@ -60,15 +61,16 @@
 				<div id="CPU"></div>
 			</div>
 			
-			<div id="whoseTurn">
-				Player's turn
-			</div>
+            <div id="middleWrapper">
+
+                <div id="whoseTurn">
+                    Player's turn
+                </div>
+                
+                <div> Current color: <span id="curColor"></span> </div>
+                <div> Current value: <span id="curValue"></span> </div>
 			
-			<div> Current color: <span id="curColor"></span> </div>
-			<div> Current value: <span id="curValue"></span> </div>
-			
-			<div id="middleWrapper">
-				<div id="drawWrapper">
+                <div id="drawWrapper">
 					<div id="drawTitle">Draw Pile</div>
 					<div id="draw"></div>
 				</div>
@@ -78,11 +80,11 @@
 					<div id="discard"></div>
 				</div>
 				<div id="discardCount">##</div>
-			</div>
-			<div id="buttonsWrapper">
-				<button id="Play">Play</button><br/>
-				<button id="Pass">Pass</button>
-			</div>
+                <div id="buttonsWrapper">
+                    <button id="Play">Play</button><br/>
+                    <button id="Pass">Pass</button>
+                </div>
+            </div>
 			<div id="colorsWrapper">
 				<input type="radio" name="color" value="blue">Blue
 				<input type="radio" name="color" value="green">Green

@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html>
+	<head>
+        <title>Brad's Website Index!</title>
+		<link rel="stylesheet" href="/bootstrap/bootstrap.css" />
+		<link rel="stylesheet" href="/Index/index.css" />
+        <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+        <script type="text/javascript" src='/Index/index.js'></script>
+	</head>
+	
+	<body>
+		<div id=wrapper>
+			<div id=navbar>
+				<a href="/Resume"><p class="navItem">Resume</p></a>
+				<a href="/Contact"><p class="navItem" id="contactInfo">Contact Info</p></a>
+			</div>
+			<div id=navSpacer></div>
+			<div id=top>
+				<div id=titleDiv><h1 id=name>Brad's Website</h1></div>
+				<div id=bradPic><img src="/Index/floatingBrad.jpg" alt="floatingBrad" width=364px></div>
+                <div id=introSection>
+				<p>Hi, my name is Brad Frye, welcome to my website.  This site is run on a LAMP stack hosted 
+                on Amazon Web Services (AWS).  I'm using this site to share programs I've written with friends and 
+                family, and to develop a portfolio to demonstrate my experience in HTML, CSS, JavaScript, PHP, and MySQL.</p>
+                <p>Currently, you may view my resume, play the card game UNO, or try out Thesaurify (click the 
+                orange Instructions box on any Program page if you need help using it.) You may also leave me a 
+                comment at the bottom of this page if you'd like - let me know if you have any questions, 
+                suggestions, or problems with the site.  Please keep it clean!</p>
+                <p>I have more content in progress, and will add it to the site when I have time.</p>
+                </div>
+			</div>
+			<div id=main>
+                <h2 style="text-align:center">Programs</h2>
+				<div class=program>
+					<a href="/Uno">
+					<img src="http://cf.geekdo-images.com/images/pic625019_t.jpg" alt="Uno Cards">
+					<p id="uno">Play some Uno</p></a>
+				</div>
+				<div class=program>
+					<a href="/Thesaurify">
+					<img src="http://images1.wikia.nocookie.net/__cb20120302055807/arthur/images/4/48/Thesaurus.jpg" width=166px height=190px>
+					<p id="the">Thesaurify</p></a>
+				</div>
+                                <div id="placeholder">More programs to come...</div>
+			</div>
+            <div id=guestBook>
+                <h2 style="text-align:center">Guest Book</h2>
+                <div id="fieldWrapper">
+                    <div id="nameField">Enter your name: <input type="text" name="commentName" id="commentName" value=""></div>
+                    <div id="textField">Say something: <textarea name="commentText" id="commentText"></textarea></div>
+                    <div id="submit"><input type="button" id="commentSubmit" value="Submit"></div>
+                </div>
+                
+                <div id=commentsWrapper></div>
+                <div id=commentLinks></div>
+                <div id="count">Total comments: <span id="ct">1</span></div>                                 
+            </div>
+		</div>
+	</body>
+</html>

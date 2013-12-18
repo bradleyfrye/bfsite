@@ -5,6 +5,7 @@
 	width:798px;
 	margin:0 auto;
 	margin-top:-1px;
+    z-index:10000;
 }
 
 .navItem{
@@ -12,7 +13,7 @@
 	display:inline-block;
 }
 
-#email{
+#contactInfo{
 	float:right;
 }
 
@@ -38,12 +39,15 @@
 }
 
 #top{
-	height:250px;
 	margin:2px 2px 15px 2px;
 	border-bottom: 1px solid #efece7;
 }
 
-#dancinJesus{
+#introSection{
+    width:420px;
+}
+
+#bradPic{
 	float:right;
 	margin:2px;
 }
@@ -84,33 +88,47 @@ h2{
 }
 
 input[type=text]{
-        float:right;
-        position:relative;
-        right:400px;
+        position:absolute;
+        left:450px;
+        width:120px;
 }
 
 textarea{
-        float:right;
-        position:relative;
-        right:400px;
+        position:absolute;
+        left:450px;
+        width:300px;
+        height:75px;
+}
+
+#commentSubmit{
+    margin-left:10px;
+    font-size:1.1em;
 }
 
 .comment{
     margin:5px;
-    padding:5px;
+    padding:3px;
     clear:right;
+    background:white;
+    border:1px solid black;
 }
 
 .commentName{
         display:inline-block;
         float:left;
-        width:150px;
+        background:lightblue;
+        width:100%;
+}
+
+.boldName{
+        font-weight:bold;
+        margin:2px 0px 2px 6px;
 }
 
 .commentText{
         display:inline-block;
-        float:right;
-        width:550px;
+        width:95%;
+        margin-left:50px;
 }
 
 #count{
@@ -119,4 +137,29 @@ textarea{
         border-top:1px solid #efece7;
         text-align:center;
         clear:both;
+}
+
+#commentLinks{
+        text-align:center;
+        font-size:1.5em;
+}
+
+.selected{
+        display:inline;
+}
+.unselected{
+        display:none;
+}
+
+.enabledLink{
+        cursor:pointer;
+        color:blue;
+        text-decoration:underline;
+        margin:5px;
+}
+.disabledLink{
+        cursor:text;
+        color:black;
+        font-weight:bold;
+        margin:5px;
 }

@@ -1,3 +1,7 @@
+body{
+    margin:15px 120px;
+}
+
 #wrapper{
     border:1px solid black;
 }
@@ -26,16 +30,16 @@
 }
 
 #instructionTitle{
+    position:relative;
     float:right;
     border:1px solid black;
     background:orange;
-    margin-right:12px;
+    margin-right:120px;
     padding:4px;
     font-family:Arial;
     font-weight:bold;
     font-size:.75em;
     z-index:1001;
-    position:relative;
 	cursor:pointer;
 }
 
@@ -61,7 +65,8 @@
 #drawWrapper{
     position:relative;
     border:1px solid black;
-    left:35%;
+    left:25%;
+    bottom:45px;
     width:86px;
     height:146px;
     text-align:center;
@@ -72,20 +77,23 @@
 #drawCount{
 	position:relative;
 	width:20px;
-	left:35%;
+	left:25%;
+    bottom:45px;
 	display:inline-block;
 }
 
 #discardCount{
 	position:relative;
 	display:inline-block;
-	left:55%;
+	left:50%;
+    bottom:45px;
 }
 
 #discardWrapper{
     position:relative;
     border:1px solid black;
-    left:55%;
+    left:50%;
+    bottom:45px;
     width:86px;
     height:146px;
     text-align:center;
@@ -96,6 +104,8 @@
 #buttonsWrapper{
 	margin:10px 2px 2px 2px;
 	float:left;
+    position:relative;
+    top:45px;
 }
 
 #colorsWrapper{
