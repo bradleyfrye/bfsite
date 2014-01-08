@@ -1,0 +1,65 @@
+01/04/2014 08:16:09 - Index.php, not logged in - SESSION['loggedIn'] contents: 
+01/04/2014 08:16:10 - Index.php, not logged in - SESSION['loggedIn'] contents: 
+01/04/2014 08:16:11 - Index.php, not logged in - SESSION['loggedIn'] contents: 
+01/04/2014 08:16:11 - Index.php, not logged in - SESSION['loggedIn'] contents: 
+01/04/2014 08:22:25 - Index.php, not logged in - SESSION['loggedIn'] contents: 
+01/04/2014 08:22:25 - Retrieve Comments
+01/04/2014 08:22:31 - Index.php, not logged in - SESSION['loggedIn'] contents: 
+01/04/2014 08:22:31 - Retrieve Comments
+01/04/2014 08:22:34 - Index.php, not logged in - SESSION['loggedIn'] contents: 
+01/04/2014 08:22:35 - Retrieve Comments
+01/04/2014 08:22:38 - Index.php, not logged in - SESSION['loggedIn'] contents: 
+01/04/2014 08:22:41 - Login.php - login success.  SESSION['loggedIn'] before:
+
+01/04/2014 08:22:41 - Login.php - login success.  SESSION['loggedIn'] after:
+1
+01/04/2014 08:22:43 - Index.php, logged in - SESSION['loggedIn'] contents: 1
+01/04/2014 08:22:43 - Retrieve Comments
+01/04/2014 08:22:44 - Index.php, not logged in - SESSION['loggedIn'] contents: 
+01/04/2014 08:22:45 - Retrieve Comments
+01/04/2014 08:22:59 - Index.php, not logged in - SESSION['loggedIn'] contents: 
+01/04/2014 08:23:00 - Retrieve Comments
+01/04/2014 08:23:01 - Index.php, not logged in - SESSION['loggedIn'] contents: 
+01/04/2014 08:23:01 - Retrieve Comments
+01/04/2014 08:23:06 - Index.php, not logged in - SESSION['loggedIn'] contents: 
+01/04/2014 08:23:07 - Retrieve Comments
+01/04/2014 08:23:07 - Index.php, not logged in - SESSION['loggedIn'] contents: 
+01/04/2014 08:23:17 - Index.php, not logged in - SESSION['loggedIn'] contents: 
+01/04/2014 08:23:17 - Retrieve Comments
+01/04/2014 08:23:17 - Index.php, not logged in - SESSION['loggedIn'] contents: 
+01/04/2014 08:24:19 - Index.php, not logged in - SESSION['loggedIn'] contents: 
+01/04/2014 08:24:19 - Retrieve Comments
+01/04/2014 08:24:23 - Index.php, not logged in - SESSION['loggedIn'] contents: 
+01/04/2014 08:24:23 - Retrieve Comments
+01/04/2014 08:43:35 - Index.php, not logged in - SESSION['loggedIn'] contents: 
+01/04/2014 08:43:35 - Retrieve Comments
+01/04/2014 08:43:38 - Index.php, not logged in - SESSION['loggedIn'] contents: 
+01/04/2014 08:43:38 - Retrieve Comments
+01/04/2014 08:43:42 - Index.php, not logged in - SESSION['loggedIn'] contents: 
+01/04/2014 08:43:42 - Retrieve Comments
+01/04/2014 08:43:44 - Index.php, not logged in - SESSION['loggedIn'] contents: 
+01/04/2014 08:43:45 - Retrieve Comments
+01/04/2014 08:43:50 - Login.php - login success.  SESSION['loggedIn'] before:
+
+01/04/2014 08:43:50 - Login.php - login success.  SESSION['loggedIn'] after:
+1
+01/04/2014 08:43:52 - Index.php, logged in - SESSION['loggedIn'] contents: 1
+01/04/2014 08:43:52 - Retrieve Comments
+01/04/2014 08:43:54 - Index.php, not logged in - SESSION['loggedIn'] contents: 
+01/04/2014 08:43:54 - Retrieve Comments
+01/04/2014 08:45:10 - Index.php, not logged in - SESSION['loggedIn'] contents: 
+01/04/2014 08:45:11 - Retrieve Comments
+01/04/2014 08:45:40 - Index.php, not logged in - SESSION['loggedIn'] contents: 
+01/04/2014 08:45:40 - Retrieve Comments
+01/04/2014 08:47:00 - Login.php - login success.  SESSION['loggedIn'] before:
+
+01/04/2014 08:47:00 - Login.php - login success.  SESSION['loggedIn'] after:
+1
+01/04/2014 08:47:02 - Index.php, logged in - SESSION['loggedIn'] contents: 1
+01/04/2014 08:47:02 - Retrieve Comments
+01/04/2014 08:47:08 - Index.php, logged in - SESSION['loggedIn'] contents: 1
+01/04/2014 08:47:08 - Retrieve Comments
+01/04/2014 08:47:56 - Index.php, logged in - SESSION['loggedIn'] contents: 1
+01/04/2014 08:47:56 - Retrieve Comments
+01/04/2014 08:48:48 - Index.php, not logged in - SESSION['loggedIn'] contents: 
+01/04/2014 08:48:49 - Retrieve Comments

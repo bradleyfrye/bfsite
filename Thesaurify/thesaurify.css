@@ -5,6 +5,11 @@ body{
 	border:3px solid black;
 }
 
+@font-face {
+    font-family: "emoji";
+    src: url("/Common/EmojiSymbols-Regular.woff") format("woff");
+}
+
 #title{
 	font-family: "Arial Black", Gadget, sans-serif;
 	font-size:3.9em;

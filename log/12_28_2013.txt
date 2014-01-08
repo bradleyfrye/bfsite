@@ -1,0 +1,418 @@
+12/28/2013 12:28:45 - /
+12/28/2013 12:28:45 - Index.php, not logged in - SESSION['loggedIn'] contents: 
+12/28/2013 12:28:45 - /robots.txt
+12/28/2013 12:28:45 - Index.php, not logged in - SESSION['loggedIn'] contents: 
+12/28/2013 12:51:49 - /vtigercrm/graph.php?current_language=../../../../../../../..//etc/elastix.conf%00&module=Accounts&action
+12/28/2013 12:51:49 - Index.php, not logged in - SESSION['loggedIn'] contents: 
+12/28/2013 01:17:59 - /robots.txt
+12/28/2013 01:17:59 - Index.php, not logged in - SESSION['loggedIn'] contents: 
+12/28/2013 01:17:59 - /
+12/28/2013 01:17:59 - Index.php, not logged in - SESSION['loggedIn'] contents: 
+12/28/2013 02:32:27 - /
+12/28/2013 02:32:27 - Index.php, not logged in - SESSION['loggedIn'] contents: 
+12/28/2013 02:32:27 - /bootstrap/bootstrap.css
+12/28/2013 02:32:27 - /Index/index.css
+12/28/2013 02:32:27 - /Common/ajaxRequest.js
+12/28/2013 02:32:27 - /Index/index.js
+12/28/2013 02:32:27 - /Index/floatingBrad.jpg
+12/28/2013 02:32:28 - /favicon.ico
+12/28/2013 02:32:28 - Index.php, not logged in - SESSION['loggedIn'] contents: 
+12/28/2013 02:32:28 - /favicon.ico
+12/28/2013 02:32:28 - Index.php, not logged in - SESSION['loggedIn'] contents: 
+12/28/2013 02:32:28 - /favicon.ico
+12/28/2013 02:32:28 - Index.php, not logged in - SESSION['loggedIn'] contents: 
+12/28/2013 03:45:11 - /cgi-bin/php
+12/28/2013 03:45:11 - Index.php, not logged in - SESSION['loggedIn'] contents: 
+12/28/2013 09:29:40 - /robots.txt
+12/28/2013 09:29:40 - Index.php, not logged in - SESSION['loggedIn'] contents: 
+12/28/2013 09:34:05 - /
+12/28/2013 09:34:05 - Index.php, not logged in - SESSION['loggedIn'] contents: 
+12/28/2013 01:50:53 - /
+12/28/2013 01:50:53 - Index.php, not logged in - SESSION['loggedIn'] contents: 
+12/28/2013 01:50:53 - /bootstrap/bootstrap.css
+12/28/2013 01:50:53 - /Index/index.js
+12/28/2013 01:50:53 - /Index/index.css
+12/28/2013 01:50:53 - /Common/ajaxRequest.js
+12/28/2013 01:50:53 - /Index/floatingBrad.jpg
+12/28/2013 01:50:55 - /Index/RetrieveComments.php
+12/28/2013 01:50:55 - Retrieve Comments
+12/28/2013 01:53:09 - /
+12/28/2013 01:53:09 - Index.php, not logged in - SESSION['loggedIn'] contents: 
+12/28/2013 01:53:09 - /bootstrap/bootstrap.css
+12/28/2013 01:53:09 - /Index/index.css
+12/28/2013 01:53:09 - /Index/index.js
+12/28/2013 01:53:09 - /Common/ajaxRequest.js
+12/28/2013 01:53:09 - /Index/RetrieveComments.php
+12/28/2013 01:53:09 - Retrieve Comments
+12/28/2013 01:53:09 - /Index/floatingBrad.jpg
+12/28/2013 01:55:51 - /
+12/28/2013 01:55:51 - Index.php, not logged in - SESSION['loggedIn'] contents: 
+12/28/2013 01:55:51 - /bootstrap/bootstrap.css
+12/28/2013 01:55:51 - /Index/index.css
+12/28/2013 01:55:51 - /Common/ajaxRequest.js
+12/28/2013 01:55:51 - /Index/index.js
+12/28/2013 01:55:51 - /Index/floatingBrad.jpg
+12/28/2013 01:55:51 - /Index/RetrieveComments.php
+12/28/2013 01:55:51 - Retrieve Comments
+12/28/2013 01:59:06 - /
+12/28/2013 01:59:06 - Index.php, not logged in - SESSION['loggedIn'] contents: 
+12/28/2013 01:59:06 - /bootstrap/bootstrap.css
+12/28/2013 01:59:06 - /Index/index.css
+12/28/2013 01:59:06 - /Index/index.js
+12/28/2013 01:59:06 - /Common/ajaxRequest.js
+12/28/2013 01:59:06 - /Index/floatingBrad.jpg
+12/28/2013 01:59:06 - /Index/RetrieveComments.php
+12/28/2013 01:59:06 - Retrieve Comments
+12/28/2013 02:07:00 - /Login/
+12/28/2013 02:07:04 - /bootstrap/bootstrap.css
+12/28/2013 02:07:04 - /Login/login.css
+12/28/2013 02:07:04 - /Common/ajaxRequest.js
+12/28/2013 02:07:04 - /Common/jquery.js
+12/28/2013 02:07:04 - /Common/backButton.js
+12/28/2013 02:07:04 - /Login/login.js
+12/28/2013 02:07:11 - /Login/login.php
+12/28/2013 02:07:12 - Login.php - login success.  SESSION['loggedIn'] before:
+
+12/28/2013 02:07:12 - Login.php - login success.  SESSION['loggedIn'] after:
+1
+12/28/2013 02:07:14 - /Login/login.php
+12/28/2013 02:07:14 - Login.php - login fail due to nonexistent name: bfa
+12/28/2013 02:07:20 - /Login/login.php
+12/28/2013 02:07:25 - /Login/login.php
+12/28/2013 02:10:20 - /
+12/28/2013 02:10:20 - Index.php, logged in - SESSION['loggedIn'] contents: 1
+12/28/2013 02:10:20 - /bootstrap/bootstrap.css
+12/28/2013 02:10:20 - /Index/index.css
+12/28/2013 02:10:20 - /Index/index.js
+12/28/2013 02:10:20 - /Common/ajaxRequest.js
+12/28/2013 02:10:20 - /Index/floatingBrad.jpg
+12/28/2013 02:10:20 - /Index/RetrieveComments.php
+12/28/2013 02:10:20 - Retrieve Comments
+12/28/2013 02:10:23 - /?logout=1
+12/28/2013 02:10:23 - Index.php, not logged in - SESSION['loggedIn'] contents: 
+12/28/2013 02:10:23 - /Index/index.js
+12/28/2013 02:10:23 - /Index/index.css
+12/28/2013 02:10:23 - /bootstrap/bootstrap.css
+12/28/2013 02:10:23 - /Common/ajaxRequest.js
+12/28/2013 02:10:23 - /Index/RetrieveComments.php
+12/28/2013 02:10:23 - Retrieve Comments
+12/28/2013 02:10:23 - /Index/floatingBrad.jpg
+12/28/2013 02:10:24 - /Register/
+12/28/2013 02:10:24 - /Register/register.css
+12/28/2013 02:10:24 - /bootstrap/bootstrap.css
+12/28/2013 02:10:24 - /Common/jquery.js
+12/28/2013 02:10:25 - /Common/backButton.js
+12/28/2013 02:10:25 - /Common/ajaxRequest.js
+12/28/2013 02:10:25 - /Register/register.js
+12/28/2013 02:10:36 - /Register/register.php
+12/28/2013 02:10:36 - Mysql class - funcAry: [0]:isssi; [1]:8; [2]:testbf; [3]:$2y$10$aUqawIsjfzPzjPzLo5VnR.aygQ.rcfska8ckxs2aarwIjxBMgOkbS; [4]:placeHolder@fake.com; [5]:0; 
+12/28/2013 02:10:36 - Mysql class - affected rows: 1
+12/28/2013 02:25:25 - /
+12/28/2013 02:25:25 - Index.php, not logged in - SESSION['loggedIn'] contents: 
+12/28/2013 02:25:25 - /bootstrap/bootstrap.css
+12/28/2013 02:25:25 - /Common/ajaxRequest.js
+12/28/2013 02:25:25 - /Index/index.css
+12/28/2013 02:25:25 - /Index/index.js
+12/28/2013 02:25:25 - /Index/floatingBrad.jpg
+12/28/2013 02:25:25 - /Index/RetrieveComments.php
+12/28/2013 02:25:25 - Retrieve Comments
+12/28/2013 02:25:29 - /Login/
+12/28/2013 02:25:29 - /bootstrap/bootstrap.css
+12/28/2013 02:25:29 - /Login/login.css
+12/28/2013 02:25:29 - /Login/login.js
+12/28/2013 02:25:29 - /Common/jquery.js
+12/28/2013 02:25:29 - /Common/backButton.js
+12/28/2013 02:25:29 - /Common/ajaxRequest.js
+12/28/2013 02:25:50 - /
+12/28/2013 02:25:50 - Index.php, not logged in - SESSION['loggedIn'] contents: 
+12/28/2013 02:25:50 - /Index/index.css
+12/28/2013 02:25:50 - /bootstrap/bootstrap.css
+12/28/2013 02:25:50 - /Index/index.js
+12/28/2013 02:25:50 - /Common/ajaxRequest.js
+12/28/2013 02:25:50 - /Index/floatingBrad.jpg
+12/28/2013 02:25:50 - /Index/RetrieveComments.php
+12/28/2013 02:25:50 - Retrieve Comments
+12/28/2013 02:25:53 - /
+12/28/2013 02:25:53 - Index.php, not logged in - SESSION['loggedIn'] contents: 
+12/28/2013 02:25:53 - /Index/index.js
+12/28/2013 02:25:53 - /Index/index.css
+12/28/2013 02:25:53 - /bootstrap/bootstrap.css
+12/28/2013 02:25:53 - /Common/ajaxRequest.js
+12/28/2013 02:25:53 - /Index/floatingBrad.jpg
+12/28/2013 02:25:53 - /Index/RetrieveComments.php
+12/28/2013 02:25:53 - Retrieve Comments
+12/28/2013 02:26:11 - /
+12/28/2013 02:26:11 - Index.php, not logged in - SESSION['loggedIn'] contents: 
+12/28/2013 02:26:11 - /bootstrap/bootstrap.css
+12/28/2013 02:26:11 - /Index/index.js
+12/28/2013 02:26:11 - /Common/ajaxRequest.js
+12/28/2013 02:26:11 - /Index/index.css
+12/28/2013 02:26:11 - /Index/floatingBrad.jpg
+12/28/2013 02:26:11 - /Index/RetrieveComments.php
+12/28/2013 02:26:11 - Retrieve Comments
+12/28/2013 02:51:03 - /
+12/28/2013 02:51:03 - Index.php, not logged in - SESSION['loggedIn'] contents: 
+12/28/2013 02:51:03 - /bootstrap/bootstrap.css
+12/28/2013 02:51:03 - /Index/index.css
+12/28/2013 02:51:03 - /Common/ajaxRequest.js
+12/28/2013 02:51:03 - /Index/index.js
+12/28/2013 02:51:03 - /Index/floatingBrad.jpg
+12/28/2013 02:51:03 - /Index/RetrieveComments.php
+12/28/2013 02:51:03 - Retrieve Comments
+12/28/2013 02:53:57 - /
+12/28/2013 02:53:57 - Index.php, not logged in - SESSION['loggedIn'] contents: 
+12/28/2013 02:53:57 - /bootstrap/bootstrap.css
+12/28/2013 02:53:57 - /Index/index.js
+12/28/2013 02:53:57 - /Index/index.css
+12/28/2013 02:53:57 - /Common/ajaxRequest.js
+12/28/2013 02:53:57 - /Index/floatingBrad.jpg
+12/28/2013 02:53:57 - /Index/RetrieveComments.php
+12/28/2013 02:53:57 - Retrieve Comments
+12/28/2013 02:54:03 - /
+12/28/2013 02:54:03 - Index.php, not logged in - SESSION['loggedIn'] contents: 
+12/28/2013 02:54:03 - /bootstrap/bootstrap.css
+12/28/2013 02:54:03 - /Index/index.css
+12/28/2013 02:54:03 - /Common/ajaxRequest.js
+12/28/2013 02:54:03 - /Index/index.js
+12/28/2013 02:54:03 - /Index/floatingBrad.jpg
+12/28/2013 02:54:03 - /Index/RetrieveComments.php
+12/28/2013 02:54:03 - Retrieve Comments
+12/28/2013 02:57:09 - /
+12/28/2013 02:57:09 - Index.php, not logged in - SESSION['loggedIn'] contents: 
+12/28/2013 02:57:09 - /bootstrap/bootstrap.css
+12/28/2013 02:57:09 - /Common/ajaxRequest.js
+12/28/2013 02:57:09 - /Index/index.css
+12/28/2013 02:57:09 - /Index/index.js
+12/28/2013 02:57:09 - /Index/floatingBrad.jpg
+12/28/2013 02:57:09 - /Index/RetrieveComments.php
+12/28/2013 02:57:09 - Retrieve Comments
+12/28/2013 02:59:44 - /
+12/28/2013 02:59:44 - Index.php, not logged in - SESSION['loggedIn'] contents: 
+12/28/2013 02:59:44 - /bootstrap/bootstrap.css
+12/28/2013 02:59:44 - /Index/index.js
+12/28/2013 02:59:44 - /Common/ajaxRequest.js
+12/28/2013 02:59:44 - /Index/index.css
+12/28/2013 02:59:44 - /Index/floatingBrad.jpg
+12/28/2013 02:59:45 - /Index/RetrieveComments.php
+12/28/2013 02:59:45 - Retrieve Comments
+12/28/2013 02:59:47 - /
+12/28/2013 02:59:47 - Index.php, not logged in - SESSION['loggedIn'] contents: 
+12/28/2013 02:59:47 - /Index/index.css
+12/28/2013 02:59:47 - /bootstrap/bootstrap.css
+12/28/2013 02:59:47 - /Index/index.js
+12/28/2013 02:59:47 - /Common/ajaxRequest.js
+12/28/2013 02:59:47 - /Index/floatingBrad.jpg
+12/28/2013 02:59:47 - /Index/RetrieveComments.php
+12/28/2013 02:59:47 - Retrieve Comments
+12/28/2013 03:01:01 - /
+12/28/2013 03:01:01 - Index.php, not logged in - SESSION['loggedIn'] contents: 
+12/28/2013 03:01:01 - /bootstrap/bootstrap.css
+12/28/2013 03:01:01 - /Index/index.css
+12/28/2013 03:01:01 - /Common/ajaxRequest.js
+12/28/2013 03:01:01 - /Index/index.js
+12/28/2013 03:01:02 - /bootstrap/bootstrap.css
+12/28/2013 03:01:02 - /Index/index.css
+12/28/2013 03:01:02 - /Common/ajaxRequest.js
+12/28/2013 03:01:02 - /Index/floatingBrad.jpg
+12/28/2013 03:01:02 - /Index/index.js
+12/28/2013 03:01:02 - /Index/RetrieveComments.php
+12/28/2013 03:01:02 - Retrieve Comments
+12/28/2013 03:01:13 - /Login/
+12/28/2013 03:01:13 - /bootstrap/bootstrap.css
+12/28/2013 03:01:13 - /Common/ajaxRequest.js
+12/28/2013 03:01:13 - /Login/login.js
+12/28/2013 03:01:13 - /bootstrap/bootstrap.css
+12/28/2013 03:01:13 - /Common/jquery.js
+12/28/2013 03:01:14 - /Login/login.css
+12/28/2013 03:01:14 - /Common/backButton.js
+12/28/2013 03:01:42 - /
+12/28/2013 03:01:42 - Index.php, not logged in - SESSION['loggedIn'] contents: 
+12/28/2013 03:01:42 - /bootstrap/bootstrap.css
+12/28/2013 03:01:42 - /Common/ajaxRequest.js
+12/28/2013 03:01:42 - /Index/index.js
+12/28/2013 03:01:42 - /Index/floatingBrad.jpg
+12/28/2013 03:01:42 - /Index/index.css
+12/28/2013 03:01:42 - /Index/RetrieveComments.php
+12/28/2013 03:01:42 - Retrieve Comments
+12/28/2013 03:02:01 - /
+12/28/2013 03:02:01 - Index.php, not logged in - SESSION['loggedIn'] contents: 
+12/28/2013 03:02:01 - /bootstrap/bootstrap.css
+12/28/2013 03:02:02 - /Index/index.css
+12/28/2013 03:02:02 - /Common/ajaxRequest.js
+12/28/2013 03:02:02 - /Index/index.js
+12/28/2013 03:02:02 - /Index/floatingBrad.jpg
+12/28/2013 03:02:02 - /Index/RetrieveComments.php
+12/28/2013 03:02:02 - Retrieve Comments
+12/28/2013 03:05:52 - /
+12/28/2013 03:05:52 - Index.php, not logged in - SESSION['loggedIn'] contents: 
+12/28/2013 03:05:52 - /bootstrap/bootstrap.css
+12/28/2013 03:05:53 - /Common/ajaxRequest.js
+12/28/2013 03:05:53 - /Index/index.css
+12/28/2013 03:05:53 - /Index/index.js
+12/28/2013 03:05:53 - /Index/floatingBrad.jpg
+12/28/2013 03:05:53 - /Index/RetrieveComments.php
+12/28/2013 03:05:53 - Retrieve Comments
+12/28/2013 03:33:15 - /
+12/28/2013 03:33:15 - Index.php, not logged in - SESSION['loggedIn'] contents: 
+12/28/2013 03:33:15 - /bootstrap/bootstrap.css
+12/28/2013 03:33:15 - /Index/index.js
+12/28/2013 03:33:15 - /Index/index.css
+12/28/2013 03:33:15 - /Common/ajaxRequest.js
+12/28/2013 03:33:15 - /Index/floatingBrad.jpg
+12/28/2013 03:33:15 - /Index/RetrieveComments.php
+12/28/2013 03:33:15 - Retrieve Comments
+12/28/2013 03:46:07 - /
+12/28/2013 03:46:07 - Index.php, not logged in - SESSION['loggedIn'] contents: 
+12/28/2013 03:46:07 - /bootstrap/bootstrap.css
+12/28/2013 03:46:07 - /Index/index.css
+12/28/2013 03:46:08 - /Common/ajaxRequest.js
+12/28/2013 03:46:08 - /Index/index.js
+12/28/2013 03:46:09 - /Index/floatingBrad.jpg
+12/28/2013 03:46:09 - /Index/RetrieveComments.php
+12/28/2013 03:46:09 - Retrieve Comments
+12/28/2013 03:46:10 - /favicon.ico
+12/28/2013 03:46:10 - Index.php, not logged in - SESSION['loggedIn'] contents: 
+12/28/2013 03:46:21 - /Login/
+12/28/2013 03:46:22 - /bootstrap/bootstrap.css
+12/28/2013 03:46:22 - /Common/ajaxRequest.js
+12/28/2013 03:46:22 - /Login/login.js
+12/28/2013 03:46:22 - /Common/backButton.js
+12/28/2013 03:46:22 - /Common/jquery.js
+12/28/2013 03:46:23 - /Login/login.css
+12/28/2013 03:46:33 - /favicon.ico
+12/28/2013 03:46:33 - Index.php, not logged in - SESSION['loggedIn'] contents: 
+12/28/2013 03:46:40 - /
+12/28/2013 03:46:40 - Index.php, not logged in - SESSION['loggedIn'] contents: 
+12/28/2013 03:46:40 - /bootstrap/bootstrap.css
+12/28/2013 03:46:41 - /Index/index.js
+12/28/2013 03:46:41 - /Index/index.css
+12/28/2013 03:46:41 - /Common/ajaxRequest.js
+12/28/2013 03:46:41 - /Index/floatingBrad.jpg
+12/28/2013 03:46:41 - /Index/RetrieveComments.php
+12/28/2013 03:46:41 - Retrieve Comments
+12/28/2013 03:46:42 - /favicon.ico
+12/28/2013 03:46:42 - Index.php, not logged in - SESSION['loggedIn'] contents: 
+12/28/2013 03:56:56 - /
+12/28/2013 03:56:56 - Index.php, not logged in - SESSION['loggedIn'] contents: 
+12/28/2013 03:56:56 - /bootstrap/bootstrap.css
+12/28/2013 03:56:56 - /Common/ajaxRequest.js
+12/28/2013 03:56:56 - /Index/index.js
+12/28/2013 03:56:56 - /Index/index.css
+12/28/2013 03:56:56 - /Index/floatingBrad.jpg
+12/28/2013 03:56:57 - /Index/RetrieveComments.php
+12/28/2013 03:56:57 - Retrieve Comments
+12/28/2013 03:56:57 - /favicon.ico
+12/28/2013 03:56:57 - Index.php, not logged in - SESSION['loggedIn'] contents: 
+12/28/2013 03:57:09 - /Register/
+12/28/2013 03:57:09 - /bootstrap/bootstrap.css
+12/28/2013 03:57:09 - /Common/ajaxRequest.js
+12/28/2013 03:57:09 - /Register/register.js
+12/28/2013 03:57:10 - /Register/register.css
+12/28/2013 03:57:10 - /Common/jquery.js
+12/28/2013 03:57:10 - /Common/backButton.js
+12/28/2013 04:15:56 - /
+12/28/2013 04:15:56 - Index.php, not logged in - SESSION['loggedIn'] contents: 
+12/28/2013 04:15:56 - /bootstrap/bootstrap.css
+12/28/2013 04:15:56 - /Index/index.css
+12/28/2013 04:15:56 - /Index/index.js
+12/28/2013 04:15:56 - /Common/ajaxRequest.js
+12/28/2013 04:15:57 - /Index/floatingBrad.jpg
+12/28/2013 04:15:58 - /Index/RetrieveComments.php
+12/28/2013 04:15:58 - Retrieve Comments
+12/28/2013 04:16:04 - /Uno/
+12/28/2013 04:16:05 - /Uno/uno.css
+12/28/2013 04:16:05 - /Uno/uno.js
+12/28/2013 04:16:08 - /Common/backButton.js
+12/28/2013 05:43:13 - /robots.txt
+12/28/2013 05:43:13 - Index.php, not logged in - SESSION['loggedIn'] contents: 
+12/28/2013 07:04:13 - /
+12/28/2013 07:04:13 - Index.php, not logged in - SESSION['loggedIn'] contents: 
+12/28/2013 07:46:58 - /Login/
+12/28/2013 07:46:59 - /bootstrap/bootstrap.css
+12/28/2013 07:47:00 - /Common/ajaxRequest.js
+12/28/2013 07:47:00 - /Login/login.js
+12/28/2013 07:47:00 - /Common/backButton.js
+12/28/2013 07:47:01 - /Login/login.css
+12/28/2013 07:47:01 - /Common/jquery.js
+12/28/2013 07:47:14 - /favicon.ico
+12/28/2013 07:47:14 - Index.php, not logged in - SESSION['loggedIn'] contents: 
+12/28/2013 07:47:35 - /Register/
+12/28/2013 07:47:35 - /bootstrap/bootstrap.css
+12/28/2013 07:47:35 - /Common/ajaxRequest.js
+12/28/2013 07:47:35 - /Register/register.js
+12/28/2013 07:47:35 - /Register/register.css
+12/28/2013 07:47:35 - /Common/jquery.js
+12/28/2013 07:47:36 - /Common/backButton.js
+12/28/2013 07:47:47 - /Resume/
+12/28/2013 07:47:47 - /Resume/bootstrap/bootstrap.css
+12/28/2013 07:47:47 - /Resume/resume.css
+12/28/2013 07:47:47 - /Common/backButton.js
+12/28/2013 07:48:21 - /
+12/28/2013 07:48:21 - Index.php, not logged in - SESSION['loggedIn'] contents: 
+12/28/2013 07:48:21 - /bootstrap/bootstrap.css
+12/28/2013 07:48:22 - /Index/index.css
+12/28/2013 07:48:22 - /Index/index.js
+12/28/2013 07:48:22 - /Common/ajaxRequest.js
+12/28/2013 07:48:22 - /Index/floatingBrad.jpg
+12/28/2013 07:48:22 - /Index/RetrieveComments.php
+12/28/2013 07:48:22 - Retrieve Comments
+12/28/2013 07:48:23 - /favicon.ico
+12/28/2013 07:48:23 - Index.php, not logged in - SESSION['loggedIn'] contents: 
+12/28/2013 07:48:24 - /favicon.ico
+12/28/2013 07:48:24 - Index.php, not logged in - SESSION['loggedIn'] contents: 
+12/28/2013 07:48:25 - /favicon.ico
+12/28/2013 07:48:25 - Index.php, not logged in - SESSION['loggedIn'] contents: 
+12/28/2013 07:48:45 - /Login/
+12/28/2013 07:48:45 - /bootstrap/bootstrap.css
+12/28/2013 07:48:46 - /Login/login.css
+12/28/2013 07:48:46 - /Common/jquery.js
+12/28/2013 07:48:47 - /Common/backButton.js
+12/28/2013 07:48:47 - /Common/ajaxRequest.js
+12/28/2013 07:48:47 - /Login/login.js
+12/28/2013 07:48:50 - /favicon.ico
+12/28/2013 07:48:50 - Index.php, not logged in - SESSION['loggedIn'] contents: 
+12/28/2013 07:49:04 - /
+12/28/2013 07:49:04 - Index.php, not logged in - SESSION['loggedIn'] contents: 
+12/28/2013 07:49:04 - /Index/RetrieveComments.php
+12/28/2013 07:49:04 - Retrieve Comments
+12/28/2013 07:49:05 - /favicon.ico
+12/28/2013 07:49:05 - Index.php, not logged in - SESSION['loggedIn'] contents: 
+12/28/2013 07:49:05 - /favicon.ico
+12/28/2013 07:49:05 - Index.php, not logged in - SESSION['loggedIn'] contents: 
+12/28/2013 07:49:10 - /Login/
+12/28/2013 07:49:10 - /bootstrap/bootstrap.css
+12/28/2013 07:49:11 - /Login/login.css
+12/28/2013 07:49:11 - /Common/jquery.js
+12/28/2013 07:49:12 - /Common/backButton.js
+12/28/2013 07:49:12 - /Common/ajaxRequest.js
+12/28/2013 07:49:12 - /Login/login.js
+12/28/2013 07:49:14 - /favicon.ico
+12/28/2013 07:49:14 - Index.php, not logged in - SESSION['loggedIn'] contents: 
+12/28/2013 07:49:29 - /
+12/28/2013 07:49:29 - Index.php, not logged in - SESSION['loggedIn'] contents: 
+12/28/2013 07:49:30 - /Index/RetrieveComments.php
+12/28/2013 07:49:30 - Retrieve Comments
+12/28/2013 07:49:31 - /favicon.ico
+12/28/2013 07:49:31 - Index.php, not logged in - SESSION['loggedIn'] contents: 
+12/28/2013 07:49:32 - /favicon.ico
+12/28/2013 07:49:32 - Index.php, not logged in - SESSION['loggedIn'] contents: 
+12/28/2013 07:49:40 - /Login/
+12/28/2013 07:49:40 - /bootstrap/bootstrap.css
+12/28/2013 07:49:42 - /Login/login.css
+12/28/2013 07:49:42 - /Common/jquery.js
+12/28/2013 07:49:44 - /Common/backButton.js
+12/28/2013 07:49:44 - /Common/ajaxRequest.js
+12/28/2013 07:49:45 - /Login/login.js
+12/28/2013 07:49:47 - /favicon.ico
+12/28/2013 07:49:47 - Index.php, not logged in - SESSION['loggedIn'] contents: 
+12/28/2013 09:36:50 - /robots.txt
+12/28/2013 09:36:50 - Index.php, not logged in - SESSION['loggedIn'] contents: 
+12/28/2013 09:38:11 - /
+12/28/2013 09:38:11 - Index.php, not logged in - SESSION['loggedIn'] contents: 
+12/28/2013 10:00:49 - /robots.txt
+12/28/2013 10:00:49 - Index.php, not logged in - SESSION['loggedIn'] contents: 
+12/28/2013 10:00:49 - /Thesaurify/
+12/28/2013 10:09:27 - /Thesaurify/thesaurify.js
+12/28/2013 10:09:28 - /Thesaurify/thesaurify.css
+12/28/2013 10:18:40 - /robots.txt
+12/28/2013 10:18:40 - Index.php, not logged in - SESSION['loggedIn'] contents: 

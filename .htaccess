@@ -1,7 +1,22 @@
 RewriteEngine On
 
+RewriteBase /
+
+RewriteCond %{HTTP_HOST} ^bradleyfrye\.com
+RewriteRule ^(.*)$ http://www.bradleyfrye.com$1 [L] 
+
 RewriteCond $(SERVER_FILENAME) !-f
 RewriteCond $(SERVER_FILENAME) !-d
 
-RewriteRule ^(.+)$ index.php
+RewriteRule ^(.*)$ index.php
 Options -Indexes
+
+AddType application/vnd.ms-fontobject    .eot
+AddType application/x-font-opentype      .otf
+AddType image/svg+xml                    .svg
+AddType application/x-font-ttf           .ttf
+AddType application/font-woff            .woff
+
+<FilesMatch ".(ttf|otf|eot|woff)$">
+    Header set Access-Control-Allow-Origin "*"
+</FilesMatch>

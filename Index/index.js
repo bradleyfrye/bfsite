@@ -126,71 +126,10 @@ var Comments = function(){
 comments = new Comments(); // make global comments object
 
 var initForm = function(){
-    document.getElementById("commentSubmit").onclick = function(){makeRequest('/Index/Comment.php');};
-    var httpRequest;
-
-    function makeRequest(url){
-        var $name = $("#commentName");
-        var $comment = $("#commentText");
-        var $ct = $("#ct");
-
-        var name = $name.val();
-        var comment = $comment.val();
-        var ct = $ct.html();
-        
-        //Validate input
-        if(!valName(name)){return;}
-        if(!valComment(comment)){return;}
-        if(!valCount(ct)){return;}
-        
-        /*
-            TODO Add session var checking login stuff here later TODO
-        */
-        
-        // make values for timestamp
-        var date = new Date();
-        var timestamp = formatTimestamp(date);
-
-        if (window.XMLHttpRequest) {
-            httpRequest = new XMLHttpRequest();
-        }
-        else if(window.ActiveXObject){
-            try {
-                httpRequest = new ActiveXObject("Msxml2.XMLHTTP");
-            }
-            catch (e) {
-                try {
-                    httpRequest = new ActiveXObject("Microsoft.XMLHTTP");
-                }
-                catch(e){}
-            }
-        }
-
-        if(!httpRequest) {
-            alert("Could not create XMLHTTP instance");
-            return false;
-        }
-        // pass callback function, function executed when server finishes
-        httpRequest.onreadystatechange = serverResponse;
-
-        // type of request! POST sends some data (see send method), GET (and POST) gets stuff back
-        httpRequest.open("POST",url);
-
-        // maybe required for POST, though I haven't had problems w/o it
-        httpRequest.setRequestHeader('Content-Type','application/x-www-form-urlencoded');
-
-        // send data in this form for POST's, retrieve data in PHP via $_POST[index]=value
-        var id = parseInt(ct) + 1;
-
-        httpRequest.send("name="+name+"&comment="+comment+"&id="+id+"&timestamp="+timestamp);
-
-        // assume comment is added - if response detects failure, it will remove this comment
-        comments.addComment(id,comment,"",name,1,timestamp);
-    };
     function serverResponse(){
         // Alert with error message if POST failed, otherwise assume comment added to db
         // and post comment to the DOM 
-        if(httpRequest.readyState === 4){
+        if(typeof(httpRequest)!=='undefined' && httpRequest.readyState === 4){
             if(httpRequest.status === 200){
                 var responseText = httpRequest.responseText;
                 if(responseText === "SUCCESS"){
@@ -217,6 +156,39 @@ var initForm = function(){
             // Still waiting for server - not necessarily a problem
         }
     };
+    document.getElementById("commentSubmit").onclick = function(){makeRequest('/Index/Comment.php');};
+    var httpRequest;
+
+    function makeRequest(url){
+        var $name = $("#commentName");
+        var $comment = $("#commentText");
+        var $ct = $("#ct");
+
+        var name = $name.val();
+        var comment = $comment.val();
+        var ct = $ct.html();
+        
+        //Validate input
+        if(!valName(name)){return;}
+        if(!valComment(comment)){return;}
+        if(!valCount(ct)){return;}
+        
+        /*
+            TODO Add session var checking login stuff here later TODO
+        */
+        
+        // make values for timestamp
+        var date = new Date();
+        var timestamp = formatTimestamp(date);
+        var id = parseInt(ct) + 1;
+        var request = "&name="+name+"&comment="+comment+"&id="+id+"&timestamp="+timestamp;
+
+        // Use ajaxRequest (in other js file) to send POST to server
+        httpRequest = ajaxRequest(url,"POST",serverResponse,request);
+
+        // assume comment is added - if response detects failure, it will remove this comment
+        comments.addComment(id,comment,"",name,1,timestamp);
+    };
 };
 
 var valName = function(name){
@@ -228,7 +200,6 @@ var valName = function(name){
         alert("Please enter a shorter name!");
         return false;
     }
-
     else{return true;}
 };
 
@@ -241,7 +212,6 @@ var valComment = function(comment){
         alert("Sorry, but your comment is too long.  Please write a comment that is less than 2000 characters.");
         return false;
     }
-
     else{return true;}
 };
 
@@ -261,41 +231,8 @@ var formatTimestamp = function(date){
     return d.substr(0,19);
 };
 
-var getComments = function(){
-    // Send off GET request to server to retrieve comments
-    
-    var url = "/Index/RetrieveComments.php";
-    if (window.XMLHttpRequest) {
-            httpRequest = new XMLHttpRequest();
-        }
-        else if(window.ActiveXObject){
-            try {
-                httpRequest = new ActiveXObject("Msxml2.XMLHTTP");
-            }
-            catch (e) {
-                try {
-                    httpRequest = new ActiveXObject("Microsoft.XMLHTTP");
-                }
-                catch(e){}
-            }
-        }
-
-        if(!httpRequest) {
-            alert("Could not create XMLHTTP instance");
-            return false;
-        }
-        // pass callback function, function executed when server finishes
-        httpRequest.onreadystatechange = getCommentResponse;
-
-        // type of request! POST sends some data (see send method), GET (and POST) gets stuff back
-        httpRequest.open("GET",url);
-        
-        httpRequest.send();
-};
-
 var getCommentResponse = function(){
     // Response in this case will be bunch of comments encoded in text.
-    
     if(httpRequest.readyState === 4){
         if(httpRequest.status === 200){
             var responseText = httpRequest.responseText;
@@ -317,6 +254,14 @@ var getCommentResponse = function(){
         // Still waiting for server - not necessarily a problem
     }
 };
+
+var getComments = function(){
+    // Send off GET request to server to retrieve comments
+    var url = "/Index/RetrieveComments.php";
+    httpRequest = ajaxRequest(url,"GET",getCommentResponse,"");
+};
+
+
 
 var displayComments = function(){
     var count = comments.count;

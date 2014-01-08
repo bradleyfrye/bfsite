@@ -27,6 +27,10 @@
             if($rows = mysqli_fetch_array($result,MYSQLI_ASSOC)){
                 return $rows; // this method should only get 1 row, return first array
             }
+            else{
+                // Return -1 for an empty set
+                return -1;
+            }
         }
 
         function multiRowQuery($query){

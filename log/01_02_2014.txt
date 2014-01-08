@@ -1,0 +1,63 @@
+01/02/2014 12:07:46 - /
+01/02/2014 12:07:46 - Index.php, not logged in - SESSION['loggedIn'] contents: 
+01/02/2014 05:16:09 - /
+01/02/2014 05:16:09 - Index.php, not logged in - SESSION['loggedIn'] contents: 
+01/02/2014 07:23:06 - /robots.txt
+01/02/2014 07:23:06 - Index.php, not logged in - SESSION['loggedIn'] contents: 
+01/02/2014 07:23:59 - /
+01/02/2014 07:23:59 - Index.php, not logged in - SESSION['loggedIn'] contents: 
+01/02/2014 07:40:25 - /robots.txt
+01/02/2014 07:40:25 - Index.php, not logged in - SESSION['loggedIn'] contents: 
+01/02/2014 07:40:26 - /Contact/
+01/02/2014 08:27:36 - /
+01/02/2014 08:27:36 - Index.php, not logged in - SESSION['loggedIn'] contents: 
+01/02/2014 09:11:58 - /robots.txt
+01/02/2014 09:11:58 - Index.php, not logged in - SESSION['loggedIn'] contents: 
+01/02/2014 09:11:58 - /
+01/02/2014 09:11:58 - Index.php, not logged in - SESSION['loggedIn'] contents: 
+01/02/2014 09:11:59 - /Index/index.css
+01/02/2014 09:11:59 - /Index/index.js
+01/02/2014 09:11:59 - /bootstrap/bootstrap.css
+01/02/2014 09:12:00 - /Common/ajaxRequest.js
+01/02/2014 09:12:00 - /Index/RetrieveComments.php
+01/02/2014 09:12:00 - Retrieve Comments
+01/02/2014 09:12:01 - /Index/floatingBrad.jpg
+01/02/2014 10:24:47 - /
+01/02/2014 10:24:47 - Index.php, not logged in - SESSION['loggedIn'] contents: 
+01/02/2014 10:36:14 - /robots.txt
+01/02/2014 10:36:14 - Index.php, not logged in - SESSION['loggedIn'] contents: 
+01/02/2014 01:32:30 - /robots.txt
+01/02/2014 01:32:30 - Index.php, not logged in - SESSION['loggedIn'] contents: 
+01/02/2014 01:32:30 - /Thesaurify/
+01/02/2014 01:38:28 - /Common/backButton.js
+01/02/2014 01:38:29 - /Thesaurify/thesaurify.css
+01/02/2014 07:24:28 - /robots.txt
+01/02/2014 07:24:28 - Index.php, not logged in - SESSION['loggedIn'] contents: 
+01/02/2014 07:31:53 - /
+01/02/2014 07:31:53 - Index.php, not logged in - SESSION['loggedIn'] contents: 
+01/02/2014 09:13:53 - /cgi-bin/php
+01/02/2014 09:13:53 - Index.php, not logged in - SESSION['loggedIn'] contents: 
+01/02/2014 09:13:53 - /cgi-bin/php4
+01/02/2014 09:13:53 - Index.php, not logged in - SESSION['loggedIn'] contents: 
+01/02/2014 09:13:53 - /cgi-bin/php5
+01/02/2014 09:13:53 - Index.php, not logged in - SESSION['loggedIn'] contents: 
+01/02/2014 09:13:53 - /cgi-bin/php-cgi
+01/02/2014 09:13:53 - Index.php, not logged in - SESSION['loggedIn'] contents: 
+01/02/2014 09:13:53 - /cgi-bin/php.cgi
+01/02/2014 09:13:53 - Index.php, not logged in - SESSION['loggedIn'] contents: 
+01/02/2014 10:15:58 - /Thesaurify/
+01/02/2014 10:15:58 - /Thesaurify/thesaurify.css
+01/02/2014 10:15:58 - /Common/backButton.js
+01/02/2014 10:15:58 - /Thesaurify/thesaurify.js
+01/02/2014 10:15:58 - /Thesaurify/loading.gif
+01/02/2014 10:15:58 - /favicon.ico
+01/02/2014 10:15:58 - Index.php, not logged in - SESSION['loggedIn'] contents: 
+01/02/2014 10:16:00 - /
+01/02/2014 10:16:00 - Index.php, not logged in - SESSION['loggedIn'] contents: 
+01/02/2014 10:16:00 - /bootstrap/bootstrap.css
+01/02/2014 10:16:00 - /Common/ajaxRequest.js
+01/02/2014 10:16:00 - /Index/index.css
+01/02/2014 10:16:00 - /Index/index.js
+01/02/2014 10:16:00 - /Index/floatingBrad.jpg
+01/02/2014 10:16:00 - /Index/RetrieveComments.php
+01/02/2014 10:16:00 - Retrieve Comments

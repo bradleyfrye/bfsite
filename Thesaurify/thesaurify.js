@@ -175,7 +175,7 @@ var initConfig = function(){
 					html +="</select>";
 					
 					// add lock checkbox
-					html +="<div>&#x1f512;<input type='checkbox'"
+					html +="<div><i class='fa fa-lock'></i><input type='checkbox'"
 					if(Word.locked){html += " checked";}
 					html +="/></div>"; 
 					

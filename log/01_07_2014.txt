@@ -1,0 +1,1491 @@
+01/07/2014 01:20:32 - index.php - url: /robots.txt
+folder: robots.txt
+file: robots.txt
+type: txt
+path: 
+01/07/2014 01:20:32 - Index.php, not logged in - SESSION['loggedIn'] contents: 
+01/07/2014 01:20:32 - index.php - url: /
+folder: 
+file: .html
+type: html
+path: 
+01/07/2014 01:20:32 - Index.php, not logged in - SESSION['loggedIn'] contents: 
+01/07/2014 01:31:47 - index.php - url: /Common/ajaxRequest.js
+folder: Common
+file: ajaxRequest.js
+type: js
+path: Common
+01/07/2014 01:31:47 - Index - filename: ./Common/ajaxRequest.js
+01/07/2014 01:31:48 - index.php - url: /Index/index.css
+folder: Index
+file: index.css
+type: css
+path: Index
+01/07/2014 01:31:48 - Index - filename: ./Index/index.css
+01/07/2014 01:31:48 - index.php - url: /bootstrap/bootstrap.css
+folder: bootstrap
+file: bootstrap.css
+type: css
+path: bootstrap
+01/07/2014 01:31:48 - Index - filename: ./bootstrap/bootstrap.css
+01/07/2014 02:59:02 - index.php - url: /
+folder: 
+file: .html
+type: html
+path: 
+01/07/2014 02:59:02 - Index.php, not logged in - SESSION['loggedIn'] contents: 
+01/07/2014 02:59:02 - index.php - url: /bootstrap/bootstrap.css
+folder: bootstrap
+file: bootstrap.css
+type: css
+path: bootstrap
+01/07/2014 02:59:02 - Index - filename: ./bootstrap/bootstrap.css
+01/07/2014 02:59:02 - index.php - url: /Index/index.js
+folder: Index
+file: index.js
+type: js
+path: Index
+01/07/2014 02:59:02 - Index - filename: ./Index/index.js
+01/07/2014 02:59:02 - index.php - url: /Common/ajaxRequest.js
+folder: Common
+file: ajaxRequest.js
+type: js
+path: Common
+01/07/2014 02:59:02 - Index - filename: ./Common/ajaxRequest.js
+01/07/2014 02:59:02 - index.php - url: /Index/index.css
+folder: Index
+file: index.css
+type: css
+path: Index
+01/07/2014 02:59:02 - Index - filename: ./Index/index.css
+01/07/2014 02:59:02 - index.php - url: /Index/floatingBrad.jpg
+folder: Index
+file: floatingBrad.jpg
+type: jpg
+path: Index
+01/07/2014 02:59:02 - Index - filename: ./Index/floatingBrad.jpg
+01/07/2014 02:59:02 - index.php - url: /Index/RetrieveComments.php
+folder: Index
+file: RetrieveComments.php
+type: php
+path: Index
+01/07/2014 02:59:02 - Index - filename: ./Index/RetrieveComments.php
+01/07/2014 02:59:08 - index.php - url: /List/
+folder: List
+file: list.html
+type: html
+path: List
+01/07/2014 02:59:08 - Index - filename: ./List/list.html
+01/07/2014 02:59:08 - index.php - url: /bootstrap/bootstrap.css
+folder: bootstrap
+file: bootstrap.css
+type: css
+path: bootstrap
+01/07/2014 02:59:08 - Index - filename: ./bootstrap/bootstrap.css
+01/07/2014 02:59:08 - index.php - url: /List/list.js
+folder: List
+file: list.js
+type: js
+path: List
+01/07/2014 02:59:08 - Index - filename: ./List/list.js
+01/07/2014 02:59:08 - index.php - url: /List/list.css
+folder: List
+file: list.css
+type: css
+path: List
+01/07/2014 02:59:08 - Index - filename: ./List/list.css
+01/07/2014 02:59:08 - index.php - url: /Common/jquery.js
+folder: Common
+file: jquery.js
+type: js
+path: Common
+01/07/2014 02:59:08 - Index - filename: ./Common/jquery.js
+01/07/2014 02:59:09 - index.php - url: /Common/backButton.js
+folder: Common
+file: backButton.js
+type: js
+path: Common
+01/07/2014 02:59:09 - Index - filename: ./Common/backButton.js
+01/07/2014 02:59:12 - index.php - url: /
+folder: 
+file: .html
+type: html
+path: 
+01/07/2014 02:59:12 - Index.php, not logged in - SESSION['loggedIn'] contents: 
+01/07/2014 02:59:12 - index.php - url: /Index/index.css
+folder: Index
+file: index.css
+type: css
+path: Index
+01/07/2014 02:59:12 - Index - filename: ./Index/index.css
+01/07/2014 02:59:12 - index.php - url: /Common/ajaxRequest.js
+folder: Common
+file: ajaxRequest.js
+type: js
+path: Common
+01/07/2014 02:59:12 - Index - filename: ./Common/ajaxRequest.js
+01/07/2014 02:59:12 - index.php - url: /Index/index.js
+folder: Index
+file: index.js
+type: js
+path: Index
+01/07/2014 02:59:12 - Index - filename: ./Index/index.js
+01/07/2014 02:59:12 - index.php - url: /bootstrap/bootstrap.css
+folder: bootstrap
+file: bootstrap.css
+type: css
+path: bootstrap
+01/07/2014 02:59:12 - Index - filename: ./bootstrap/bootstrap.css
+01/07/2014 02:59:12 - index.php - url: /Index/floatingBrad.jpg
+folder: Index
+file: floatingBrad.jpg
+type: jpg
+path: Index
+01/07/2014 02:59:12 - Index - filename: ./Index/floatingBrad.jpg
+01/07/2014 02:59:12 - index.php - url: /Index/RetrieveComments.php
+folder: Index
+file: RetrieveComments.php
+type: php
+path: Index
+01/07/2014 02:59:12 - Index - filename: ./Index/RetrieveComments.php
+01/07/2014 02:59:14 - index.php - url: /Login/
+folder: Login
+file: login.html
+type: html
+path: Login
+01/07/2014 02:59:14 - Index - filename: ./Login/login.html
+01/07/2014 02:59:14 - index.php - url: /bootstrap/bootstrap.css
+folder: bootstrap
+file: bootstrap.css
+type: css
+path: bootstrap
+01/07/2014 02:59:14 - Index - filename: ./bootstrap/bootstrap.css
+01/07/2014 02:59:14 - index.php - url: /Common/backButton.js
+folder: Common
+file: backButton.js
+type: js
+path: Common
+01/07/2014 02:59:14 - Index - filename: ./Common/backButton.js
+01/07/2014 02:59:14 - index.php - url: /Login/login.js
+folder: Login
+file: login.js
+type: js
+path: Login
+01/07/2014 02:59:14 - Index - filename: ./Login/login.js
+01/07/2014 02:59:14 - index.php - url: /Common/jquery.js
+folder: Common
+file: jquery.js
+type: js
+path: Common
+01/07/2014 02:59:14 - Index - filename: ./Common/jquery.js
+01/07/2014 02:59:14 - index.php - url: /Login/login.css
+folder: Login
+file: login.css
+type: css
+path: Login
+01/07/2014 02:59:14 - Index - filename: ./Login/login.css
+01/07/2014 02:59:14 - index.php - url: /Common/ajaxRequest.js
+folder: Common
+file: ajaxRequest.js
+type: js
+path: Common
+01/07/2014 02:59:14 - Index - filename: ./Common/ajaxRequest.js
+01/07/2014 02:59:17 - index.php - url: /Login/login.php
+folder: Login
+file: login.php
+type: php
+path: Login
+01/07/2014 02:59:17 - Index - filename: ./Login/login.php
+01/07/2014 02:59:21 - index.php - url: /
+folder: 
+file: .html
+type: html
+path: 
+01/07/2014 02:59:21 - Index.php, logged in - SESSION['loggedIn'] contents: 1
+01/07/2014 02:59:22 - index.php - url: /bootstrap/bootstrap.css
+folder: bootstrap
+file: bootstrap.css
+type: css
+path: bootstrap
+01/07/2014 02:59:22 - Index - filename: ./bootstrap/bootstrap.css
+01/07/2014 02:59:22 - index.php - url: /Index/index.css
+folder: Index
+file: index.css
+type: css
+path: Index
+01/07/2014 02:59:22 - Index - filename: ./Index/index.css
+01/07/2014 02:59:22 - index.php - url: /Index/index.js
+folder: Index
+file: index.js
+type: js
+path: Index
+01/07/2014 02:59:22 - Index - filename: ./Index/index.js
+01/07/2014 02:59:22 - index.php - url: /Common/ajaxRequest.js
+folder: Common
+file: ajaxRequest.js
+type: js
+path: Common
+01/07/2014 02:59:22 - Index - filename: ./Common/ajaxRequest.js
+01/07/2014 02:59:22 - index.php - url: /Index/floatingBrad.jpg
+folder: Index
+file: floatingBrad.jpg
+type: jpg
+path: Index
+01/07/2014 02:59:22 - Index - filename: ./Index/floatingBrad.jpg
+01/07/2014 02:59:22 - index.php - url: /Index/RetrieveComments.php
+folder: Index
+file: RetrieveComments.php
+type: php
+path: Index
+01/07/2014 02:59:22 - Index - filename: ./Index/RetrieveComments.php
+01/07/2014 02:59:25 - index.php - url: /List/
+folder: List
+file: list.html
+type: html
+path: List
+01/07/2014 02:59:25 - Index - filename: ./List/list.html
+01/07/2014 02:59:25 - List class - query: select ID from Houses where USER_ID=7;
+result: 1
+01/07/2014 02:59:25 - index.php - url: /bootstrap/bootstrap.css
+folder: bootstrap
+file: bootstrap.css
+type: css
+path: bootstrap
+01/07/2014 02:59:25 - Index - filename: ./bootstrap/bootstrap.css
+01/07/2014 02:59:25 - index.php - url: /Common/jquery.js
+folder: Common
+file: jquery.js
+type: js
+path: Common
+01/07/2014 02:59:25 - Index - filename: ./Common/jquery.js
+01/07/2014 02:59:25 - index.php - url: /Common/backButton.js
+folder: Common
+file: backButton.js
+type: js
+path: Common
+01/07/2014 02:59:25 - Index - filename: ./Common/backButton.js
+01/07/2014 02:59:25 - index.php - url: /List/list.css
+folder: List
+file: list.css
+type: css
+path: List
+01/07/2014 02:59:25 - Index - filename: ./List/list.css
+01/07/2014 02:59:25 - index.php - url: /List/list.js
+folder: List
+file: list.js
+type: js
+path: List
+01/07/2014 02:59:25 - Index - filename: ./List/list.js
+01/07/2014 02:59:28 - index.php - url: /
+folder: 
+file: .html
+type: html
+path: 
+01/07/2014 02:59:28 - Index.php, logged in - SESSION['loggedIn'] contents: 1
+01/07/2014 02:59:28 - index.php - url: /Index/index.css
+folder: Index
+file: index.css
+type: css
+path: Index
+01/07/2014 02:59:28 - Index - filename: ./Index/index.css
+01/07/2014 02:59:28 - index.php - url: /Index/index.js
+folder: Index
+file: index.js
+type: js
+path: Index
+01/07/2014 02:59:28 - Index - filename: ./Index/index.js
+01/07/2014 02:59:28 - index.php - url: /Common/ajaxRequest.js
+folder: Common
+file: ajaxRequest.js
+type: js
+path: Common
+01/07/2014 02:59:28 - Index - filename: ./Common/ajaxRequest.js
+01/07/2014 02:59:28 - index.php - url: /bootstrap/bootstrap.css
+folder: bootstrap
+file: bootstrap.css
+type: css
+path: bootstrap
+01/07/2014 02:59:28 - Index - filename: ./bootstrap/bootstrap.css
+01/07/2014 02:59:28 - index.php - url: /Index/floatingBrad.jpg
+folder: Index
+file: floatingBrad.jpg
+type: jpg
+path: Index
+01/07/2014 02:59:28 - Index - filename: ./Index/floatingBrad.jpg
+01/07/2014 02:59:28 - index.php - url: /Index/RetrieveComments.php
+folder: Index
+file: RetrieveComments.php
+type: php
+path: Index
+01/07/2014 02:59:28 - Index - filename: ./Index/RetrieveComments.php
+01/07/2014 02:59:48 - index.php - url: /
+folder: 
+file: .html
+type: html
+path: 
+01/07/2014 02:59:48 - Index.php, logged in - SESSION['loggedIn'] contents: 1
+01/07/2014 02:59:49 - index.php - url: /bootstrap/bootstrap.css
+folder: bootstrap
+file: bootstrap.css
+type: css
+path: bootstrap
+01/07/2014 02:59:49 - Index - filename: ./bootstrap/bootstrap.css
+01/07/2014 02:59:49 - index.php - url: /Index/index.css
+folder: Index
+file: index.css
+type: css
+path: Index
+01/07/2014 02:59:49 - Index - filename: ./Index/index.css
+01/07/2014 02:59:49 - index.php - url: /Common/ajaxRequest.js
+folder: Common
+file: ajaxRequest.js
+type: js
+path: Common
+01/07/2014 02:59:49 - Index - filename: ./Common/ajaxRequest.js
+01/07/2014 02:59:49 - index.php - url: /Index/index.js
+folder: Index
+file: index.js
+type: js
+path: Index
+01/07/2014 02:59:49 - Index - filename: ./Index/index.js
+01/07/2014 02:59:49 - index.php - url: /Index/RetrieveComments.php
+folder: Index
+file: RetrieveComments.php
+type: php
+path: Index
+01/07/2014 02:59:49 - Index - filename: ./Index/RetrieveComments.php
+01/07/2014 02:59:49 - index.php - url: /Index/floatingBrad.jpg
+folder: Index
+file: floatingBrad.jpg
+type: jpg
+path: Index
+01/07/2014 02:59:49 - Index - filename: ./Index/floatingBrad.jpg
+01/07/2014 02:59:50 - index.php - url: /?logout=1
+folder: ?logout=1
+file: ?logout=1
+type: 
+path: 
+01/07/2014 02:59:50 - Index - filename: ./Index/index.html
+01/07/2014 02:59:50 - Index.php, not logged in - SESSION['loggedIn'] contents: 
+01/07/2014 02:59:50 - index.php - url: /Index/index.css
+folder: Index
+file: index.css
+type: css
+path: Index
+01/07/2014 02:59:50 - Index - filename: ./Index/index.css
+01/07/2014 02:59:50 - index.php - url: /bootstrap/bootstrap.css
+folder: bootstrap
+file: bootstrap.css
+type: css
+path: bootstrap
+01/07/2014 02:59:50 - Index - filename: ./bootstrap/bootstrap.css
+01/07/2014 02:59:50 - index.php - url: /Common/ajaxRequest.js
+folder: Common
+file: ajaxRequest.js
+type: js
+path: Common
+01/07/2014 02:59:50 - Index - filename: ./Common/ajaxRequest.js
+01/07/2014 02:59:50 - index.php - url: /Index/index.js
+folder: Index
+file: index.js
+type: js
+path: Index
+01/07/2014 02:59:50 - Index - filename: ./Index/index.js
+01/07/2014 02:59:50 - index.php - url: /Index/floatingBrad.jpg
+folder: Index
+file: floatingBrad.jpg
+type: jpg
+path: Index
+01/07/2014 02:59:50 - Index - filename: ./Index/floatingBrad.jpg
+01/07/2014 02:59:50 - index.php - url: /Index/RetrieveComments.php
+folder: Index
+file: RetrieveComments.php
+type: php
+path: Index
+01/07/2014 02:59:50 - Index - filename: ./Index/RetrieveComments.php
+01/07/2014 02:59:55 - index.php - url: /List/
+folder: List
+file: list.html
+type: html
+path: List
+01/07/2014 02:59:55 - Index - filename: ./List/list.html
+01/07/2014 02:59:55 - index.php - url: /bootstrap/bootstrap.css
+folder: bootstrap
+file: bootstrap.css
+type: css
+path: bootstrap
+01/07/2014 02:59:55 - Index - filename: ./bootstrap/bootstrap.css
+01/07/2014 02:59:56 - index.php - url: /Common/backButton.js
+folder: Common
+file: backButton.js
+type: js
+path: Common
+01/07/2014 02:59:56 - Index - filename: ./Common/backButton.js
+01/07/2014 02:59:56 - index.php - url: /Common/jquery.js
+folder: Common
+file: jquery.js
+type: js
+path: Common
+01/07/2014 02:59:56 - Index - filename: ./Common/jquery.js
+01/07/2014 02:59:56 - index.php - url: /List/list.css
+folder: List
+file: list.css
+type: css
+path: List
+01/07/2014 02:59:56 - Index - filename: ./List/list.css
+01/07/2014 02:59:56 - index.php - url: /List/list.js
+folder: List
+file: list.js
+type: js
+path: List
+01/07/2014 02:59:56 - Index - filename: ./List/list.js
+01/07/2014 02:59:58 - index.php - url: /
+folder: 
+file: .html
+type: html
+path: 
+01/07/2014 02:59:58 - Index.php, not logged in - SESSION['loggedIn'] contents: 
+01/07/2014 02:59:58 - index.php - url: /Common/ajaxRequest.js
+folder: Common
+file: ajaxRequest.js
+type: js
+path: Common
+01/07/2014 02:59:58 - Index - filename: ./Common/ajaxRequest.js
+01/07/2014 02:59:58 - index.php - url: /Index/index.css
+folder: Index
+file: index.css
+type: css
+path: Index
+01/07/2014 02:59:58 - Index - filename: ./Index/index.css
+01/07/2014 02:59:58 - index.php - url: /Index/index.js
+folder: Index
+file: index.js
+type: js
+path: Index
+01/07/2014 02:59:58 - Index - filename: ./Index/index.js
+01/07/2014 02:59:58 - index.php - url: /bootstrap/bootstrap.css
+folder: bootstrap
+file: bootstrap.css
+type: css
+path: bootstrap
+01/07/2014 02:59:58 - Index - filename: ./bootstrap/bootstrap.css
+01/07/2014 02:59:58 - index.php - url: /Index/floatingBrad.jpg
+folder: Index
+file: floatingBrad.jpg
+type: jpg
+path: Index
+01/07/2014 02:59:58 - Index - filename: ./Index/floatingBrad.jpg
+01/07/2014 02:59:58 - index.php - url: /Index/RetrieveComments.php
+folder: Index
+file: RetrieveComments.php
+type: php
+path: Index
+01/07/2014 02:59:58 - Index - filename: ./Index/RetrieveComments.php
+01/07/2014 02:59:59 - index.php - url: /Login/
+folder: Login
+file: login.html
+type: html
+path: Login
+01/07/2014 02:59:59 - Index - filename: ./Login/login.html
+01/07/2014 03:00:00 - index.php - url: /Login/login.css
+folder: Login
+file: login.css
+type: css
+path: Login
+01/07/2014 03:00:00 - Index - filename: ./Login/login.css
+01/07/2014 03:00:00 - index.php - url: /bootstrap/bootstrap.css
+folder: bootstrap
+file: bootstrap.css
+type: css
+path: bootstrap
+01/07/2014 03:00:00 - Index - filename: ./bootstrap/bootstrap.css
+01/07/2014 03:00:00 - index.php - url: /Common/jquery.js
+folder: Common
+file: jquery.js
+type: js
+path: Common
+01/07/2014 03:00:00 - Index - filename: ./Common/jquery.js
+01/07/2014 03:00:00 - index.php - url: /Common/backButton.js
+folder: Common
+file: backButton.js
+type: js
+path: Common
+01/07/2014 03:00:00 - Index - filename: ./Common/backButton.js
+01/07/2014 03:00:00 - index.php - url: /Login/login.js
+folder: Login
+file: login.js
+type: js
+path: Login
+01/07/2014 03:00:00 - Index - filename: ./Login/login.js
+01/07/2014 03:00:00 - index.php - url: /Common/ajaxRequest.js
+folder: Common
+file: ajaxRequest.js
+type: js
+path: Common
+01/07/2014 03:00:00 - Index - filename: ./Common/ajaxRequest.js
+01/07/2014 03:00:03 - index.php - url: /Login/login.php
+folder: Login
+file: login.php
+type: php
+path: Login
+01/07/2014 03:00:03 - Index - filename: ./Login/login.php
+01/07/2014 03:00:05 - index.php - url: /
+folder: 
+file: .html
+type: html
+path: 
+01/07/2014 03:00:05 - Index.php, logged in - SESSION['loggedIn'] contents: 1
+01/07/2014 03:00:05 - index.php - url: /bootstrap/bootstrap.css
+folder: bootstrap
+file: bootstrap.css
+type: css
+path: bootstrap
+01/07/2014 03:00:05 - Index - filename: ./bootstrap/bootstrap.css
+01/07/2014 03:00:05 - index.php - url: /Index/index.css
+folder: Index
+file: index.css
+type: css
+path: Index
+01/07/2014 03:00:05 - Index - filename: ./Index/index.css
+01/07/2014 03:00:05 - index.php - url: /Index/index.js
+folder: Index
+file: index.js
+type: js
+path: Index
+01/07/2014 03:00:05 - Index - filename: ./Index/index.js
+01/07/2014 03:00:05 - index.php - url: /Common/ajaxRequest.js
+folder: Common
+file: ajaxRequest.js
+type: js
+path: Common
+01/07/2014 03:00:05 - Index - filename: ./Common/ajaxRequest.js
+01/07/2014 03:00:05 - index.php - url: /Index/floatingBrad.jpg
+folder: Index
+file: floatingBrad.jpg
+type: jpg
+path: Index
+01/07/2014 03:00:05 - Index - filename: ./Index/floatingBrad.jpg
+01/07/2014 03:00:05 - index.php - url: /Index/RetrieveComments.php
+folder: Index
+file: RetrieveComments.php
+type: php
+path: Index
+01/07/2014 03:00:05 - Index - filename: ./Index/RetrieveComments.php
+01/07/2014 03:00:09 - index.php - url: /List/
+folder: List
+file: list.html
+type: html
+path: List
+01/07/2014 03:00:09 - Index - filename: ./List/list.html
+01/07/2014 03:00:09 - List class - query: select ID from Houses where USER_ID=7;
+result: 1
+01/07/2014 03:00:09 - index.php - url: /bootstrap/bootstrap.css
+folder: bootstrap
+file: bootstrap.css
+type: css
+path: bootstrap
+01/07/2014 03:00:09 - Index - filename: ./bootstrap/bootstrap.css
+01/07/2014 03:00:09 - index.php - url: /Common/jquery.js
+folder: Common
+file: jquery.js
+type: js
+path: Common
+01/07/2014 03:00:09 - Index - filename: ./Common/jquery.js
+01/07/2014 03:00:09 - index.php - url: /Common/backButton.js
+folder: Common
+file: backButton.js
+type: js
+path: Common
+01/07/2014 03:00:09 - Index - filename: ./Common/backButton.js
+01/07/2014 03:00:09 - index.php - url: /List/list.css
+folder: List
+file: list.css
+type: css
+path: List
+01/07/2014 03:00:09 - Index - filename: ./List/list.css
+01/07/2014 03:00:09 - index.php - url: /List/list.js
+folder: List
+file: list.js
+type: js
+path: List
+01/07/2014 03:00:09 - Index - filename: ./List/list.js
+01/07/2014 03:00:15 - index.php - url: /List/houseCreate/
+folder: List
+file: housecreate.html
+type: html
+path: List/houseCreate
+01/07/2014 03:00:15 - Index - filename: ./List/houseCreate/housecreate.html
+01/07/2014 03:00:15 - List class error - placeholder not found: {welcome_placeholder}
+01/07/2014 03:00:15 - List class - query: select ID from Houses where USER_ID=7;
+result: 1
+01/07/2014 03:00:15 - List class error - placeholder not found: {houses_display_placeholder}
+01/07/2014 03:00:15 - List class error - placeholder not found: {houses_search_placeholder}
+01/07/2014 03:00:15 - List class error - placeholder not found: {new_house_placeholder}
+01/07/2014 03:00:15 - index.php - url: /bootstrap/bootstrap.css
+folder: bootstrap
+file: bootstrap.css
+type: css
+path: bootstrap
+01/07/2014 03:00:15 - Index - filename: ./bootstrap/bootstrap.css
+01/07/2014 03:00:15 - index.php - url: /Common/ajaxRequest.js
+folder: Common
+file: ajaxRequest.js
+type: js
+path: Common
+01/07/2014 03:00:15 - Index - filename: ./Common/ajaxRequest.js
+01/07/2014 03:00:15 - index.php - url: /List/houseCreate/housecreate.js
+folder: List
+file: housecreate.js
+type: js
+path: List/houseCreate
+01/07/2014 03:00:15 - Index - filename: ./List/houseCreate/housecreate.js
+01/07/2014 03:00:15 - index.php - url: /List/houseCreate/housecreate.css
+folder: List
+file: housecreate.css
+type: css
+path: List/houseCreate
+01/07/2014 03:00:15 - Index - filename: ./List/houseCreate/housecreate.css
+01/07/2014 03:00:15 - index.php - url: /Common/backButton.js
+folder: Common
+file: backButton.js
+type: js
+path: Common
+01/07/2014 03:00:15 - Index - filename: ./Common/backButton.js
+01/07/2014 03:00:15 - index.php - url: /Common/jquery.js
+folder: Common
+file: jquery.js
+type: js
+path: Common
+01/07/2014 03:00:15 - Index - filename: ./Common/jquery.js
+01/07/2014 03:19:36 - index.php - url: /List/houseCreate/
+folder: List
+file: housecreate.html
+type: html
+path: List/houseCreate
+01/07/2014 03:19:36 - Index - filename: ./List/houseCreate/housecreate.html
+01/07/2014 03:19:36 - List class error - placeholder not found: {welcome_placeholder}
+01/07/2014 03:19:36 - List class - query: select ID from Houses where USER_ID=7;
+result: 1
+01/07/2014 03:19:36 - List class error - placeholder not found: {houses_display_placeholder}
+01/07/2014 03:19:36 - List class error - placeholder not found: {houses_search_placeholder}
+01/07/2014 03:19:36 - List class error - placeholder not found: {new_house_placeholder}
+01/07/2014 03:19:36 - index.php - url: /bootstrap/bootstrap.css
+folder: bootstrap
+file: bootstrap.css
+type: css
+path: bootstrap
+01/07/2014 03:19:36 - Index - filename: ./bootstrap/bootstrap.css
+01/07/2014 03:19:36 - index.php - url: /List/houseCreate/housecreate.css
+folder: List
+file: housecreate.css
+type: css
+path: List/houseCreate
+01/07/2014 03:19:36 - Index - filename: ./List/houseCreate/housecreate.css
+01/07/2014 03:19:36 - index.php - url: /Common/jquery.js
+folder: Common
+file: jquery.js
+type: js
+path: Common
+01/07/2014 03:19:36 - Index - filename: ./Common/jquery.js
+01/07/2014 03:19:36 - index.php - url: /Common/backButton.js
+folder: Common
+file: backButton.js
+type: js
+path: Common
+01/07/2014 03:19:36 - Index - filename: ./Common/backButton.js
+01/07/2014 03:19:36 - index.php - url: /Common/ajaxRequest.js
+folder: Common
+file: ajaxRequest.js
+type: js
+path: Common
+01/07/2014 03:19:36 - Index - filename: ./Common/ajaxRequest.js
+01/07/2014 03:19:36 - index.php - url: /List/houseCreate/housecreate.js
+folder: List
+file: housecreate.js
+type: js
+path: List/houseCreate
+01/07/2014 03:19:36 - Index - filename: ./List/houseCreate/housecreate.js
+01/07/2014 03:20:28 - index.php - url: /List/houseCreate/
+folder: List
+file: housecreate.html
+type: html
+path: List/houseCreate
+01/07/2014 03:20:28 - Index - filename: ./List/houseCreate/housecreate.html
+01/07/2014 03:20:28 - List class error - placeholder not found: {welcome_placeholder}
+01/07/2014 03:20:28 - List class - query: select ID from Houses where USER_ID=7;
+result: 1
+01/07/2014 03:20:28 - List class error - placeholder not found: {houses_display_placeholder}
+01/07/2014 03:20:28 - List class error - placeholder not found: {houses_search_placeholder}
+01/07/2014 03:20:28 - List class error - placeholder not found: {new_house_placeholder}
+01/07/2014 03:20:28 - index.php - url: /bootstrap/bootstrap.css
+folder: bootstrap
+file: bootstrap.css
+type: css
+path: bootstrap
+01/07/2014 03:20:28 - Index - filename: ./bootstrap/bootstrap.css
+01/07/2014 03:20:29 - index.php - url: /List/houseCreate/housecreate.css
+folder: List
+file: housecreate.css
+type: css
+path: List/houseCreate
+01/07/2014 03:20:29 - Index - filename: ./List/houseCreate/housecreate.css
+01/07/2014 03:20:29 - index.php - url: /Common/jquery.js
+folder: Common
+file: jquery.js
+type: js
+path: Common
+01/07/2014 03:20:29 - Index - filename: ./Common/jquery.js
+01/07/2014 03:20:29 - index.php - url: /Common/backButton.js
+folder: Common
+file: backButton.js
+type: js
+path: Common
+01/07/2014 03:20:29 - Index - filename: ./Common/backButton.js
+01/07/2014 03:20:29 - index.php - url: /Common/ajaxRequest.js
+folder: Common
+file: ajaxRequest.js
+type: js
+path: Common
+01/07/2014 03:20:29 - Index - filename: ./Common/ajaxRequest.js
+01/07/2014 03:20:29 - index.php - url: /List/houseCreate/housecreate.js
+folder: List
+file: housecreate.js
+type: js
+path: List/houseCreate
+01/07/2014 03:20:29 - Index - filename: ./List/houseCreate/housecreate.js
+01/07/2014 03:20:57 - index.php - url: /List/houseCreate/
+folder: List
+file: housecreate.html
+type: html
+path: List/houseCreate
+01/07/2014 03:20:57 - Index - filename: ./List/houseCreate/housecreate.html
+01/07/2014 03:20:57 - List class error - placeholder not found: {welcome_placeholder}
+01/07/2014 03:20:57 - List class - query: select ID from Houses where USER_ID=7;
+result: 1
+01/07/2014 03:20:57 - List class error - placeholder not found: {houses_display_placeholder}
+01/07/2014 03:20:57 - List class error - placeholder not found: {houses_search_placeholder}
+01/07/2014 03:20:57 - List class error - placeholder not found: {new_house_placeholder}
+01/07/2014 03:20:57 - index.php - url: /bootstrap/bootstrap.css
+folder: bootstrap
+file: bootstrap.css
+type: css
+path: bootstrap
+01/07/2014 03:20:57 - Index - filename: ./bootstrap/bootstrap.css
+01/07/2014 03:20:57 - index.php - url: /Common/jquery.js
+folder: Common
+file: jquery.js
+type: js
+path: Common
+01/07/2014 03:20:57 - Index - filename: ./Common/jquery.js
+01/07/2014 03:20:57 - index.php - url: /Common/ajaxRequest.js
+folder: Common
+file: ajaxRequest.js
+type: js
+path: Common
+01/07/2014 03:20:57 - Index - filename: ./Common/ajaxRequest.js
+01/07/2014 03:20:57 - index.php - url: /List/houseCreate/housecreate.css
+folder: List
+file: housecreate.css
+type: css
+path: List/houseCreate
+01/07/2014 03:20:57 - Index - filename: ./List/houseCreate/housecreate.css
+01/07/2014 03:20:57 - index.php - url: /Common/backButton.js
+folder: Common
+file: backButton.js
+type: js
+path: Common
+01/07/2014 03:20:57 - Index - filename: ./Common/backButton.js
+01/07/2014 03:20:57 - index.php - url: /List/houseCreate/housecreate.js
+folder: List
+file: housecreate.js
+type: js
+path: List/houseCreate
+01/07/2014 03:20:57 - Index - filename: ./List/houseCreate/housecreate.js
+01/07/2014 03:20:59 - index.php - url: /List/houseCreate/housecreate.php
+folder: List
+file: housecreate.php
+type: php
+path: List/houseCreate
+01/07/2014 03:20:59 - Index - filename: ./List/houseCreate/housecreate.php
+01/07/2014 03:23:20 - index.php - url: /List/houseCreate/
+folder: List
+file: housecreate.html
+type: html
+path: List/houseCreate
+01/07/2014 03:23:20 - Index - filename: ./List/houseCreate/housecreate.html
+01/07/2014 03:23:20 - List class error - placeholder not found: {welcome_placeholder}
+01/07/2014 03:23:20 - List class - query: select ID from Houses where USER_ID=7;
+result: 1
+01/07/2014 03:23:20 - List class error - placeholder not found: {houses_display_placeholder}
+01/07/2014 03:23:20 - List class error - placeholder not found: {houses_search_placeholder}
+01/07/2014 03:23:20 - List class error - placeholder not found: {new_house_placeholder}
+01/07/2014 03:23:20 - index.php - url: /bootstrap/bootstrap.css
+folder: bootstrap
+file: bootstrap.css
+type: css
+path: bootstrap
+01/07/2014 03:23:20 - Index - filename: ./bootstrap/bootstrap.css
+01/07/2014 03:23:20 - index.php - url: /List/houseCreate/housecreate.css
+folder: List
+file: housecreate.css
+type: css
+path: List/houseCreate
+01/07/2014 03:23:20 - Index - filename: ./List/houseCreate/housecreate.css
+01/07/2014 03:23:20 - index.php - url: /Common/backButton.js
+folder: Common
+file: backButton.js
+type: js
+path: Common
+01/07/2014 03:23:20 - Index - filename: ./Common/backButton.js
+01/07/2014 03:23:20 - index.php - url: /Common/ajaxRequest.js
+folder: Common
+file: ajaxRequest.js
+type: js
+path: Common
+01/07/2014 03:23:20 - Index - filename: ./Common/ajaxRequest.js
+01/07/2014 03:23:20 - index.php - url: /List/houseCreate/housecreate.js
+folder: List
+file: housecreate.js
+type: js
+path: List/houseCreate
+01/07/2014 03:23:20 - Index - filename: ./List/houseCreate/housecreate.js
+01/07/2014 03:23:20 - index.php - url: /Common/jquery.js
+folder: Common
+file: jquery.js
+type: js
+path: Common
+01/07/2014 03:23:20 - Index - filename: ./Common/jquery.js
+01/07/2014 03:23:23 - index.php - url: /List/houseCreate/housecreate.php
+folder: List
+file: housecreate.php
+type: php
+path: List/houseCreate
+01/07/2014 03:23:23 - Index - filename: ./List/houseCreate/housecreate.php
+01/07/2014 03:25:36 - index.php - url: /List/houseCreate/
+folder: List
+file: housecreate.html
+type: html
+path: List/houseCreate
+01/07/2014 03:25:36 - Index - filename: ./List/houseCreate/housecreate.html
+01/07/2014 03:25:36 - List class error - placeholder not found: {welcome_placeholder}
+01/07/2014 03:25:36 - List class - query: select ID from Houses where USER_ID=7;
+result: 1
+01/07/2014 03:25:36 - List class error - placeholder not found: {houses_display_placeholder}
+01/07/2014 03:25:36 - List class error - placeholder not found: {houses_search_placeholder}
+01/07/2014 03:25:36 - List class error - placeholder not found: {new_house_placeholder}
+01/07/2014 03:25:36 - index.php - url: /bootstrap/bootstrap.css
+folder: bootstrap
+file: bootstrap.css
+type: css
+path: bootstrap
+01/07/2014 03:25:36 - Index - filename: ./bootstrap/bootstrap.css
+01/07/2014 03:25:36 - index.php - url: /Common/jquery.js
+folder: Common
+file: jquery.js
+type: js
+path: Common
+01/07/2014 03:25:36 - Index - filename: ./Common/jquery.js
+01/07/2014 03:25:36 - index.php - url: /List/houseCreate/housecreate.css
+folder: List
+file: housecreate.css
+type: css
+path: List/houseCreate
+01/07/2014 03:25:36 - Index - filename: ./List/houseCreate/housecreate.css
+01/07/2014 03:25:36 - index.php - url: /Common/ajaxRequest.js
+folder: Common
+file: ajaxRequest.js
+type: js
+path: Common
+01/07/2014 03:25:36 - Index - filename: ./Common/ajaxRequest.js
+01/07/2014 03:25:36 - index.php - url: /Common/backButton.js
+folder: Common
+file: backButton.js
+type: js
+path: Common
+01/07/2014 03:25:36 - Index - filename: ./Common/backButton.js
+01/07/2014 03:25:36 - index.php - url: /List/houseCreate/housecreate.js
+folder: List
+file: housecreate.js
+type: js
+path: List/houseCreate
+01/07/2014 03:25:36 - Index - filename: ./List/houseCreate/housecreate.js
+01/07/2014 03:25:39 - index.php - url: /List/houseCreate/housecreate.php
+folder: List
+file: housecreate.php
+type: php
+path: List/houseCreate
+01/07/2014 03:25:39 - Index - filename: ./List/houseCreate/housecreate.php
+01/07/2014 03:25:39 - Mysql class - funcAry: [0]:isis; [1]:2; [2]:test; [3]:7; [4]:bf; 
+01/07/2014 03:25:39 - Mysql class - affected rows: 1
+01/07/2014 03:26:22 - index.php - url: /List/houseCreate/
+folder: List
+file: housecreate.html
+type: html
+path: List/houseCreate
+01/07/2014 03:26:22 - Index - filename: ./List/houseCreate/housecreate.html
+01/07/2014 03:26:22 - List class error - placeholder not found: {welcome_placeholder}
+01/07/2014 03:26:22 - List class - query: select ID from Houses where USER_ID=7;
+result: 1
+01/07/2014 03:26:22 - List class error - placeholder not found: {houses_display_placeholder}
+01/07/2014 03:26:22 - List class error - placeholder not found: {houses_search_placeholder}
+01/07/2014 03:26:22 - List class error - placeholder not found: {new_house_placeholder}
+01/07/2014 03:26:22 - index.php - url: /bootstrap/bootstrap.css
+folder: bootstrap
+file: bootstrap.css
+type: css
+path: bootstrap
+01/07/2014 03:26:22 - Index - filename: ./bootstrap/bootstrap.css
+01/07/2014 03:26:23 - index.php - url: /List/houseCreate/housecreate.js
+folder: List
+file: housecreate.js
+type: js
+path: List/houseCreate
+01/07/2014 03:26:23 - Index - filename: ./List/houseCreate/housecreate.js
+01/07/2014 03:26:23 - index.php - url: /Common/backButton.js
+folder: Common
+file: backButton.js
+type: js
+path: Common
+01/07/2014 03:26:23 - Index - filename: ./Common/backButton.js
+01/07/2014 03:26:23 - index.php - url: /List/houseCreate/housecreate.css
+folder: List
+file: housecreate.css
+type: css
+path: List/houseCreate
+01/07/2014 03:26:23 - Index - filename: ./List/houseCreate/housecreate.css
+01/07/2014 03:26:23 - index.php - url: /Common/jquery.js
+folder: Common
+file: jquery.js
+type: js
+path: Common
+01/07/2014 03:26:23 - Index - filename: ./Common/jquery.js
+01/07/2014 03:26:23 - index.php - url: /Common/ajaxRequest.js
+folder: Common
+file: ajaxRequest.js
+type: js
+path: Common
+01/07/2014 03:26:23 - Index - filename: ./Common/ajaxRequest.js
+01/07/2014 03:26:27 - index.php - url: /List/houseCreate/housecreate.php
+folder: List
+file: housecreate.php
+type: php
+path: List/houseCreate
+01/07/2014 03:26:27 - Index - filename: ./List/houseCreate/housecreate.php
+01/07/2014 03:26:27 - Mysql class - funcAry: [0]:isis; [1]:3; [2]:test2; [3]:7; [4]:bf; 
+01/07/2014 03:26:27 - Mysql class - affected rows: 1
+01/07/2014 03:58:32 - index.php - url: /manager/html
+folder: manager
+file: html
+type: 
+path: manager
+01/07/2014 03:58:32 - Index.php, not logged in - SESSION['loggedIn'] contents: 
+01/07/2014 07:58:37 - index.php - url: /manager/html
+folder: manager
+file: html
+type: 
+path: manager
+01/07/2014 07:58:37 - Index.php, not logged in - SESSION['loggedIn'] contents: 
+01/07/2014 08:12:20 - index.php - url: /robots.txt
+folder: robots.txt
+file: robots.txt
+type: txt
+path: 
+01/07/2014 08:12:20 - Index.php, not logged in - SESSION['loggedIn'] contents: 
+01/07/2014 08:39:33 - index.php - url: /Thesaurify/
+folder: Thesaurify
+file: thesaurify.html
+type: html
+path: Thesaurify
+01/07/2014 08:39:33 - Index - filename: ./Thesaurify/thesaurify.html
+01/07/2014 08:39:33 - index.php - url: /Thesaurify/thesaurify.css
+folder: Thesaurify
+file: thesaurify.css
+type: css
+path: Thesaurify
+01/07/2014 08:39:33 - Index - filename: ./Thesaurify/thesaurify.css
+01/07/2014 08:39:33 - index.php - url: /Thesaurify/thesaurify.js
+folder: Thesaurify
+file: thesaurify.js
+type: js
+path: Thesaurify
+01/07/2014 08:39:33 - Index - filename: ./Thesaurify/thesaurify.js
+01/07/2014 08:39:33 - index.php - url: /Common/backButton.js
+folder: Common
+file: backButton.js
+type: js
+path: Common
+01/07/2014 08:39:33 - Index - filename: ./Common/backButton.js
+01/07/2014 08:39:33 - index.php - url: /Thesaurify/loading.gif
+folder: Thesaurify
+file: loading.gif
+type: gif
+path: Thesaurify
+01/07/2014 08:39:33 - Index - filename: ./Thesaurify/loading.gif
+01/07/2014 08:39:33 - index.php - url: /favicon.ico
+folder: favicon.ico
+file: favicon.ico
+type: ico
+path: 
+01/07/2014 08:39:33 - Index.php, not logged in - SESSION['loggedIn'] contents: 
+01/07/2014 08:42:17 - index.php - url: /Thesaurify/
+folder: Thesaurify
+file: thesaurify.html
+type: html
+path: Thesaurify
+01/07/2014 08:42:17 - Index - filename: ./Thesaurify/thesaurify.html
+01/07/2014 08:42:17 - index.php - url: /Thesaurify/thesaurify.css
+folder: Thesaurify
+file: thesaurify.css
+type: css
+path: Thesaurify
+01/07/2014 08:42:17 - Index - filename: ./Thesaurify/thesaurify.css
+01/07/2014 08:42:17 - index.php - url: /Thesaurify/loading.gif
+folder: Thesaurify
+file: loading.gif
+type: gif
+path: Thesaurify
+01/07/2014 08:42:17 - Index - filename: ./Thesaurify/loading.gif
+01/07/2014 08:42:17 - index.php - url: /favicon.ico
+folder: favicon.ico
+file: favicon.ico
+type: ico
+path: 
+01/07/2014 08:42:17 - Index.php, not logged in - SESSION['loggedIn'] contents: 
+01/07/2014 08:42:17 - index.php - url: /favicon.ico
+folder: favicon.ico
+file: favicon.ico
+type: ico
+path: 
+01/07/2014 08:42:17 - Index.php, not logged in - SESSION['loggedIn'] contents: 
+01/07/2014 08:42:17 - index.php - url: /favicon.ico
+folder: favicon.ico
+file: favicon.ico
+type: ico
+path: 
+01/07/2014 08:42:17 - Index.php, not logged in - SESSION['loggedIn'] contents: 
+01/07/2014 08:42:22 - index.php - url: /Thesaurify/thesaurify.js
+folder: Thesaurify
+file: thesaurify.js
+type: js
+path: Thesaurify
+01/07/2014 08:42:22 - Index - filename: ./Thesaurify/thesaurify.js
+01/07/2014 08:42:22 - index.php - url: /Common/backButton.js
+folder: Common
+file: backButton.js
+type: js
+path: Common
+01/07/2014 08:42:22 - Index - filename: ./Common/backButton.js
+01/07/2014 08:42:30 - index.php - url: /Thesaurify/
+folder: Thesaurify
+file: thesaurify.html
+type: html
+path: Thesaurify
+01/07/2014 08:42:30 - Index - filename: ./Thesaurify/thesaurify.html
+01/07/2014 08:42:30 - index.php - url: /Thesaurify/thesaurify.css
+folder: Thesaurify
+file: thesaurify.css
+type: css
+path: Thesaurify
+01/07/2014 08:42:30 - Index - filename: ./Thesaurify/thesaurify.css
+01/07/2014 08:42:30 - index.php - url: /Thesaurify/thesaurify.js
+folder: Thesaurify
+file: thesaurify.js
+type: js
+path: Thesaurify
+01/07/2014 08:42:30 - Index - filename: ./Thesaurify/thesaurify.js
+01/07/2014 08:42:30 - index.php - url: /Thesaurify/loading.gif
+folder: Thesaurify
+file: loading.gif
+type: gif
+path: Thesaurify
+01/07/2014 08:42:30 - Index - filename: ./Thesaurify/loading.gif
+01/07/2014 08:42:30 - index.php - url: /Common/backButton.js
+folder: Common
+file: backButton.js
+type: js
+path: Common
+01/07/2014 08:42:30 - Index - filename: ./Common/backButton.js
+01/07/2014 08:42:31 - index.php - url: /favicon.ico
+folder: favicon.ico
+file: favicon.ico
+type: ico
+path: 
+01/07/2014 08:42:31 - Index.php, not logged in - SESSION['loggedIn'] contents: 
+01/07/2014 08:43:24 - index.php - url: /Thesaurify/
+folder: Thesaurify
+file: thesaurify.html
+type: html
+path: Thesaurify
+01/07/2014 08:43:24 - Index - filename: ./Thesaurify/thesaurify.html
+01/07/2014 08:43:24 - index.php - url: /Thesaurify/thesaurify.css
+folder: Thesaurify
+file: thesaurify.css
+type: css
+path: Thesaurify
+01/07/2014 08:43:24 - Index - filename: ./Thesaurify/thesaurify.css
+01/07/2014 08:43:24 - index.php - url: /Thesaurify/thesaurify.js
+folder: Thesaurify
+file: thesaurify.js
+type: js
+path: Thesaurify
+01/07/2014 08:43:24 - Index - filename: ./Thesaurify/thesaurify.js
+01/07/2014 08:43:24 - index.php - url: /Thesaurify/loading.gif
+folder: Thesaurify
+file: loading.gif
+type: gif
+path: Thesaurify
+01/07/2014 08:43:24 - Index - filename: ./Thesaurify/loading.gif
+01/07/2014 08:43:24 - index.php - url: /Common/backButton.js
+folder: Common
+file: backButton.js
+type: js
+path: Common
+01/07/2014 08:43:24 - Index - filename: ./Common/backButton.js
+01/07/2014 08:43:25 - index.php - url: /favicon.ico
+folder: favicon.ico
+file: favicon.ico
+type: ico
+path: 
+01/07/2014 08:43:25 - Index.php, not logged in - SESSION['loggedIn'] contents: 
+01/07/2014 08:45:32 - index.php - url: /Thesaurify/
+folder: Thesaurify
+file: thesaurify.html
+type: html
+path: Thesaurify
+01/07/2014 08:45:32 - Index - filename: ./Thesaurify/thesaurify.html
+01/07/2014 08:45:32 - index.php - url: /Thesaurify/thesaurify.css
+folder: Thesaurify
+file: thesaurify.css
+type: css
+path: Thesaurify
+01/07/2014 08:45:32 - Index - filename: ./Thesaurify/thesaurify.css
+01/07/2014 08:45:32 - index.php - url: /Thesaurify/thesaurify.js
+folder: Thesaurify
+file: thesaurify.js
+type: js
+path: Thesaurify
+01/07/2014 08:45:32 - Index - filename: ./Thesaurify/thesaurify.js
+01/07/2014 08:45:32 - index.php - url: /Common/backButton.js
+folder: Common
+file: backButton.js
+type: js
+path: Common
+01/07/2014 08:45:32 - Index - filename: ./Common/backButton.js
+01/07/2014 08:45:32 - index.php - url: /Thesaurify/loading.gif
+folder: Thesaurify
+file: loading.gif
+type: gif
+path: Thesaurify
+01/07/2014 08:45:32 - Index - filename: ./Thesaurify/loading.gif
+01/07/2014 08:45:32 - index.php - url: /favicon.ico
+folder: favicon.ico
+file: favicon.ico
+type: ico
+path: 
+01/07/2014 08:45:32 - Index.php, not logged in - SESSION['loggedIn'] contents: 
+01/07/2014 08:45:32 - index.php - url: /favicon.ico
+folder: favicon.ico
+file: favicon.ico
+type: ico
+path: 
+01/07/2014 08:45:32 - Index.php, not logged in - SESSION['loggedIn'] contents: 
+01/07/2014 09:27:38 - index.php - url: /Thesaurify/
+folder: Thesaurify
+file: thesaurify.html
+type: html
+path: Thesaurify
+01/07/2014 09:27:38 - Index - filename: ./Thesaurify/thesaurify.html
+01/07/2014 09:27:38 - index.php - url: /Thesaurify/thesaurify.css
+folder: Thesaurify
+file: thesaurify.css
+type: css
+path: Thesaurify
+01/07/2014 09:27:38 - Index - filename: ./Thesaurify/thesaurify.css
+01/07/2014 09:27:38 - index.php - url: /Thesaurify/thesaurify.js
+folder: Thesaurify
+file: thesaurify.js
+type: js
+path: Thesaurify
+01/07/2014 09:27:38 - Index - filename: ./Thesaurify/thesaurify.js
+01/07/2014 09:27:38 - index.php - url: /Thesaurify/loading.gif
+folder: Thesaurify
+file: loading.gif
+type: gif
+path: Thesaurify
+01/07/2014 09:27:38 - Index - filename: ./Thesaurify/loading.gif
+01/07/2014 09:27:39 - index.php - url: /Common/backButton.js
+folder: Common
+file: backButton.js
+type: js
+path: Common
+01/07/2014 09:27:39 - Index - filename: ./Common/backButton.js
+01/07/2014 09:27:39 - index.php - url: /favicon.ico
+folder: favicon.ico
+file: favicon.ico
+type: ico
+path: 
+01/07/2014 09:27:39 - Index.php, not logged in - SESSION['loggedIn'] contents: 
+01/07/2014 12:15:57 - index.php - url: /
+folder: 
+file: .html
+type: html
+path: 
+01/07/2014 12:15:57 - Index.php, not logged in - SESSION['loggedIn'] contents: 
+01/07/2014 01:03:59 - index.php - url: /
+folder: 
+file: .html
+type: html
+path: 
+01/07/2014 01:03:59 - Index.php, not logged in - SESSION['loggedIn'] contents: 
+01/07/2014 02:06:57 - index.php - url: http://www.bob-n.com/
+folder: ttp:
+file: www.bob-n.com.html
+type: html
+path: ttp://www.bob-n.com
+01/07/2014 02:06:57 - Index.php, not logged in - SESSION['loggedIn'] contents: 
+01/07/2014 03:42:43 - index.php - url: /
+folder: 
+file: .html
+type: html
+path: 
+01/07/2014 03:42:43 - Index.php, not logged in - SESSION['loggedIn'] contents: 
+01/07/2014 03:42:43 - index.php - url: /bootstrap/bootstrap.css
+folder: bootstrap
+file: bootstrap.css
+type: css
+path: bootstrap
+01/07/2014 03:42:43 - Index - filename: ./bootstrap/bootstrap.css
+01/07/2014 03:42:43 - index.php - url: /Index/index.js
+folder: Index
+file: index.js
+type: js
+path: Index
+01/07/2014 03:42:43 - Index - filename: ./Index/index.js
+01/07/2014 03:42:43 - index.php - url: /Common/ajaxRequest.js
+folder: Common
+file: ajaxRequest.js
+type: js
+path: Common
+01/07/2014 03:42:43 - Index - filename: ./Common/ajaxRequest.js
+01/07/2014 03:42:43 - index.php - url: /Index/index.css
+folder: Index
+file: index.css
+type: css
+path: Index
+01/07/2014 03:42:43 - Index - filename: ./Index/index.css
+01/07/2014 03:42:43 - index.php - url: /Index/floatingBrad.jpg
+folder: Index
+file: floatingBrad.jpg
+type: jpg
+path: Index
+01/07/2014 03:42:43 - Index - filename: ./Index/floatingBrad.jpg
+01/07/2014 03:42:43 - index.php - url: /Index/RetrieveComments.php
+folder: Index
+file: RetrieveComments.php
+type: php
+path: Index
+01/07/2014 03:42:43 - Index - filename: ./Index/RetrieveComments.php
+01/07/2014 03:48:29 - index.php - url: /Resume/
+folder: Resume
+file: resume.html
+type: html
+path: Resume
+01/07/2014 03:48:29 - Index - filename: ./Resume/resume.html
+01/07/2014 03:48:29 - index.php - url: /bootstrap/bootstrap.css
+folder: bootstrap
+file: bootstrap.css
+type: css
+path: bootstrap
+01/07/2014 03:48:29 - Index - filename: ./bootstrap/bootstrap.css
+01/07/2014 03:48:29 - index.php - url: /Common/backButton.js
+folder: Common
+file: backButton.js
+type: js
+path: Common
+01/07/2014 03:48:29 - Index - filename: ./Common/backButton.js
+01/07/2014 03:48:29 - index.php - url: /Resume/resume.css
+folder: Resume
+file: resume.css
+type: css
+path: Resume
+01/07/2014 03:48:29 - Index - filename: ./Resume/resume.css
+01/07/2014 03:50:29 - index.php - url: /Resume/
+folder: Resume
+file: resume.html
+type: html
+path: Resume
+01/07/2014 03:50:29 - Index - filename: ./Resume/resume.html
+01/07/2014 03:50:29 - index.php - url: /bootstrap/bootstrap.css
+folder: bootstrap
+file: bootstrap.css
+type: css
+path: bootstrap
+01/07/2014 03:50:29 - Index - filename: ./bootstrap/bootstrap.css
+01/07/2014 03:50:29 - index.php - url: /Resume/resume.css
+folder: Resume
+file: resume.css
+type: css
+path: Resume
+01/07/2014 03:50:29 - Index - filename: ./Resume/resume.css
+01/07/2014 03:50:29 - index.php - url: /Common/backButton.js
+folder: Common
+file: backButton.js
+type: js
+path: Common
+01/07/2014 03:50:29 - Index - filename: ./Common/backButton.js
+01/07/2014 04:36:49 - index.php - url: /
+folder: 
+file: .html
+type: html
+path: 
+01/07/2014 04:36:49 - Index.php, not logged in - SESSION['loggedIn'] contents: 
+01/07/2014 05:21:14 - index.php - url: http://wikipedia.pl
+folder: ttp:
+file: wikipedia.pl
+type: pl
+path: ttp:/
+01/07/2014 05:21:14 - Index.php, not logged in - SESSION['loggedIn'] contents: 
+01/07/2014 06:27:49 - index.php - url: /phpmyadmin/
+folder: phpmyadmin
+file: phpmyadmin.html
+type: html
+path: phpmyadmin
+01/07/2014 06:27:49 - Index.php, not logged in - SESSION['loggedIn'] contents: 
+01/07/2014 06:27:49 - index.php - url: /phpMyAdmin/
+folder: phpMyAdmin
+file: phpmyadmin.html
+type: html
+path: phpMyAdmin
+01/07/2014 06:27:49 - Index.php, not logged in - SESSION['loggedIn'] contents: 
+01/07/2014 06:27:50 - index.php - url: /PMA/
+folder: PMA
+file: pma.html
+type: html
+path: PMA
+01/07/2014 06:27:50 - Index.php, not logged in - SESSION['loggedIn'] contents: 
+01/07/2014 06:27:50 - index.php - url: /pma/
+folder: pma
+file: pma.html
+type: html
+path: pma
+01/07/2014 06:27:50 - Index.php, not logged in - SESSION['loggedIn'] contents: 
+01/07/2014 06:27:51 - index.php - url: /admin/
+folder: admin
+file: admin.html
+type: html
+path: admin
+01/07/2014 06:27:51 - Index.php, not logged in - SESSION['loggedIn'] contents: 
+01/07/2014 06:27:51 - index.php - url: /dbadmin/
+folder: dbadmin
+file: dbadmin.html
+type: html
+path: dbadmin
+01/07/2014 06:27:51 - Index.php, not logged in - SESSION['loggedIn'] contents: 
+01/07/2014 06:27:52 - index.php - url: /sql/
+folder: sql
+file: sql.html
+type: html
+path: sql
+01/07/2014 06:27:52 - Index.php, not logged in - SESSION['loggedIn'] contents: 
+01/07/2014 06:27:52 - index.php - url: /mysql/
+folder: mysql
+file: mysql.html
+type: html
+path: mysql
+01/07/2014 06:27:52 - Index.php, not logged in - SESSION['loggedIn'] contents: 
+01/07/2014 06:27:53 - index.php - url: /myadmin/
+folder: myadmin
+file: myadmin.html
+type: html
+path: myadmin
+01/07/2014 06:27:53 - Index.php, not logged in - SESSION['loggedIn'] contents: 
+01/07/2014 06:27:53 - index.php - url: /phpmyadmin2/
+folder: phpmyadmin2
+file: phpmyadmin2.html
+type: html
+path: phpmyadmin2
+01/07/2014 06:27:53 - Index.php, not logged in - SESSION['loggedIn'] contents: 
+01/07/2014 06:27:54 - index.php - url: /phpMyAdmin2/
+folder: phpMyAdmin2
+file: phpmyadmin2.html
+type: html
+path: phpMyAdmin2
+01/07/2014 06:27:54 - Index.php, not logged in - SESSION['loggedIn'] contents: 
+01/07/2014 06:27:54 - index.php - url: /phpMyAdmin-2/
+folder: phpMyAdmin-2
+file: phpmyadmin-2.html
+type: html
+path: phpMyAdmin-2
+01/07/2014 06:27:54 - Index.php, not logged in - SESSION['loggedIn'] contents: 
+01/07/2014 06:27:55 - index.php - url: /php-my-admin/
+folder: php-my-admin
+file: php-my-admin.html
+type: html
+path: php-my-admin
+01/07/2014 06:27:55 - Index.php, not logged in - SESSION['loggedIn'] contents: 
+01/07/2014 06:27:55 - index.php - url: /sqlmanager/
+folder: sqlmanager
+file: sqlmanager.html
+type: html
+path: sqlmanager
+01/07/2014 06:27:55 - Index.php, not logged in - SESSION['loggedIn'] contents: 
+01/07/2014 06:27:56 - index.php - url: /mysqlmanager/
+folder: mysqlmanager
+file: mysqlmanager.html
+type: html
+path: mysqlmanager
+01/07/2014 06:27:56 - Index.php, not logged in - SESSION['loggedIn'] contents: 
+01/07/2014 06:27:56 - index.php - url: /p/m/a/
+folder: p
+file: a.html
+type: html
+path: p/m/a
+01/07/2014 06:27:56 - Index.php, not logged in - SESSION['loggedIn'] contents: 
+01/07/2014 06:27:57 - index.php - url: /php-myadmin/
+folder: php-myadmin
+file: php-myadmin.html
+type: html
+path: php-myadmin
+01/07/2014 06:27:57 - Index.php, not logged in - SESSION['loggedIn'] contents: 
+01/07/2014 06:27:57 - index.php - url: /phpmy-admin/
+folder: phpmy-admin
+file: phpmy-admin.html
+type: html
+path: phpmy-admin
+01/07/2014 06:27:57 - Index.php, not logged in - SESSION['loggedIn'] contents: 
+01/07/2014 06:27:58 - index.php - url: /webadmin/
+folder: webadmin
+file: webadmin.html
+type: html
+path: webadmin
+01/07/2014 06:27:58 - Index.php, not logged in - SESSION['loggedIn'] contents: 
+01/07/2014 06:27:58 - index.php - url: /sqlweb/
+folder: sqlweb
+file: sqlweb.html
+type: html
+path: sqlweb
+01/07/2014 06:27:58 - Index.php, not logged in - SESSION['loggedIn'] contents: 
+01/07/2014 06:27:59 - index.php - url: /websql/
+folder: websql
+file: websql.html
+type: html
+path: websql
+01/07/2014 06:27:59 - Index.php, not logged in - SESSION['loggedIn'] contents: 
+01/07/2014 06:27:59 - index.php - url: /webdb/
+folder: webdb
+file: webdb.html
+type: html
+path: webdb
+01/07/2014 06:27:59 - Index.php, not logged in - SESSION['loggedIn'] contents: 
+01/07/2014 06:28:00 - index.php - url: /mysqladmin/
+folder: mysqladmin
+file: mysqladmin.html
+type: html
+path: mysqladmin
+01/07/2014 06:28:00 - Index.php, not logged in - SESSION['loggedIn'] contents: 
+01/07/2014 06:28:00 - index.php - url: /mysql-admin/
+folder: mysql-admin
+file: mysql-admin.html
+type: html
+path: mysql-admin
+01/07/2014 06:28:00 - Index.php, not logged in - SESSION['loggedIn'] contents: 

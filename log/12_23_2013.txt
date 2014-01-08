@@ -1,0 +1,13 @@
+12/23/2013 11:24:50 - /
+12/23/2013 11:24:50 - Index.php, not logged in - html replacement content:
+<a href='https://www.bradleyfrye.com/Register'><p class='navItem navRight' id=register>Register</p></a><p class='separator navItem navRight'>|</p><a href='https://www.bradleyfrye.com/Login'><p class='navItem navRight' id=login>Login</p></a>
+12/23/2013 11:24:50 - /bootstrap/bootstrap.css
+12/23/2013 11:24:50 - /Index/index.css
+12/23/2013 11:24:50 - /Index/index.js
+12/23/2013 11:24:50 - /Index/RetrieveComments.php
+12/23/2013 11:24:50 - Retrieve Comments
+12/23/2013 11:24:50 - /Index/floatingBrad.jpg
+12/23/2013 11:27:23 - Login.php - login success.  SESSION['loggedIn'] before:
+
+12/23/2013 11:27:36 - Login.php - login success.  SESSION['loggedIn'] before:
+

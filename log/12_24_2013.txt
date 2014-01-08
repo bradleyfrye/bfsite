@@ -1,0 +1,832 @@
+12/24/2013 12:06:44 - Index.php, not logged in - html replacement content:
+<a href='https://www.bradleyfrye.com/Register'><p class='navItem navRight' id=register>Register</p></a><p class='separator navItem navRight'>|</p><a href='https://www.bradleyfrye.com/Login'><p class='navItem navRight' id=login>Login</p></a>
+12/24/2013 12:06:44 - Index.php, not logged in - html replacement content:
+<a href='https://www.bradleyfrye.com/Register'><p class='navItem navRight' id=register>Register</p></a><p class='separator navItem navRight'>|</p><a href='https://www.bradleyfrye.com/Login'><p class='navItem navRight' id=login>Login</p></a>
+12/24/2013 12:06:44 - Index.php, not logged in - html replacement content:
+<a href='https://www.bradleyfrye.com/Register'><p class='navItem navRight' id=register>Register</p></a><p class='separator navItem navRight'>|</p><a href='https://www.bradleyfrye.com/Login'><p class='navItem navRight' id=login>Login</p></a>
+12/24/2013 12:06:44 - Index.php, not logged in - html replacement content:
+<a href='https://www.bradleyfrye.com/Register'><p class='navItem navRight' id=register>Register</p></a><p class='separator navItem navRight'>|</p><a href='https://www.bradleyfrye.com/Login'><p class='navItem navRight' id=login>Login</p></a>
+12/24/2013 12:06:45 - Index.php, not logged in - html replacement content:
+<a href='https://www.bradleyfrye.com/Register'><p class='navItem navRight' id=register>Register</p></a><p class='separator navItem navRight'>|</p><a href='https://www.bradleyfrye.com/Login'><p class='navItem navRight' id=login>Login</p></a>
+12/24/2013 12:06:45 - Index.php, not logged in - html replacement content:
+<a href='https://www.bradleyfrye.com/Register'><p class='navItem navRight' id=register>Register</p></a><p class='separator navItem navRight'>|</p><a href='https://www.bradleyfrye.com/Login'><p class='navItem navRight' id=login>Login</p></a>
+12/24/2013 01:08:45 - Index.php, not logged in - html replacement content:
+<a href='https://www.bradleyfrye.com/Register'><p class='navItem navRight' id=register>Register</p></a><p class='separator navItem navRight'>|</p><a href='https://www.bradleyfrye.com/Login'><p class='navItem navRight' id=login>Login</p></a>
+12/24/2013 01:10:46 - Index.php, not logged in - html replacement content:
+<a href='https://www.bradleyfrye.com/Register'><p class='navItem navRight' id=register>Register</p></a><p class='separator navItem navRight'>|</p><a href='https://www.bradleyfrye.com/Login'><p class='navItem navRight' id=login>Login</p></a>
+12/24/2013 01:26:07 - Login.php - login success.  SESSION['loggedIn'] before:
+
+12/24/2013 01:26:07 - Login.php - login success.  SESSION['loggedIn'] after:
+1
+12/24/2013 01:31:17 - Login.php - login success.  SESSION['loggedIn'] before:
+
+12/24/2013 01:31:17 - Login.php - login success.  SESSION['loggedIn'] after:
+1
+12/24/2013 01:37:09 - Login.php - login success.  SESSION['loggedIn'] before:
+
+12/24/2013 01:37:09 - Login.php - login success.  SESSION['loggedIn'] after:
+1
+12/24/2013 01:37:13 - Login.php - login success.  SESSION['loggedIn'] before:
+
+12/24/2013 01:37:13 - Login.php - login success.  SESSION['loggedIn'] after:
+1
+12/24/2013 01:39:08 - Login.php - login success.  SESSION['loggedIn'] before:
+
+12/24/2013 01:39:08 - Login.php - login success.  SESSION['loggedIn'] after:
+1
+12/24/2013 01:39:35 - Login.php - login success.  SESSION['loggedIn'] before:
+
+12/24/2013 01:39:35 - Login.php - login success.  SESSION['loggedIn'] after:
+1
+12/24/2013 01:53:08 - Index.php, not logged in - html replacement content:
+<a href='https://www.bradleyfrye.com/Register'><p class='navItem navRight' id=register>Register</p></a><p class='separator navItem navRight'>|</p><a href='https://www.bradleyfrye.com/Login'><p class='navItem navRight' id=login>Login</p></a>
+12/24/2013 01:53:08 - Retrieve Comments
+12/24/2013 01:54:18 - Index.php, logged in - html replacement content:
+<a href='http://www.bradleyfrye.com?logout=1'><p class='navItem navRight' id=logout>Log Out</p></a>
+12/24/2013 01:54:18 - Retrieve Comments
+12/24/2013 01:54:21 - Index.php, not logged in - html replacement content:
+<a href='https://www.bradleyfrye.com/Register'><p class='navItem navRight' id=register>Register</p></a><p class='separator navItem navRight'>|</p><a href='https://www.bradleyfrye.com/Login'><p class='navItem navRight' id=login>Login</p></a>
+12/24/2013 01:54:21 - Retrieve Comments
+12/24/2013 01:54:28 - Login.php - login success.  SESSION['loggedIn'] before:
+1
+12/24/2013 01:54:28 - Login.php - login success.  SESSION['loggedIn'] after:
+1
+12/24/2013 01:54:30 - Index.php, logged in - html replacement content:
+<a href='http://www.bradleyfrye.com?logout=1'><p class='navItem navRight' id=logout>Log Out</p></a>
+12/24/2013 01:54:30 - Retrieve Comments
+12/24/2013 01:54:33 - Index.php, logged in - html replacement content:
+<a href='http://www.bradleyfrye.com?logout=1'><p class='navItem navRight' id=logout>Log Out</p></a>
+12/24/2013 01:54:34 - Retrieve Comments
+12/24/2013 01:54:38 - Index.php, logged in - html replacement content:
+<a href='http://www.bradleyfrye.com?logout=1'><p class='navItem navRight' id=logout>Log Out</p></a>
+12/24/2013 01:54:38 - Retrieve Comments
+12/24/2013 01:54:41 - Index.php, logged in - html replacement content:
+<a href='http://www.bradleyfrye.com?logout=1'><p class='navItem navRight' id=logout>Log Out</p></a>
+12/24/2013 01:54:41 - Retrieve Comments
+12/24/2013 01:57:07 - Index.php, logged in - html replacement content:
+<a href='http://www.bradleyfrye.com?logout=1'><p class='navItem navRight' id=logout>Log Out</p></a>
+12/24/2013 01:57:07 - Retrieve Comments
+12/24/2013 01:57:16 - Index.php, logged in - html replacement content:
+<a href='http://www.bradleyfrye.com?logout=1'><p class='navItem navRight' id=logout>Log Out</p></a>
+12/24/2013 01:57:16 - Retrieve Comments
+12/24/2013 01:57:29 - Index.php, not logged in - html replacement content:
+<a href='https://www.bradleyfrye.com/Register'><p class='navItem navRight' id=register>Register</p></a><p class='separator navItem navRight'>|</p><a href='https://www.bradleyfrye.com/Login'><p class='navItem navRight' id=login>Login</p></a>
+12/24/2013 01:57:29 - Retrieve Comments
+12/24/2013 01:57:41 - Index.php, logged in - html replacement content:
+<a href='http://www.bradleyfrye.com?logout=1'><p class='navItem navRight' id=logout>Log Out</p></a>
+12/24/2013 01:57:41 - Retrieve Comments
+12/24/2013 01:57:45 - Index.php, not logged in - html replacement content:
+<a href='https://www.bradleyfrye.com/Register'><p class='navItem navRight' id=register>Register</p></a><p class='separator navItem navRight'>|</p><a href='https://www.bradleyfrye.com/Login'><p class='navItem navRight' id=login>Login</p></a>
+12/24/2013 01:57:45 - Retrieve Comments
+12/24/2013 01:58:03 - Index.php, not logged in - html replacement content:
+<a href='https://www.bradleyfrye.com/Register'><p class='navItem navRight' id=register>Register</p></a><p class='separator navItem navRight'>|</p><a href='https://www.bradleyfrye.com/Login'><p class='navItem navRight' id=login>Login</p></a>
+12/24/2013 01:58:03 - Retrieve Comments
+12/24/2013 01:58:06 - Index.php, not logged in - html replacement content:
+<a href='https://www.bradleyfrye.com/Register'><p class='navItem navRight' id=register>Register</p></a><p class='separator navItem navRight'>|</p><a href='https://www.bradleyfrye.com/Login'><p class='navItem navRight' id=login>Login</p></a>
+12/24/2013 01:58:06 - Retrieve Comments
+12/24/2013 01:58:09 - Index.php, logged in - html replacement content:
+<a href='http://www.bradleyfrye.com?logout=1'><p class='navItem navRight' id=logout>Log Out</p></a>
+12/24/2013 01:58:09 - Retrieve Comments
+12/24/2013 01:58:48 - Index.php, not logged in - html replacement content:
+<a href='https://www.bradleyfrye.com/Register'><p class='navItem navRight' id=register>Register</p></a><p class='separator navItem navRight'>|</p><a href='https://www.bradleyfrye.com/Login'><p class='navItem navRight' id=login>Login</p></a>
+12/24/2013 01:58:48 - Retrieve Comments
+12/24/2013 01:58:55 - Index.php, not logged in - html replacement content:
+<a href='https://www.bradleyfrye.com/Register'><p class='navItem navRight' id=register>Register</p></a><p class='separator navItem navRight'>|</p><a href='https://www.bradleyfrye.com/Login'><p class='navItem navRight' id=login>Login</p></a>
+12/24/2013 01:58:55 - Retrieve Comments
+12/24/2013 01:58:58 - Index.php, not logged in - html replacement content:
+<a href='https://www.bradleyfrye.com/Register'><p class='navItem navRight' id=register>Register</p></a><p class='separator navItem navRight'>|</p><a href='https://www.bradleyfrye.com/Login'><p class='navItem navRight' id=login>Login</p></a>
+12/24/2013 01:58:58 - Retrieve Comments
+12/24/2013 01:59:07 - Index.php, logged in - html replacement content:
+<a href='http://www.bradleyfrye.com?logout=1'><p class='navItem navRight' id=logout>Log Out</p></a>
+12/24/2013 01:59:08 - Retrieve Comments
+12/24/2013 01:59:38 - Index.php, not logged in - html replacement content:
+<a href='https://www.bradleyfrye.com/Register'><p class='navItem navRight' id=register>Register</p></a><p class='separator navItem navRight'>|</p><a href='https://www.bradleyfrye.com/Login'><p class='navItem navRight' id=login>Login</p></a>
+12/24/2013 02:00:03 - Retrieve Comments
+12/24/2013 02:00:14 - Index.php, logged in - html replacement content:
+<a href='http://www.bradleyfrye.com?logout=1'><p class='navItem navRight' id=logout>Log Out</p></a>
+12/24/2013 02:00:14 - Retrieve Comments
+12/24/2013 02:00:18 - Index.php, logged in - html replacement content:
+<a href='http://www.bradleyfrye.com?logout=1'><p class='navItem navRight' id=logout>Log Out</p></a>
+12/24/2013 02:00:18 - Retrieve Comments
+12/24/2013 02:02:19 - Index.php, logged in - html replacement content:
+<a href='http://www.bradleyfrye.com?logout=1'><p class='navItem navRight' id=logout>Log Out</p></a>
+12/24/2013 02:02:20 - Retrieve Comments
+12/24/2013 02:02:23 - Index.php, logged in - html replacement content:
+<a href='http://www.bradleyfrye.com?logout=1'><p class='navItem navRight' id=logout>Log Out</p></a>
+12/24/2013 02:02:23 - Retrieve Comments
+12/24/2013 02:02:25 - Index.php, not logged in - html replacement content:
+<a href='https://www.bradleyfrye.com/Register'><p class='navItem navRight' id=register>Register</p></a><p class='separator navItem navRight'>|</p><a href='https://www.bradleyfrye.com/Login'><p class='navItem navRight' id=login>Login</p></a>
+12/24/2013 02:02:25 - Retrieve Comments
+12/24/2013 02:02:31 - Index.php, logged in - html replacement content:
+<a href='http://www.bradleyfrye.com?logout=1'><p class='navItem navRight' id=logout>Log Out</p></a>
+12/24/2013 02:02:31 - Retrieve Comments
+12/24/2013 02:02:33 - Index.php, not logged in - html replacement content:
+<a href='https://www.bradleyfrye.com/Register'><p class='navItem navRight' id=register>Register</p></a><p class='separator navItem navRight'>|</p><a href='https://www.bradleyfrye.com/Login'><p class='navItem navRight' id=login>Login</p></a>
+12/24/2013 02:02:33 - Retrieve Comments
+12/24/2013 02:02:39 - Login.php - login fail due to nonexistent name: as
+12/24/2013 02:02:41 - Index.php, logged in - html replacement content:
+<a href='http://www.bradleyfrye.com?logout=1'><p class='navItem navRight' id=logout>Log Out</p></a>
+12/24/2013 02:02:41 - Retrieve Comments
+12/24/2013 02:04:04 - Index.php, logged in - SESSION['loggedIn'] contents: 1
+12/24/2013 02:04:05 - Retrieve Comments
+12/24/2013 02:05:43 - Index.php, not logged in - SESSION['loggedIn'] contents: 0
+12/24/2013 02:05:43 - Retrieve Comments
+12/24/2013 02:05:52 - Index.php, not logged in - SESSION['loggedIn'] contents: 0
+12/24/2013 02:05:52 - Retrieve Comments
+12/24/2013 02:06:03 - Index.php, logged in - SESSION['loggedIn'] contents: 1
+12/24/2013 02:06:03 - Retrieve Comments
+12/24/2013 02:08:50 - Index.php, logged in - SESSION['loggedIn'] contents: 1
+12/24/2013 02:08:51 - Retrieve Comments
+12/24/2013 02:08:53 - Index.php, not logged in - SESSION['loggedIn'] contents: 0
+12/24/2013 02:08:56 - Retrieve Comments
+12/24/2013 02:08:59 - Index.php, logged in - SESSION['loggedIn'] contents: 1
+12/24/2013 02:08:59 - Retrieve Comments
+12/24/2013 02:16:23 - Index.php, logged in - SESSION['loggedIn'] contents: 1
+12/24/2013 02:16:24 - Retrieve Comments
+12/24/2013 02:16:25 - Index.php, not logged in - SESSION['loggedIn'] contents: 
+12/24/2013 02:16:25 - Retrieve Comments
+12/24/2013 02:16:35 - Index.php, logged in - SESSION['loggedIn'] contents: 1
+12/24/2013 02:16:36 - Retrieve Comments
+12/24/2013 02:16:47 - Index.php, not logged in - SESSION['loggedIn'] contents: 
+12/24/2013 02:16:47 - Retrieve Comments
+12/24/2013 02:16:51 - Index.php, not logged in - SESSION['loggedIn'] contents: 
+12/24/2013 02:16:51 - Retrieve Comments
+12/24/2013 02:16:55 - Index.php, not logged in - SESSION['loggedIn'] contents: 
+12/24/2013 02:16:55 - Retrieve Comments
+12/24/2013 02:17:01 - Index.php, logged in - SESSION['loggedIn'] contents: 1
+12/24/2013 02:17:01 - Retrieve Comments
+12/24/2013 02:17:07 - Index.php, logged in - SESSION['loggedIn'] contents: 1
+12/24/2013 02:17:07 - Retrieve Comments
+12/24/2013 02:34:40 - Index.php, logged in - SESSION['loggedIn'] contents: 1
+12/24/2013 02:34:41 - Retrieve Comments
+12/24/2013 02:36:02 - Index.php, logged in - SESSION['loggedIn'] contents: 1
+12/24/2013 02:36:02 - Retrieve Comments
+12/24/2013 02:36:04 - Index.php, not logged in - SESSION['loggedIn'] contents: 
+12/24/2013 02:36:05 - Retrieve Comments
+12/24/2013 02:36:11 - Index.php, logged in - SESSION['loggedIn'] contents: 1
+12/24/2013 02:36:12 - Retrieve Comments
+12/24/2013 02:37:40 - Index.php, logged in - SESSION['loggedIn'] contents: 1
+12/24/2013 02:37:44 - Retrieve Comments
+12/24/2013 02:37:45 - Index.php, not logged in - SESSION['loggedIn'] contents: 
+12/24/2013 02:37:46 - Retrieve Comments
+12/24/2013 02:37:48 - Index.php, logged in - SESSION['loggedIn'] contents: 1
+12/24/2013 02:37:48 - Retrieve Comments
+12/24/2013 02:46:29 - Index.php, not logged in - SESSION['loggedIn'] contents: 0
+12/24/2013 02:46:30 - Retrieve Comments
+12/24/2013 02:46:35 - Index.php, not logged in - SESSION['loggedIn'] contents: 0
+12/24/2013 02:46:35 - Retrieve Comments
+12/24/2013 02:46:38 - Index.php, not logged in - SESSION['loggedIn'] contents: 0
+12/24/2013 02:46:38 - Retrieve Comments
+12/24/2013 02:46:43 - Index.php, not logged in - SESSION['loggedIn'] contents: 0
+12/24/2013 02:46:43 - Retrieve Comments
+12/24/2013 02:46:44 - Index.php, not logged in - SESSION['loggedIn'] contents: 0
+12/24/2013 02:46:45 - Retrieve Comments
+12/24/2013 02:46:47 - Index.php, not logged in - SESSION['loggedIn'] contents: 0
+12/24/2013 02:46:47 - Retrieve Comments
+12/24/2013 02:46:53 - Login.php - login success.  SESSION['loggedIn'] before:
+
+12/24/2013 02:46:53 - Login.php - login success.  SESSION['loggedIn'] after:
+1
+12/24/2013 02:46:55 - Index.php, not logged in - SESSION['loggedIn'] contents: 0
+12/24/2013 02:46:56 - Retrieve Comments
+12/24/2013 02:46:58 - Index.php, not logged in - SESSION['loggedIn'] contents: 0
+12/24/2013 02:46:58 - Retrieve Comments
+12/24/2013 02:47:05 - Index.php, not logged in - SESSION['loggedIn'] contents: 0
+12/24/2013 02:47:06 - Retrieve Comments
+12/24/2013 02:47:11 - Login.php - login success.  SESSION['loggedIn'] before:
+1
+12/24/2013 02:47:11 - Login.php - login success.  SESSION['loggedIn'] after:
+1
+12/24/2013 02:47:14 - Index.php, not logged in - SESSION['loggedIn'] contents: 0
+12/24/2013 02:47:14 - Retrieve Comments
+12/24/2013 02:47:33 - Index.php, not logged in - SESSION['loggedIn'] contents: 0
+12/24/2013 02:47:33 - Retrieve Comments
+12/24/2013 02:47:39 - Login.php - login success.  SESSION['loggedIn'] before:
+1
+12/24/2013 02:47:39 - Login.php - login success.  SESSION['loggedIn'] after:
+1
+12/24/2013 02:47:41 - Index.php, not logged in - SESSION['loggedIn'] contents: 0
+12/24/2013 02:47:41 - Retrieve Comments
+12/24/2013 02:47:44 - Index.php, not logged in - SESSION['loggedIn'] contents: 0
+12/24/2013 02:47:44 - Retrieve Comments
+12/24/2013 02:47:50 - Login.php - login success.  SESSION['loggedIn'] before:
+1
+12/24/2013 02:47:50 - Login.php - login success.  SESSION['loggedIn'] after:
+1
+12/24/2013 02:47:53 - Index.php, not logged in - SESSION['loggedIn'] contents: 0
+12/24/2013 02:47:53 - Retrieve Comments
+12/24/2013 02:47:55 - Index.php, not logged in - SESSION['loggedIn'] contents: 0
+12/24/2013 02:47:55 - Retrieve Comments
+12/24/2013 02:51:05 - Index.php, not logged in - SESSION['loggedIn'] contents: 
+12/24/2013 02:51:05 - Retrieve Comments
+12/24/2013 02:51:11 - Login.php - login success.  SESSION['loggedIn'] before:
+
+12/24/2013 02:51:11 - Login.php - login success.  SESSION['loggedIn'] after:
+1
+12/24/2013 02:51:12 - Index.php, not logged in - SESSION['loggedIn'] contents: 
+12/24/2013 02:51:13 - Retrieve Comments
+12/24/2013 02:53:53 - Index.php, not logged in - SESSION['loggedIn'] contents: 
+12/24/2013 02:53:53 - Retrieve Comments
+12/24/2013 02:54:00 - Login.php - login success.  SESSION['loggedIn'] before:
+
+12/24/2013 02:54:00 - Login.php - login success.  SESSION['loggedIn'] after:
+1
+12/24/2013 02:54:02 - Index.php, not logged in - SESSION['loggedIn'] contents: 
+12/24/2013 02:54:02 - Retrieve Comments
+12/24/2013 02:54:09 - Index.php, not logged in - SESSION['loggedIn'] contents: 
+12/24/2013 02:54:09 - Retrieve Comments
+12/24/2013 02:54:16 - Index.php, not logged in - SESSION['loggedIn'] contents: 
+12/24/2013 02:54:17 - Retrieve Comments
+12/24/2013 02:55:26 - Login.php - login success.  SESSION['loggedIn'] before:
+1
+12/24/2013 02:55:26 - Login.php - login success.  SESSION['loggedIn'] after:
+1
+12/24/2013 02:55:31 - Index.php, not logged in - SESSION['loggedIn'] contents: 
+12/24/2013 02:55:31 - Retrieve Comments
+12/24/2013 02:55:44 - Index.php, logged in - SESSION['loggedIn'] contents: 1
+12/24/2013 02:55:44 - Retrieve Comments
+12/24/2013 02:57:17 - Index.php, not logged in - SESSION['loggedIn'] contents: 
+12/24/2013 02:57:17 - Retrieve Comments
+12/24/2013 03:37:21 - Index.php, not logged in - SESSION['loggedIn'] contents: 
+12/24/2013 03:37:21 - Retrieve Comments
+12/24/2013 03:40:51 - Index.php, not logged in - SESSION['loggedIn'] contents: 
+12/24/2013 03:40:51 - Retrieve Comments
+12/24/2013 03:40:55 - Index.php, not logged in - SESSION['loggedIn'] contents: 
+12/24/2013 03:40:55 - Retrieve Comments
+12/24/2013 03:41:11 - Index.php, not logged in - SESSION['loggedIn'] contents: 
+12/24/2013 03:41:11 - Retrieve Comments
+12/24/2013 03:41:17 - Index.php, not logged in - SESSION['loggedIn'] contents: 
+12/24/2013 03:41:18 - Retrieve Comments
+12/24/2013 03:41:31 - Index.php, not logged in - SESSION['loggedIn'] contents: 
+12/24/2013 03:41:32 - Retrieve Comments
+12/24/2013 03:41:50 - Index.php, not logged in - SESSION['loggedIn'] contents: 
+12/24/2013 03:41:50 - Retrieve Comments
+12/24/2013 03:42:03 - Index.php, not logged in - SESSION['loggedIn'] contents: 
+12/24/2013 03:42:03 - Retrieve Comments
+12/24/2013 03:42:10 - Index.php, not logged in - SESSION['loggedIn'] contents: 
+12/24/2013 03:42:10 - Retrieve Comments
+12/24/2013 03:42:12 - Index.php, not logged in - SESSION['loggedIn'] contents: 
+12/24/2013 03:42:12 - Retrieve Comments
+12/24/2013 03:42:18 - Index.php, not logged in - SESSION['loggedIn'] contents: 
+12/24/2013 03:42:18 - Retrieve Comments
+12/24/2013 03:42:38 - Index.php, not logged in - SESSION['loggedIn'] contents: 
+12/24/2013 03:42:53 - Index.php, not logged in - SESSION['loggedIn'] contents: 
+12/24/2013 03:42:54 - Retrieve Comments
+12/24/2013 03:43:11 - Index.php, not logged in - SESSION['loggedIn'] contents: 
+12/24/2013 03:43:11 - Retrieve Comments
+12/24/2013 03:43:16 - Index.php, not logged in - SESSION['loggedIn'] contents: 
+12/24/2013 03:43:16 - Retrieve Comments
+12/24/2013 03:43:31 - Index.php, not logged in - SESSION['loggedIn'] contents: 
+12/24/2013 03:43:31 - Retrieve Comments
+12/24/2013 03:44:10 - /honk
+12/24/2013 03:44:10 - Index.php, not logged in - SESSION['loggedIn'] contents: 
+12/24/2013 03:44:10 - /bootstrap/bootstrap.css
+12/24/2013 03:44:11 - /Index/index.css
+12/24/2013 03:44:11 - /Index/index.js
+12/24/2013 03:44:11 - /Index/floatingBrad.jpg
+12/24/2013 03:44:11 - /Index/RetrieveComments.php
+12/24/2013 03:44:11 - Retrieve Comments
+12/24/2013 03:44:24 - /Index/index.php
+12/24/2013 03:47:18 - /
+12/24/2013 03:47:18 - Index.php, not logged in - SESSION['loggedIn'] contents: 
+12/24/2013 03:52:04 - /Index/index.php
+12/24/2013 03:52:19 - /Ind
+12/24/2013 03:52:19 - Index.php, not logged in - SESSION['loggedIn'] contents: 
+12/24/2013 03:52:19 - /bootstrap/bootstrap.css
+12/24/2013 03:52:19 - /Index/index.css
+12/24/2013 03:52:19 - /Index/index.js
+12/24/2013 03:52:19 - /Index/floatingBrad.jpg
+12/24/2013 03:52:19 - /Index/RetrieveComments.php
+12/24/2013 03:52:19 - Retrieve Comments
+12/24/2013 03:52:29 - /Ind
+12/24/2013 03:52:29 - Index.php, not logged in - SESSION['loggedIn'] contents: 
+12/24/2013 03:52:29 - /bootstrap/bootstrap.css
+12/24/2013 03:52:29 - /Index/index.js
+12/24/2013 03:52:29 - /Index/index.css
+12/24/2013 03:52:29 - /Index/floatingBrad.jpg
+12/24/2013 03:52:29 - /Index/RetrieveComments.php
+12/24/2013 03:52:29 - Retrieve Comments
+12/24/2013 03:52:37 - /bfsite/index.php
+12/24/2013 03:52:37 - Index.php, not logged in - SESSION['loggedIn'] contents: 
+12/24/2013 03:52:37 - /bootstrap/bootstrap.css
+12/24/2013 03:52:37 - /Index/index.js
+12/24/2013 03:52:37 - /Index/index.css
+12/24/2013 03:52:37 - /Index/RetrieveComments.php
+12/24/2013 03:52:37 - Retrieve Comments
+12/24/2013 03:52:37 - /Index/floatingBrad.jpg
+12/24/2013 03:53:01 - /bfsite/index.php
+12/24/2013 03:53:01 - Index.php, not logged in - SESSION['loggedIn'] contents: 
+12/24/2013 03:53:01 - /bootstrap/bootstrap.css
+12/24/2013 03:53:02 - /Index/index.css
+12/24/2013 03:53:02 - /Index/index.js
+12/24/2013 03:53:02 - /Index/RetrieveComments.php
+12/24/2013 03:53:02 - Retrieve Comments
+12/24/2013 03:53:02 - /Index/floatingBrad.jpg
+12/24/2013 03:53:05 - /Index/index.php
+12/24/2013 03:55:18 - /
+12/24/2013 03:55:18 - Index.php, not logged in - SESSION['loggedIn'] contents: 
+12/24/2013 03:59:47 - /bfsite/index.php
+12/24/2013 03:59:47 - Index.php, not logged in - SESSION['loggedIn'] contents: 
+12/24/2013 03:59:47 - /bootstrap/bootstrap.css
+12/24/2013 03:59:47 - /Index/index.css
+12/24/2013 03:59:47 - /Index/index.js
+12/24/2013 03:59:48 - /Index/floatingBrad.jpg
+12/24/2013 03:59:48 - /Index/RetrieveComments.php
+12/24/2013 03:59:48 - Retrieve Comments
+12/24/2013 03:59:51 - /Index/index.php
+12/24/2013 04:00:02 - /index.php
+12/24/2013 04:01:17 - /index.php
+12/24/2013 04:01:19 - /Index/index.php
+12/24/2013 04:01:26 - /bfsite/index.php
+12/24/2013 04:01:26 - Index.php, not logged in - SESSION['loggedIn'] contents: 
+12/24/2013 04:01:26 - /Index/index.css
+12/24/2013 04:01:26 - /bootstrap/bootstrap.css
+12/24/2013 04:01:26 - /Index/index.js
+12/24/2013 04:01:26 - /Index/floatingBrad.jpg
+12/24/2013 04:01:26 - /Index/RetrieveComments.php
+12/24/2013 04:01:26 - Retrieve Comments
+12/24/2013 04:01:29 - /Resume/
+12/24/2013 04:01:29 - /Resume/bootstrap/bootstrap.css
+12/24/2013 04:01:29 - /Common/backButton.js
+12/24/2013 04:01:29 - /Resume/resume.css
+12/24/2013 04:01:30 - /bfsite/index.php
+12/24/2013 04:01:30 - Index.php, not logged in - SESSION['loggedIn'] contents: 
+12/24/2013 04:01:30 - /bootstrap/bootstrap.css
+12/24/2013 04:01:30 - /Index/index.css
+12/24/2013 04:01:30 - /Index/index.js
+12/24/2013 04:01:31 - /Index/floatingBrad.jpg
+12/24/2013 04:01:31 - /Index/RetrieveComments.php
+12/24/2013 04:01:31 - Retrieve Comments
+12/24/2013 04:01:37 - /Uno/
+12/24/2013 04:01:37 - /Uno/uno.css
+12/24/2013 04:01:37 - /Uno/uno.js
+12/24/2013 04:01:37 - /Common/backButton.js
+12/24/2013 04:01:40 - /bfsite/index.php
+12/24/2013 04:01:40 - Index.php, not logged in - SESSION['loggedIn'] contents: 
+12/24/2013 04:01:40 - /Index/index.js
+12/24/2013 04:01:40 - /bootstrap/bootstrap.css
+12/24/2013 04:01:40 - /Index/index.css
+12/24/2013 04:01:40 - /Index/floatingBrad.jpg
+12/24/2013 04:01:40 - /Index/RetrieveComments.php
+12/24/2013 04:01:40 - Retrieve Comments
+12/24/2013 04:01:55 - /Index/index.php
+12/24/2013 04:02:00 - /Index/index.php
+12/24/2013 04:02:03 - /bfsite/index.php
+12/24/2013 04:02:03 - Index.php, not logged in - SESSION['loggedIn'] contents: 
+12/24/2013 04:02:03 - /bootstrap/bootstrap.css
+12/24/2013 04:02:03 - /Index/index.css
+12/24/2013 04:02:03 - /Index/index.js
+12/24/2013 04:02:04 - /Index/RetrieveComments.php
+12/24/2013 04:02:04 - Retrieve Comments
+12/24/2013 04:02:04 - /Index/floatingBrad.jpg
+12/24/2013 04:03:00 - /bfsite/index.php
+12/24/2013 04:03:00 - Index.php, not logged in - SESSION['loggedIn'] contents: 
+12/24/2013 04:03:00 - /Index/index.css
+12/24/2013 04:03:00 - /bootstrap/bootstrap.css
+12/24/2013 04:03:00 - /Index/index.js
+12/24/2013 04:03:00 - /Index/floatingBrad.jpg
+12/24/2013 04:03:00 - /Index/RetrieveComments.php
+12/24/2013 04:03:00 - Retrieve Comments
+12/24/2013 04:03:12 - /Index/index.php
+12/24/2013 04:06:05 - /Index/index.php
+12/24/2013 04:06:49 - /Index/index.php
+12/24/2013 04:08:40 - /Index/index.php
+12/24/2013 04:12:17 - /
+12/24/2013 04:12:17 - Index.php, not logged in - SESSION['loggedIn'] contents: 
+12/24/2013 04:12:17 - /bootstrap/bootstrap.css
+12/24/2013 04:12:17 - /Index/index.css
+12/24/2013 04:12:17 - /Index/index.js
+12/24/2013 04:12:17 - /Index/floatingBrad.jpg
+12/24/2013 04:12:17 - /Index/RetrieveComments.php
+12/24/2013 04:12:17 - Retrieve Comments
+12/24/2013 04:12:22 - /
+12/24/2013 04:12:22 - Index.php, not logged in - SESSION['loggedIn'] contents: 
+12/24/2013 04:12:22 - /bootstrap/bootstrap.css
+12/24/2013 04:12:22 - /Index/index.js
+12/24/2013 04:12:22 - /Index/index.css
+12/24/2013 04:12:22 - /Index/floatingBrad.jpg
+12/24/2013 04:12:22 - /Index/RetrieveComments.php
+12/24/2013 04:12:22 - Retrieve Comments
+12/24/2013 04:12:26 - /index
+12/24/2013 04:12:26 - Index.php, not logged in - SESSION['loggedIn'] contents: 
+12/24/2013 04:12:26 - /bootstrap/bootstrap.css
+12/24/2013 04:12:26 - /Index/index.js
+12/24/2013 04:12:26 - /Index/index.css
+12/24/2013 04:12:26 - /Index/floatingBrad.jpg
+12/24/2013 04:12:26 - /Index/RetrieveComments.php
+12/24/2013 04:12:26 - Retrieve Comments
+12/24/2013 04:15:59 - /
+12/24/2013 04:15:59 - Index.php, not logged in - SESSION['loggedIn'] contents: 
+12/24/2013 04:15:59 - /bootstrap/bootstrap.css
+12/24/2013 04:15:59 - /Index/index.css
+12/24/2013 04:15:59 - /Index/index.js
+12/24/2013 04:15:59 - /Index/floatingBrad.jpg
+12/24/2013 04:15:59 - /Index/RetrieveComments.php
+12/24/2013 04:15:59 - Retrieve Comments
+12/24/2013 04:16:03 - /Resume/
+12/24/2013 04:16:03 - /Resume/resume.css
+12/24/2013 04:16:03 - /Resume/bootstrap/bootstrap.css
+12/24/2013 04:16:03 - /Common/backButton.js
+12/24/2013 04:16:04 - /
+12/24/2013 04:16:04 - Index.php, not logged in - SESSION['loggedIn'] contents: 
+12/24/2013 04:16:05 - /Index/index.js
+12/24/2013 04:16:05 - /bootstrap/bootstrap.css
+12/24/2013 04:16:05 - /Index/index.css
+12/24/2013 04:16:05 - /Index/RetrieveComments.php
+12/24/2013 04:16:05 - Retrieve Comments
+12/24/2013 04:16:05 - /Index/floatingBrad.jpg
+12/24/2013 04:16:18 - /
+12/24/2013 04:16:18 - Index.php, not logged in - SESSION['loggedIn'] contents: 
+12/24/2013 04:16:18 - /Index/index.css
+12/24/2013 04:16:18 - /Index/index.js
+12/24/2013 04:16:18 - /bootstrap/bootstrap.css
+12/24/2013 04:16:18 - /Index/floatingBrad.jpg
+12/24/2013 04:16:18 - /Index/RetrieveComments.php
+12/24/2013 04:16:18 - Retrieve Comments
+12/24/2013 04:16:22 - /
+12/24/2013 04:16:22 - Index.php, not logged in - SESSION['loggedIn'] contents: 
+12/24/2013 04:16:22 - /bootstrap/bootstrap.css
+12/24/2013 04:16:22 - /Index/index.css
+12/24/2013 04:16:22 - /Index/index.js
+12/24/2013 04:16:22 - /Index/floatingBrad.jpg
+12/24/2013 04:16:22 - /Index/RetrieveComments.php
+12/24/2013 04:16:22 - Retrieve Comments
+12/24/2013 04:17:03 - /
+12/24/2013 04:17:03 - Index.php, not logged in - SESSION['loggedIn'] contents: 
+12/24/2013 04:17:03 - /bootstrap/bootstrap.css
+12/24/2013 04:17:03 - /Index/index.css
+12/24/2013 04:17:03 - /Index/index.js
+12/24/2013 04:17:03 - /Index/floatingBrad.jpg
+12/24/2013 04:17:03 - /Index/RetrieveComments.php
+12/24/2013 04:17:03 - Retrieve Comments
+12/24/2013 04:17:42 - /
+12/24/2013 04:17:42 - Index.php, not logged in - SESSION['loggedIn'] contents: 
+12/24/2013 04:17:42 - /bootstrap/bootstrap.css
+12/24/2013 04:17:42 - /Index/index.css
+12/24/2013 04:17:42 - /Index/index.js
+12/24/2013 04:17:42 - /Index/floatingBrad.jpg
+12/24/2013 04:17:42 - /Index/RetrieveComments.php
+12/24/2013 04:17:42 - Retrieve Comments
+12/24/2013 04:17:45 - /
+12/24/2013 04:17:45 - Index.php, not logged in - SESSION['loggedIn'] contents: 
+12/24/2013 04:17:45 - /Index/index.js
+12/24/2013 04:17:45 - /bootstrap/bootstrap.css
+12/24/2013 04:17:45 - /Index/index.css
+12/24/2013 04:17:45 - /Index/RetrieveComments.php
+12/24/2013 04:17:45 - Retrieve Comments
+12/24/2013 04:17:45 - /Index/floatingBrad.jpg
+12/24/2013 04:18:13 - /
+12/24/2013 04:18:13 - Index.php, not logged in - SESSION['loggedIn'] contents: 
+12/24/2013 04:18:13 - /bootstrap/bootstrap.css
+12/24/2013 04:18:13 - /Index/index.css
+12/24/2013 04:18:13 - /Index/index.js
+12/24/2013 04:18:13 - /Index/floatingBrad.jpg
+12/24/2013 04:18:13 - /Index/RetrieveComments.php
+12/24/2013 04:18:13 - Retrieve Comments
+12/24/2013 04:19:34 - /
+12/24/2013 04:19:34 - Index.php, not logged in - SESSION['loggedIn'] contents: 
+12/24/2013 04:19:34 - /bootstrap/bootstrap.css
+12/24/2013 04:19:34 - /Index/index.css
+12/24/2013 04:19:34 - /Index/index.js
+12/24/2013 04:19:53 - /
+12/24/2013 04:19:53 - Index.php, not logged in - SESSION['loggedIn'] contents: 
+12/24/2013 04:19:53 - /bootstrap/bootstrap.css
+12/24/2013 04:19:53 - /Index/index.js
+12/24/2013 04:19:53 - /Index/index.css
+12/24/2013 04:19:53 - /Index/RetrieveComments.php
+12/24/2013 04:19:53 - Retrieve Comments
+12/24/2013 04:19:53 - /Index/floatingBrad.jpg
+12/24/2013 04:19:55 - /Resume/
+12/24/2013 04:19:55 - /Common/backButton.js
+12/24/2013 04:19:55 - /Resume/resume.css
+12/24/2013 04:19:55 - /Resume/bootstrap/bootstrap.css
+12/24/2013 04:19:58 - /
+12/24/2013 04:19:58 - Index.php, not logged in - SESSION['loggedIn'] contents: 
+12/24/2013 04:19:59 - /Index/index.js
+12/24/2013 04:19:59 - /Index/index.css
+12/24/2013 04:19:59 - /bootstrap/bootstrap.css
+12/24/2013 04:19:59 - /Index/floatingBrad.jpg
+12/24/2013 04:19:59 - /Index/RetrieveComments.php
+12/24/2013 04:19:59 - Retrieve Comments
+12/24/2013 04:20:01 - /
+12/24/2013 04:20:01 - Index.php, not logged in - SESSION['loggedIn'] contents: 
+12/24/2013 04:20:01 - /Index/index.css
+12/24/2013 04:20:01 - /bootstrap/bootstrap.css
+12/24/2013 04:20:01 - /Index/index.js
+12/24/2013 04:20:01 - /Index/floatingBrad.jpg
+12/24/2013 04:20:01 - /Index/RetrieveComments.php
+12/24/2013 04:20:01 - Retrieve Comments
+12/24/2013 04:20:13 - /
+12/24/2013 04:20:13 - Index.php, not logged in - SESSION['loggedIn'] contents: 
+12/24/2013 04:20:13 - /bootstrap/bootstrap.css
+12/24/2013 04:20:13 - /Index/index.css
+12/24/2013 04:20:13 - /Index/index.js
+12/24/2013 04:20:13 - /Index/RetrieveComments.php
+12/24/2013 04:20:13 - Retrieve Comments
+12/24/2013 04:20:13 - /Index/floatingBrad.jpg
+12/24/2013 04:20:18 - /Resume/
+12/24/2013 04:20:18 - /Common/backButton.js
+12/24/2013 04:20:18 - /Resume/resume.css
+12/24/2013 04:20:18 - /Resume/bootstrap/bootstrap.css
+12/24/2013 04:20:20 - /
+12/24/2013 04:20:20 - Index.php, not logged in - SESSION['loggedIn'] contents: 
+12/24/2013 04:20:20 - /bootstrap/bootstrap.css
+12/24/2013 04:20:20 - /Index/index.js
+12/24/2013 04:20:20 - /Index/index.css
+12/24/2013 04:20:20 - /Index/RetrieveComments.php
+12/24/2013 04:20:20 - Retrieve Comments
+12/24/2013 04:20:20 - /Index/floatingBrad.jpg
+12/24/2013 04:21:02 - /Index/
+12/24/2013 04:21:02 - Index.php, not logged in - SESSION['loggedIn'] contents: 
+12/24/2013 04:21:02 - /bootstrap/bootstrap.css
+12/24/2013 04:21:02 - /Index/index.js
+12/24/2013 04:21:02 - /Index/index.css
+12/24/2013 04:21:02 - /Index/floatingBrad.jpg
+12/24/2013 04:21:02 - /Index/RetrieveComments.php
+12/24/2013 04:21:02 - Retrieve Comments
+12/24/2013 04:21:07 - /
+12/24/2013 04:21:07 - Index.php, not logged in - SESSION['loggedIn'] contents: 
+12/24/2013 04:21:07 - /bootstrap/bootstrap.css
+12/24/2013 04:21:07 - /Index/index.js
+12/24/2013 04:21:07 - /Index/index.css
+12/24/2013 04:21:07 - /Index/RetrieveComments.php
+12/24/2013 04:21:07 - Retrieve Comments
+12/24/2013 04:21:07 - /Index/floatingBrad.jpg
+12/24/2013 04:21:23 - /Login/
+12/24/2013 04:21:23 - /Login/login.css
+12/24/2013 04:21:23 - /bootstrap/bootstrap.css
+12/24/2013 04:21:23 - /Common/backButton.js
+12/24/2013 04:21:23 - /Common/jquery.js
+12/24/2013 04:21:23 - /Login/login.js
+12/24/2013 04:21:26 - /Login/login.php
+12/24/2013 04:21:27 - Login.php - login success.  SESSION['loggedIn'] before:
+
+12/24/2013 04:21:27 - Login.php - login success.  SESSION['loggedIn'] after:
+1
+12/24/2013 04:21:29 - /
+12/24/2013 04:21:29 - Index.php, logged in - SESSION['loggedIn'] contents: 1
+12/24/2013 04:21:29 - /bootstrap/bootstrap.css
+12/24/2013 04:21:29 - /Index/index.css
+12/24/2013 04:21:29 - /Index/index.js
+12/24/2013 04:21:29 - /Index/floatingBrad.jpg
+12/24/2013 04:21:29 - /Index/RetrieveComments.php
+12/24/2013 04:21:29 - Retrieve Comments
+12/24/2013 04:21:33 - /Contact/
+12/24/2013 04:21:33 - /Contact/contact.css
+12/24/2013 04:21:33 - /Contact/bootstrap/bootstrap.css
+12/24/2013 04:21:33 - /Common/backButton.js
+12/24/2013 04:21:34 - /
+12/24/2013 04:21:34 - Index.php, logged in - SESSION['loggedIn'] contents: 1
+12/24/2013 04:21:34 - /Index/index.css
+12/24/2013 04:21:34 - /Index/index.js
+12/24/2013 04:21:34 - /bootstrap/bootstrap.css
+12/24/2013 04:21:34 - /Index/RetrieveComments.php
+12/24/2013 04:21:34 - Retrieve Comments
+12/24/2013 04:21:34 - /Index/floatingBrad.jpg
+12/24/2013 04:21:39 - /Thesaurify/
+12/24/2013 04:21:39 - /Thesaurify/thesaurify.js
+12/24/2013 04:21:39 - /Common/backButton.js
+12/24/2013 04:21:39 - /Thesaurify/thesaurify.css
+12/24/2013 04:21:39 - /Thesaurify/loading.gif
+12/24/2013 04:22:29 - /
+12/24/2013 04:22:29 - Index.php, logged in - SESSION['loggedIn'] contents: 1
+12/24/2013 04:22:29 - /bootstrap/bootstrap.css
+12/24/2013 04:22:29 - /Index/index.js
+12/24/2013 04:22:29 - /Index/index.css
+12/24/2013 04:22:30 - /Index/RetrieveComments.php
+12/24/2013 04:22:30 - Retrieve Comments
+12/24/2013 04:22:30 - /Index/floatingBrad.jpg
+12/24/2013 04:23:10 - /?logout=1
+12/24/2013 04:23:10 - Index.php, not logged in - SESSION['loggedIn'] contents: 
+12/24/2013 04:23:10 - /bootstrap/bootstrap.css
+12/24/2013 04:23:10 - /Index/index.js
+12/24/2013 04:23:10 - /Index/index.css
+12/24/2013 04:23:11 - /Index/floatingBrad.jpg
+12/24/2013 04:23:11 - /Index/RetrieveComments.php
+12/24/2013 04:23:11 - Retrieve Comments
+12/24/2013 04:23:13 - /Resume/
+12/24/2013 04:23:13 - /Resume/bootstrap/bootstrap.css
+12/24/2013 04:23:13 - /Resume/resume.css
+12/24/2013 04:23:13 - /Common/backButton.js
+12/24/2013 04:23:14 - /
+12/24/2013 04:23:14 - Index.php, not logged in - SESSION['loggedIn'] contents: 
+12/24/2013 04:23:14 - /bootstrap/bootstrap.css
+12/24/2013 04:23:14 - /Index/index.js
+12/24/2013 04:23:14 - /Index/index.css
+12/24/2013 04:23:15 - /Index/RetrieveComments.php
+12/24/2013 04:23:15 - Retrieve Comments
+12/24/2013 04:23:15 - /Index/floatingBrad.jpg
+12/24/2013 04:23:17 - /Contact/
+12/24/2013 04:23:17 - /Contact/contact.css
+12/24/2013 04:23:17 - /Common/backButton.js
+12/24/2013 04:23:17 - /Contact/bootstrap/bootstrap.css
+12/24/2013 04:23:19 - /
+12/24/2013 04:23:19 - Index.php, not logged in - SESSION['loggedIn'] contents: 
+12/24/2013 04:23:19 - /Index/index.js
+12/24/2013 04:23:19 - /Index/index.css
+12/24/2013 04:23:19 - /bootstrap/bootstrap.css
+12/24/2013 04:23:20 - /Index/RetrieveComments.php
+12/24/2013 04:23:20 - Retrieve Comments
+12/24/2013 04:23:20 - /Index/floatingBrad.jpg
+12/24/2013 04:23:51 - /Register/
+12/24/2013 04:23:51 - /bootstrap/bootstrap.css
+12/24/2013 04:23:51 - /Common/jquery.js
+12/24/2013 04:23:51 - /Common/backButton.js
+12/24/2013 04:23:51 - /Register/register.css
+12/24/2013 04:23:51 - /Register/register.js
+12/24/2013 04:23:54 - /
+12/24/2013 04:23:54 - Index.php, not logged in - SESSION['loggedIn'] contents: 
+12/24/2013 04:23:54 - /bootstrap/bootstrap.css
+12/24/2013 04:23:54 - /Index/index.css
+12/24/2013 04:23:54 - /Index/index.js
+12/24/2013 04:23:54 - /Index/floatingBrad.jpg
+12/24/2013 04:23:54 - /Index/RetrieveComments.php
+12/24/2013 04:23:54 - Retrieve Comments
+12/24/2013 04:23:56 - /Login/
+12/24/2013 04:23:56 - /bootstrap/bootstrap.css
+12/24/2013 04:23:56 - /Login/login.js
+12/24/2013 04:23:56 - /Common/backButton.js
+12/24/2013 04:23:56 - /Common/jquery.js
+12/24/2013 04:23:56 - /Login/login.css
+12/24/2013 04:23:58 - /
+12/24/2013 04:23:58 - Index.php, not logged in - SESSION['loggedIn'] contents: 
+12/24/2013 04:23:58 - /Index/index.js
+12/24/2013 04:23:58 - /bootstrap/bootstrap.css
+12/24/2013 04:23:58 - /Index/index.css
+12/24/2013 04:23:58 - /Index/floatingBrad.jpg
+12/24/2013 04:23:58 - /Index/RetrieveComments.php
+12/24/2013 04:23:58 - Retrieve Comments
+12/24/2013 04:35:49 - http://wikipedia.pl
+12/24/2013 04:35:49 - Index.php, not logged in - SESSION['loggedIn'] contents: 
+12/24/2013 09:27:11 - /manager/html
+12/24/2013 09:27:11 - Index.php, not logged in - SESSION['loggedIn'] contents: 
+12/24/2013 09:39:40 - /
+12/24/2013 09:39:40 - Index.php, not logged in - SESSION['loggedIn'] contents: 
+12/24/2013 09:39:41 - /bootstrap/bootstrap.css
+12/24/2013 09:39:41 - /Index/index.js
+12/24/2013 09:39:41 - /Index/index.css
+12/24/2013 09:39:42 - /Index/floatingBrad.jpg
+12/24/2013 09:39:43 - /Index/RetrieveComments.php
+12/24/2013 09:39:43 - Retrieve Comments
+12/24/2013 09:39:43 - /favicon.ico
+12/24/2013 09:39:43 - Index.php, not logged in - SESSION['loggedIn'] contents: 
+12/24/2013 09:40:13 - /Login/
+12/24/2013 09:40:13 - /bootstrap/bootstrap.css
+12/24/2013 09:40:13 - /Login/login.css
+12/24/2013 09:40:13 - /Login/login.js
+12/24/2013 09:40:13 - /Common/jquery.js
+12/24/2013 09:40:14 - /Common/backButton.js
+12/24/2013 09:40:23 - /favicon.ico
+12/24/2013 09:40:23 - Index.php, not logged in - SESSION['loggedIn'] contents: 
+12/24/2013 09:40:30 - /
+12/24/2013 09:40:30 - Index.php, not logged in - SESSION['loggedIn'] contents: 
+12/24/2013 09:40:30 - /bootstrap/bootstrap.css
+12/24/2013 09:40:30 - /Index/index.css
+12/24/2013 09:40:30 - /Index/index.js
+12/24/2013 09:40:30 - /Index/floatingBrad.jpg
+12/24/2013 09:40:30 - /Index/RetrieveComments.php
+12/24/2013 09:40:30 - Retrieve Comments
+12/24/2013 09:41:20 - /Contact/
+12/24/2013 09:41:20 - /Contact/bootstrap/bootstrap.css
+12/24/2013 09:41:20 - /Contact/contact.css
+12/24/2013 09:41:21 - /Common/backButton.js
+12/24/2013 09:41:39 - /Resume/
+12/24/2013 09:41:40 - /Resume/bootstrap/bootstrap.css
+12/24/2013 09:41:40 - /Common/backButton.js
+12/24/2013 09:41:40 - /Resume/resume.css
+12/24/2013 10:00:04 - /w00tw00t.at.blackhats.romanian.anti-sec:)
+12/24/2013 10:00:04 - Index.php, not logged in - SESSION['loggedIn'] contents: 
+12/24/2013 10:00:04 - /phpMyAdmin/scripts/setup.php
+12/24/2013 10:00:04 - Index.php, not logged in - SESSION['loggedIn'] contents: 
+12/24/2013 10:00:07 - /pma/scripts/setup.php
+12/24/2013 10:00:07 - Index.php, not logged in - SESSION['loggedIn'] contents: 
+12/24/2013 10:00:09 - /myadmin/scripts/setup.php
+12/24/2013 10:00:09 - Index.php, not logged in - SESSION['loggedIn'] contents: 
+12/24/2013 10:00:09 - /MyAdmin/scripts/setup.php
+12/24/2013 10:00:09 - Index.php, not logged in - SESSION['loggedIn'] contents: 
+12/24/2013 01:20:07 - /manager/html
+12/24/2013 01:20:07 - Index.php, not logged in - SESSION['loggedIn'] contents: 
+12/24/2013 01:59:52 - /
+12/24/2013 01:59:52 - Index.php, not logged in - SESSION['loggedIn'] contents: 
+12/24/2013 01:59:52 - /bootstrap/bootstrap.css
+12/24/2013 01:59:52 - /Index/index.js
+12/24/2013 01:59:52 - /Index/index.css
+12/24/2013 01:59:53 - /Index/RetrieveComments.php
+12/24/2013 01:59:53 - Retrieve Comments
+12/24/2013 01:59:53 - /Index/floatingBrad.jpg
+12/24/2013 02:12:09 - /
+12/24/2013 02:12:09 - Index.php, not logged in - SESSION['loggedIn'] contents: 
+12/24/2013 03:45:00 - /Login/
+12/24/2013 03:45:00 - /bootstrap/bootstrap.css
+12/24/2013 03:45:00 - /Login/login.css
+12/24/2013 03:45:00 - /Common/backButton.js
+12/24/2013 03:45:00 - /Login/login.js
+12/24/2013 03:45:00 - /Common/jquery.js
+12/24/2013 03:45:07 - /
+12/24/2013 03:45:07 - Index.php, not logged in - SESSION['loggedIn'] contents: 
+12/24/2013 03:45:07 - /bootstrap/bootstrap.css
+12/24/2013 03:45:07 - /Index/index.js
+12/24/2013 03:45:07 - /Index/index.css
+12/24/2013 03:45:07 - /Index/RetrieveComments.php
+12/24/2013 03:45:07 - Retrieve Comments
+12/24/2013 03:45:07 - /Index/floatingBrad.jpg
+12/24/2013 05:05:43 - /web-console/ServerInfo.jsp
+12/24/2013 05:05:43 - Index.php, not logged in - SESSION['loggedIn'] contents: 
+12/24/2013 05:59:22 - /web-console/ServerInfo.jsp
+12/24/2013 05:59:22 - Index.php, not logged in - SESSION['loggedIn'] contents: 
+12/24/2013 06:01:14 - /robots.txt
+12/24/2013 06:01:14 - Index.php, not logged in - SESSION['loggedIn'] contents: 
+12/24/2013 06:01:14 - /
+12/24/2013 06:01:14 - Index.php, not logged in - SESSION['loggedIn'] contents: 
+12/24/2013 06:07:28 - /Index/index.css
+12/24/2013 06:08:21 - /robots.txt
+12/24/2013 06:08:21 - Index.php, not logged in - SESSION['loggedIn'] contents: 
+12/24/2013 06:08:22 - /Register/
+12/24/2013 06:08:22 - /Login/
+12/24/2013 06:18:48 - /Common/jquery.js
+12/24/2013 06:18:49 - /Login/login.js
+12/24/2013 06:18:50 - /Register/register.js
+12/24/2013 06:18:50 - /Common/backButton.js
+12/24/2013 06:18:51 - /Login/login.css
+12/24/2013 06:18:51 - /Common/backButton.js
+12/24/2013 06:18:52 - /Common/jquery.js
+12/24/2013 06:19:58 - /bootstrap/bootstrap.css
+12/24/2013 06:19:58 - /bootstrap/bootstrap.css
+12/24/2013 06:19:59 - /Register/register.css
+12/24/2013 07:55:48 - /robots.txt
+12/24/2013 07:55:48 - Index.php, not logged in - SESSION['loggedIn'] contents: 
+12/24/2013 07:55:49 - /Thesaurify/
+12/24/2013 07:59:54 - /Thesaurify/thesaurify.css
+12/24/2013 10:52:41 - /
+12/24/2013 10:52:41 - Index.php, not logged in - SESSION['loggedIn'] contents: 
+12/24/2013 10:52:41 - /cgi-bin/php?%2D%64+%61%6C%6C%6F%77%5F%75%72%6C%5F%69%6E%63%6C%75%64%65%3D%6F%6E+%2D%64+%73%61%66%65%5F%6D%6F%64%65%3D%6F%66%66+%2D%64+%73%75%68%6F%73%69%6E%2E%73%69%6D%75%6C%61%74%69%6F%6E%3D%6F%6E+%2D%64+%64%69%73%61%62%6C%65%5F%66%75%6E%63%74%69%6F%6E%73%3D%22%22+%2D%64+%6F%70%65%6E%5F%62%61%73%65%64%69%72%3D%6E%6F%6E%65+%2D%64+%61%75%74%6F%5F%70%72%65%70%65%6E%64%5F%66%69%6C%65%3D%70%68%70%3A%2F%2F%69%6E%70%75%74+%2D%64+%63%67%69%2E%66%6F%72%63%65%5F%72%65%64%69%72%65%63%74%3D%30+%2D%64+%63%67%69%2E%72%65%64%69%72%65%63%74%5F%73%74%61%74%75%73%5F%65%6E%76%3D%30+%2D%6E
+12/24/2013 10:52:41 - Index.php, not logged in - SESSION['loggedIn'] contents: 
+12/24/2013 10:52:41 - /cgi-bin/php5?%2D%64+%61%6C%6C%6F%77%5F%75%72%6C%5F%69%6E%63%6C%75%64%65%3D%6F%6E+%2D%64+%73%61%66%65%5F%6D%6F%64%65%3D%6F%66%66+%2D%64+%73%75%68%6F%73%69%6E%2E%73%69%6D%75%6C%61%74%69%6F%6E%3D%6F%6E+%2D%64+%64%69%73%61%62%6C%65%5F%66%75%6E%63%74%69%6F%6E%73%3D%22%22+%2D%64+%6F%70%65%6E%5F%62%61%73%65%64%69%72%3D%6E%6F%6E%65+%2D%64+%61%75%74%6F%5F%70%72%65%70%65%6E%64%5F%66%69%6C%65%3D%70%68%70%3A%2F%2F%69%6E%70%75%74+%2D%64+%63%67%69%2E%66%6F%72%63%65%5F%72%65%64%69%72%65%63%74%3D%30+%2D%64+%63%67%69%2E%72%65%64%69%72%65%63%74%5F%73%74%61%74%75%73%5F%65%6E%76%3D%30+%2D%6E
+12/24/2013 10:52:41 - Index.php, not logged in - SESSION['loggedIn'] contents: 
+12/24/2013 10:52:41 - /cgi-bin/php-cgi?%2D%64+%61%6C%6C%6F%77%5F%75%72%6C%5F%69%6E%63%6C%75%64%65%3D%6F%6E+%2D%64+%73%61%66%65%5F%6D%6F%64%65%3D%6F%66%66+%2D%64+%73%75%68%6F%73%69%6E%2E%73%69%6D%75%6C%61%74%69%6F%6E%3D%6F%6E+%2D%64+%64%69%73%61%62%6C%65%5F%66%75%6E%63%74%69%6F%6E%73%3D%22%22+%2D%64+%6F%70%65%6E%5F%62%61%73%65%64%69%72%3D%6E%6F%6E%65+%2D%64+%61%75%74%6F%5F%70%72%65%70%65%6E%64%5F%66%69%6C%65%3D%70%68%70%3A%2F%2F%69%6E%70%75%74+%2D%64+%63%67%69%2E%66%6F%72%63%65%5F%72%65%64%69%72%65%63%74%3D%30+%2D%64+%63%67%69%2E%72%65%64%69%72%65%63%74%5F%73%74%61%74%75%73%5F%65%6E%76%3D%30+%2D%6E
+12/24/2013 10:52:41 - Index.php, not logged in - SESSION['loggedIn'] contents: 
+12/24/2013 10:52:41 - /cgi-bin/php.cgi?%2D%64+%61%6C%6C%6F%77%5F%75%72%6C%5F%69%6E%63%6C%75%64%65%3D%6F%6E+%2D%64+%73%61%66%65%5F%6D%6F%64%65%3D%6F%66%66+%2D%64+%73%75%68%6F%73%69%6E%2E%73%69%6D%75%6C%61%74%69%6F%6E%3D%6F%6E+%2D%64+%64%69%73%61%62%6C%65%5F%66%75%6E%63%74%69%6F%6E%73%3D%22%22+%2D%64+%6F%70%65%6E%5F%62%61%73%65%64%69%72%3D%6E%6F%6E%65+%2D%64+%61%75%74%6F%5F%70%72%65%70%65%6E%64%5F%66%69%6C%65%3D%70%68%70%3A%2F%2F%69%6E%70%75%74+%2D%64+%63%67%69%2E%66%6F%72%63%65%5F%72%65%64%69%72%65%63%74%3D%30+%2D%64+%63%67%69%2E%72%65%64%69%72%65%63%74%5F%73%74%61%74%75%73%5F%65%6E%76%3D%30+%2D%6E
+12/24/2013 10:52:41 - Index.php, not logged in - SESSION['loggedIn'] contents: 
+12/24/2013 10:52:41 - /cgi-bin/php4?%2D%64+%61%6C%6C%6F%77%5F%75%72%6C%5F%69%6E%63%6C%75%64%65%3D%6F%6E+%2D%64+%73%61%66%65%5F%6D%6F%64%65%3D%6F%66%66+%2D%64+%73%75%68%6F%73%69%6E%2E%73%69%6D%75%6C%61%74%69%6F%6E%3D%6F%6E+%2D%64+%64%69%73%61%62%6C%65%5F%66%75%6E%63%74%69%6F%6E%73%3D%22%22+%2D%64+%6F%70%65%6E%5F%62%61%73%65%64%69%72%3D%6E%6F%6E%65+%2D%64+%61%75%74%6F%5F%70%72%65%70%65%6E%64%5F%66%69%6C%65%3D%70%68%70%3A%2F%2F%69%6E%70%75%74+%2D%64+%63%67%69%2E%66%6F%72%63%65%5F%72%65%64%69%72%65%63%74%3D%30+%2D%64+%63%67%69%2E%72%65%64%69%72%65%63%74%5F%73%74%61%74%75%73%5F%65%6E%76%3D%30+%2D%6E
+12/24/2013 10:52:41 - Index.php, not logged in - SESSION['loggedIn'] contents: 
+12/24/2013 11:50:00 - /List/
+12/24/2013 11:50:01 - /bootstrap/bootstrap.css
+12/24/2013 11:50:01 - /List/list.css
+12/24/2013 11:50:01 - /Common/jquery.js
+12/24/2013 11:50:01 - /Common/backButton.js
+12/24/2013 11:50:01 - /List/list.js
+12/24/2013 11:50:05 - /
+12/24/2013 11:50:05 - Index.php, not logged in - SESSION['loggedIn'] contents: 
+12/24/2013 11:50:05 - /bootstrap/bootstrap.css
+12/24/2013 11:50:05 - /Index/index.css
+12/24/2013 11:50:05 - /Index/index.js
+12/24/2013 11:50:06 - /Index/RetrieveComments.php
+12/24/2013 11:50:06 - Retrieve Comments
+12/24/2013 11:50:06 - /Index/floatingBrad.jpg
+12/24/2013 11:50:07 - /Login/
+12/24/2013 11:50:07 - /Login/login.css
+12/24/2013 11:50:07 - /bootstrap/bootstrap.css
+12/24/2013 11:50:07 - /Login/login.js
+12/24/2013 11:50:07 - /Common/jquery.js
+12/24/2013 11:50:08 - /Common/backButton.js
+12/24/2013 11:50:12 - /Login/login.php
+12/24/2013 11:50:12 - Login.php - login success.  SESSION['loggedIn'] before:
+
+12/24/2013 11:50:12 - Login.php - login success.  SESSION['loggedIn'] after:
+1
+12/24/2013 11:50:17 - /
+12/24/2013 11:50:17 - Index.php, logged in - SESSION['loggedIn'] contents: 1
+12/24/2013 11:50:17 - /bootstrap/bootstrap.css
+12/24/2013 11:50:17 - /Index/index.js
+12/24/2013 11:50:17 - /Index/index.css
+12/24/2013 11:50:17 - /Index/floatingBrad.jpg
+12/24/2013 11:50:17 - /Index/RetrieveComments.php
+12/24/2013 11:50:17 - Retrieve Comments
+12/24/2013 11:50:20 - /List/
+12/24/2013 11:50:20 - /List/list.css
+12/24/2013 11:50:20 - /bootstrap/bootstrap.css
+12/24/2013 11:50:20 - /Common/jquery.js
+12/24/2013 11:50:21 - /Common/backButton.js
+12/24/2013 11:50:21 - /List/list.js
+12/24/2013 11:50:24 - /
+12/24/2013 11:50:24 - Index.php, logged in - SESSION['loggedIn'] contents: 1
+12/24/2013 11:50:24 - /bootstrap/bootstrap.css
+12/24/2013 11:50:24 - /Index/index.js
+12/24/2013 11:50:24 - /Index/index.css
+12/24/2013 11:50:24 - /Index/floatingBrad.jpg
+12/24/2013 11:50:24 - /Index/RetrieveComments.php
+12/24/2013 11:50:24 - Retrieve Comments
+12/24/2013 11:50:25 - /?logout=1
+12/24/2013 11:50:25 - Index.php, not logged in - SESSION['loggedIn'] contents: 
+12/24/2013 11:50:25 - /bootstrap/bootstrap.css
+12/24/2013 11:50:25 - /Index/index.js
+12/24/2013 11:50:25 - /Index/index.css
+12/24/2013 11:50:25 - /Index/floatingBrad.jpg
+12/24/2013 11:50:25 - /Index/RetrieveComments.php
+12/24/2013 11:50:25 - Retrieve Comments
+12/24/2013 11:50:29 - /List/
+12/24/2013 11:50:29 - /Common/jquery.js
+12/24/2013 11:50:29 - /bootstrap/bootstrap.css
+12/24/2013 11:50:29 - /List/list.css
+12/24/2013 11:50:29 - /Common/backButton.js
+12/24/2013 11:50:29 - /List/list.js

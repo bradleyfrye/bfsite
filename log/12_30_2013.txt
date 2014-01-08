@@ -1,0 +1,799 @@
+12/30/2013 12:13:17 - /
+12/30/2013 12:13:17 - Index.php, not logged in - SESSION['loggedIn'] contents: 
+12/30/2013 12:13:17 - /bootstrap/bootstrap.css
+12/30/2013 12:13:17 - /Index/index.css
+12/30/2013 12:13:17 - /Common/ajaxRequest.js
+12/30/2013 12:13:17 - /Index/index.js
+12/30/2013 12:13:17 - /Index/floatingBrad.jpg
+12/30/2013 12:13:18 - /Index/RetrieveComments.php
+12/30/2013 12:13:18 - Retrieve Comments
+12/30/2013 12:13:18 - /favicon.ico
+12/30/2013 12:13:18 - Index.php, not logged in - SESSION['loggedIn'] contents: 
+12/30/2013 12:13:22 - /Resume/
+12/30/2013 12:13:22 - /Resume/bootstrap/bootstrap.css
+12/30/2013 12:13:22 - /Common/backButton.js
+12/30/2013 12:13:22 - /Resume/resume.css
+12/30/2013 12:13:22 - /favicon.ico
+12/30/2013 12:13:22 - Index.php, not logged in - SESSION['loggedIn'] contents: 
+12/30/2013 12:15:09 - /
+12/30/2013 12:15:09 - Index.php, not logged in - SESSION['loggedIn'] contents: 
+12/30/2013 12:15:09 - /Index/RetrieveComments.php
+12/30/2013 12:15:09 - Retrieve Comments
+12/30/2013 12:15:09 - /favicon.ico
+12/30/2013 12:15:09 - Index.php, not logged in - SESSION['loggedIn'] contents: 
+12/30/2013 12:15:12 - /Contact/
+12/30/2013 12:15:12 - /Contact/bootstrap/bootstrap.css
+12/30/2013 12:15:12 - /Contact/contact.css
+12/30/2013 12:15:12 - /Common/backButton.js
+12/30/2013 12:15:13 - /favicon.ico
+12/30/2013 12:15:13 - Index.php, not logged in - SESSION['loggedIn'] contents: 
+12/30/2013 12:15:24 - /
+12/30/2013 12:15:24 - Index.php, not logged in - SESSION['loggedIn'] contents: 
+12/30/2013 12:15:24 - /Index/RetrieveComments.php
+12/30/2013 12:15:24 - Retrieve Comments
+12/30/2013 12:15:24 - /favicon.ico
+12/30/2013 12:15:24 - Index.php, not logged in - SESSION['loggedIn'] contents: 
+12/30/2013 01:01:13 - /wp-admin/
+12/30/2013 01:01:13 - Index.php, not logged in - SESSION['loggedIn'] contents: 
+12/30/2013 01:01:13 - /wordpress/wp-admin/
+12/30/2013 01:01:13 - Index.php, not logged in - SESSION['loggedIn'] contents: 
+12/30/2013 01:01:14 - /blog/wp-admin/
+12/30/2013 01:01:14 - Index.php, not logged in - SESSION['loggedIn'] contents: 
+12/30/2013 01:33:30 - /robots.txt
+12/30/2013 01:33:30 - Index.php, not logged in - SESSION['loggedIn'] contents: 
+12/30/2013 01:34:43 - /
+12/30/2013 01:34:43 - Index.php, not logged in - SESSION['loggedIn'] contents: 
+12/30/2013 04:28:45 - /w00tw00t.at.blackhats.romanian.anti-sec:)
+12/30/2013 04:28:45 - Index.php, not logged in - SESSION['loggedIn'] contents: 
+12/30/2013 04:28:45 - /phpmyadmin/
+12/30/2013 04:28:45 - Index.php, not logged in - SESSION['loggedIn'] contents: 
+12/30/2013 04:28:46 - /phpMyAdmin/
+12/30/2013 04:28:46 - Index.php, not logged in - SESSION['loggedIn'] contents: 
+12/30/2013 04:28:46 - /PMA/
+12/30/2013 04:28:46 - Index.php, not logged in - SESSION['loggedIn'] contents: 
+12/30/2013 04:28:46 - /pma/
+12/30/2013 04:28:46 - Index.php, not logged in - SESSION['loggedIn'] contents: 
+12/30/2013 04:28:46 - /admin/
+12/30/2013 04:28:46 - Index.php, not logged in - SESSION['loggedIn'] contents: 
+12/30/2013 04:28:46 - /dbadmin/
+12/30/2013 04:28:46 - Index.php, not logged in - SESSION['loggedIn'] contents: 
+12/30/2013 04:28:47 - /sql/
+12/30/2013 04:28:47 - Index.php, not logged in - SESSION['loggedIn'] contents: 
+12/30/2013 04:28:47 - /mysql/
+12/30/2013 04:28:47 - Index.php, not logged in - SESSION['loggedIn'] contents: 
+12/30/2013 04:28:47 - /myadmin/
+12/30/2013 04:28:47 - Index.php, not logged in - SESSION['loggedIn'] contents: 
+12/30/2013 04:28:47 - /phpmyadmin2/
+12/30/2013 04:28:47 - Index.php, not logged in - SESSION['loggedIn'] contents: 
+12/30/2013 04:28:47 - /phpMyAdmin2/
+12/30/2013 04:28:47 - Index.php, not logged in - SESSION['loggedIn'] contents: 
+12/30/2013 04:28:48 - /phpMyAdmin-2/
+12/30/2013 04:28:48 - Index.php, not logged in - SESSION['loggedIn'] contents: 
+12/30/2013 04:28:48 - /php-my-admin/
+12/30/2013 04:28:48 - Index.php, not logged in - SESSION['loggedIn'] contents: 
+12/30/2013 04:28:48 - /sqlmanager/
+12/30/2013 04:28:48 - Index.php, not logged in - SESSION['loggedIn'] contents: 
+12/30/2013 04:28:48 - /mysqlmanager/
+12/30/2013 04:28:48 - Index.php, not logged in - SESSION['loggedIn'] contents: 
+12/30/2013 04:28:48 - /p/m/a/
+12/30/2013 04:28:48 - Index.php, not logged in - SESSION['loggedIn'] contents: 
+12/30/2013 04:28:48 - /php-myadmin/
+12/30/2013 04:28:48 - Index.php, not logged in - SESSION['loggedIn'] contents: 
+12/30/2013 04:28:49 - /phpmy-admin/
+12/30/2013 04:28:49 - Index.php, not logged in - SESSION['loggedIn'] contents: 
+12/30/2013 04:28:49 - /webadmin/
+12/30/2013 04:28:49 - Index.php, not logged in - SESSION['loggedIn'] contents: 
+12/30/2013 04:28:49 - /sqlweb/
+12/30/2013 04:28:49 - Index.php, not logged in - SESSION['loggedIn'] contents: 
+12/30/2013 04:28:49 - /websql/
+12/30/2013 04:28:49 - Index.php, not logged in - SESSION['loggedIn'] contents: 
+12/30/2013 04:28:49 - /webdb/
+12/30/2013 04:28:49 - Index.php, not logged in - SESSION['loggedIn'] contents: 
+12/30/2013 04:28:50 - /mysqladmin/
+12/30/2013 04:28:50 - Index.php, not logged in - SESSION['loggedIn'] contents: 
+12/30/2013 04:28:50 - /mysql-admin/
+12/30/2013 04:28:50 - Index.php, not logged in - SESSION['loggedIn'] contents: 
+12/30/2013 04:28:50 - /scripts/setup.php
+12/30/2013 04:28:50 - Index.php, not logged in - SESSION['loggedIn'] contents: 
+12/30/2013 04:28:50 - /admin/scripts/setup.php
+12/30/2013 04:28:50 - Index.php, not logged in - SESSION['loggedIn'] contents: 
+12/30/2013 04:28:50 - /admin/pma/scripts/setup.php
+12/30/2013 04:28:50 - Index.php, not logged in - SESSION['loggedIn'] contents: 
+12/30/2013 04:28:51 - /admin/phpmyadmin/scripts/setup.php
+12/30/2013 04:28:51 - Index.php, not logged in - SESSION['loggedIn'] contents: 
+12/30/2013 04:28:51 - /db/scripts/setup.php
+12/30/2013 04:28:51 - Index.php, not logged in - SESSION['loggedIn'] contents: 
+12/30/2013 04:28:51 - /dbadmin/scripts/setup.php
+12/30/2013 04:28:51 - Index.php, not logged in - SESSION['loggedIn'] contents: 
+12/30/2013 04:28:51 - /myadmin/scripts/setup.php
+12/30/2013 04:28:51 - Index.php, not logged in - SESSION['loggedIn'] contents: 
+12/30/2013 04:28:52 - /mysql/scripts/setup.php
+12/30/2013 04:28:52 - Index.php, not logged in - SESSION['loggedIn'] contents: 
+12/30/2013 04:28:52 - /mysqladmin/scripts/setup.php
+12/30/2013 04:28:52 - Index.php, not logged in - SESSION['loggedIn'] contents: 
+12/30/2013 04:28:52 - /typo3/phpmyadmin/scripts/setup.php
+12/30/2013 04:28:52 - Index.php, not logged in - SESSION['loggedIn'] contents: 
+12/30/2013 04:28:52 - /phpadmin/scripts/setup.php
+12/30/2013 04:28:52 - Index.php, not logged in - SESSION['loggedIn'] contents: 
+12/30/2013 04:28:52 - /phpMyAdmin/scripts/setup.php
+12/30/2013 04:28:52 - Index.php, not logged in - SESSION['loggedIn'] contents: 
+12/30/2013 04:28:53 - /phpmyadmin/scripts/setup.php
+12/30/2013 04:28:53 - Index.php, not logged in - SESSION['loggedIn'] contents: 
+12/30/2013 04:28:53 - /phpmyadmin1/scripts/setup.php
+12/30/2013 04:28:53 - Index.php, not logged in - SESSION['loggedIn'] contents: 
+12/30/2013 04:28:53 - /phpmyadmin2/scripts/setup.php
+12/30/2013 04:28:53 - Index.php, not logged in - SESSION['loggedIn'] contents: 
+12/30/2013 04:28:53 - /pma/scripts/setup.php
+12/30/2013 04:28:53 - Index.php, not logged in - SESSION['loggedIn'] contents: 
+12/30/2013 04:28:54 - /web/phpMyAdmin/scripts/setup.php
+12/30/2013 04:28:54 - Index.php, not logged in - SESSION['loggedIn'] contents: 
+12/30/2013 04:28:54 - /xampp/phpmyadmin/scripts/setup.php
+12/30/2013 04:28:54 - Index.php, not logged in - SESSION['loggedIn'] contents: 
+12/30/2013 04:28:54 - /web/scripts/setup.php
+12/30/2013 04:28:54 - Index.php, not logged in - SESSION['loggedIn'] contents: 
+12/30/2013 04:28:54 - /php-my-admin/scripts/setup.php
+12/30/2013 04:28:54 - Index.php, not logged in - SESSION['loggedIn'] contents: 
+12/30/2013 04:28:54 - /websql/scripts/setup.php
+12/30/2013 04:28:54 - Index.php, not logged in - SESSION['loggedIn'] contents: 
+12/30/2013 04:28:55 - /phpmyadmin/scripts/setup.php
+12/30/2013 04:28:55 - Index.php, not logged in - SESSION['loggedIn'] contents: 
+12/30/2013 04:28:55 - /phpMyAdmin/scripts/setup.php
+12/30/2013 04:28:55 - Index.php, not logged in - SESSION['loggedIn'] contents: 
+12/30/2013 04:28:55 - /phpMyAdmin-2/scripts/setup.php
+12/30/2013 04:28:55 - Index.php, not logged in - SESSION['loggedIn'] contents: 
+12/30/2013 04:28:55 - /php-my-admin/scripts/setup.php
+12/30/2013 04:28:55 - Index.php, not logged in - SESSION['loggedIn'] contents: 
+12/30/2013 04:28:55 - /sqlmanager/scripts/setup.php
+12/30/2013 04:28:55 - Index.php, not logged in - SESSION['loggedIn'] contents: 
+12/30/2013 04:28:56 - /mysqlmanager/scripts/setup.php
+12/30/2013 04:28:56 - Index.php, not logged in - SESSION['loggedIn'] contents: 
+12/30/2013 04:28:56 - /p/m/a/scripts/setup.php
+12/30/2013 04:28:56 - Index.php, not logged in - SESSION['loggedIn'] contents: 
+12/30/2013 04:28:56 - /PMA2005/scripts/setup.php
+12/30/2013 04:28:56 - Index.php, not logged in - SESSION['loggedIn'] contents: 
+12/30/2013 04:28:56 - /pma2005/scripts/setup.php
+12/30/2013 04:28:56 - Index.php, not logged in - SESSION['loggedIn'] contents: 
+12/30/2013 04:28:56 - /phpmanager/scripts/setup.php
+12/30/2013 04:28:56 - Index.php, not logged in - SESSION['loggedIn'] contents: 
+12/30/2013 04:28:57 - /php-myadmin/scripts/setup.php
+12/30/2013 04:28:57 - Index.php, not logged in - SESSION['loggedIn'] contents: 
+12/30/2013 04:28:57 - /phpmy-admin/scripts/setup.php
+12/30/2013 04:28:57 - Index.php, not logged in - SESSION['loggedIn'] contents: 
+12/30/2013 04:28:57 - /webadmin/scripts/setup.php
+12/30/2013 04:28:57 - Index.php, not logged in - SESSION['loggedIn'] contents: 
+12/30/2013 04:28:57 - /sqlweb/scripts/setup.php
+12/30/2013 04:28:57 - Index.php, not logged in - SESSION['loggedIn'] contents: 
+12/30/2013 04:28:57 - /websql/scripts/setup.php
+12/30/2013 04:28:57 - Index.php, not logged in - SESSION['loggedIn'] contents: 
+12/30/2013 04:28:58 - /webdb/scripts/setup.php
+12/30/2013 04:28:58 - Index.php, not logged in - SESSION['loggedIn'] contents: 
+12/30/2013 04:28:58 - /mysqladmin/scripts/setup.php
+12/30/2013 04:28:58 - Index.php, not logged in - SESSION['loggedIn'] contents: 
+12/30/2013 04:28:58 - /mysql-admin/scripts/setup.php
+12/30/2013 04:28:58 - Index.php, not logged in - SESSION['loggedIn'] contents: 
+12/30/2013 04:58:27 - /
+12/30/2013 04:58:27 - Index.php, not logged in - SESSION['loggedIn'] contents: 
+12/30/2013 04:58:27 - /cgi-bin/php?%2D%64+%61%6C%6C%6F%77%5F%75%72%6C%5F%69%6E%63%6C%75%64%65%3D%6F%6E+%2D%64+%73%61%66%65%5F%6D%6F%64%65%3D%6F%66%66+%2D%64+%73%75%68%6F%73%69%6E%2E%73%69%6D%75%6C%61%74%69%6F%6E%3D%6F%6E+%2D%64+%64%69%73%61%62%6C%65%5F%66%75%6E%63%74%69%6F%6E%73%3D%22%22+%2D%64+%6F%70%65%6E%5F%62%61%73%65%64%69%72%3D%6E%6F%6E%65+%2D%64+%61%75%74%6F%5F%70%72%65%70%65%6E%64%5F%66%69%6C%65%3D%70%68%70%3A%2F%2F%69%6E%70%75%74+%2D%64+%63%67%69%2E%66%6F%72%63%65%5F%72%65%64%69%72%65%63%74%3D%30+%2D%64+%63%67%69%2E%72%65%64%69%72%65%63%74%5F%73%74%61%74%75%73%5F%65%6E%76%3D%30+%2D%6E
+12/30/2013 04:58:27 - Index.php, not logged in - SESSION['loggedIn'] contents: 
+12/30/2013 04:58:27 - /cgi-bin/php5?%2D%64+%61%6C%6C%6F%77%5F%75%72%6C%5F%69%6E%63%6C%75%64%65%3D%6F%6E+%2D%64+%73%61%66%65%5F%6D%6F%64%65%3D%6F%66%66+%2D%64+%73%75%68%6F%73%69%6E%2E%73%69%6D%75%6C%61%74%69%6F%6E%3D%6F%6E+%2D%64+%64%69%73%61%62%6C%65%5F%66%75%6E%63%74%69%6F%6E%73%3D%22%22+%2D%64+%6F%70%65%6E%5F%62%61%73%65%64%69%72%3D%6E%6F%6E%65+%2D%64+%61%75%74%6F%5F%70%72%65%70%65%6E%64%5F%66%69%6C%65%3D%70%68%70%3A%2F%2F%69%6E%70%75%74+%2D%64+%63%67%69%2E%66%6F%72%63%65%5F%72%65%64%69%72%65%63%74%3D%30+%2D%64+%63%67%69%2E%72%65%64%69%72%65%63%74%5F%73%74%61%74%75%73%5F%65%6E%76%3D%30+%2D%6E
+12/30/2013 04:58:27 - Index.php, not logged in - SESSION['loggedIn'] contents: 
+12/30/2013 04:58:27 - /cgi-bin/php-cgi?%2D%64+%61%6C%6C%6F%77%5F%75%72%6C%5F%69%6E%63%6C%75%64%65%3D%6F%6E+%2D%64+%73%61%66%65%5F%6D%6F%64%65%3D%6F%66%66+%2D%64+%73%75%68%6F%73%69%6E%2E%73%69%6D%75%6C%61%74%69%6F%6E%3D%6F%6E+%2D%64+%64%69%73%61%62%6C%65%5F%66%75%6E%63%74%69%6F%6E%73%3D%22%22+%2D%64+%6F%70%65%6E%5F%62%61%73%65%64%69%72%3D%6E%6F%6E%65+%2D%64+%61%75%74%6F%5F%70%72%65%70%65%6E%64%5F%66%69%6C%65%3D%70%68%70%3A%2F%2F%69%6E%70%75%74+%2D%64+%63%67%69%2E%66%6F%72%63%65%5F%72%65%64%69%72%65%63%74%3D%30+%2D%64+%63%67%69%2E%72%65%64%69%72%65%63%74%5F%73%74%61%74%75%73%5F%65%6E%76%3D%30+%2D%6E
+12/30/2013 04:58:27 - Index.php, not logged in - SESSION['loggedIn'] contents: 
+12/30/2013 04:58:27 - /cgi-bin/php.cgi?%2D%64+%61%6C%6C%6F%77%5F%75%72%6C%5F%69%6E%63%6C%75%64%65%3D%6F%6E+%2D%64+%73%61%66%65%5F%6D%6F%64%65%3D%6F%66%66+%2D%64+%73%75%68%6F%73%69%6E%2E%73%69%6D%75%6C%61%74%69%6F%6E%3D%6F%6E+%2D%64+%64%69%73%61%62%6C%65%5F%66%75%6E%63%74%69%6F%6E%73%3D%22%22+%2D%64+%6F%70%65%6E%5F%62%61%73%65%64%69%72%3D%6E%6F%6E%65+%2D%64+%61%75%74%6F%5F%70%72%65%70%65%6E%64%5F%66%69%6C%65%3D%70%68%70%3A%2F%2F%69%6E%70%75%74+%2D%64+%63%67%69%2E%66%6F%72%63%65%5F%72%65%64%69%72%65%63%74%3D%30+%2D%64+%63%67%69%2E%72%65%64%69%72%65%63%74%5F%73%74%61%74%75%73%5F%65%6E%76%3D%30+%2D%6E
+12/30/2013 04:58:27 - Index.php, not logged in - SESSION['loggedIn'] contents: 
+12/30/2013 04:58:27 - /cgi-bin/php4?%2D%64+%61%6C%6C%6F%77%5F%75%72%6C%5F%69%6E%63%6C%75%64%65%3D%6F%6E+%2D%64+%73%61%66%65%5F%6D%6F%64%65%3D%6F%66%66+%2D%64+%73%75%68%6F%73%69%6E%2E%73%69%6D%75%6C%61%74%69%6F%6E%3D%6F%6E+%2D%64+%64%69%73%61%62%6C%65%5F%66%75%6E%63%74%69%6F%6E%73%3D%22%22+%2D%64+%6F%70%65%6E%5F%62%61%73%65%64%69%72%3D%6E%6F%6E%65+%2D%64+%61%75%74%6F%5F%70%72%65%70%65%6E%64%5F%66%69%6C%65%3D%70%68%70%3A%2F%2F%69%6E%70%75%74+%2D%64+%63%67%69%2E%66%6F%72%63%65%5F%72%65%64%69%72%65%63%74%3D%30+%2D%64+%63%67%69%2E%72%65%64%69%72%65%63%74%5F%73%74%61%74%75%73%5F%65%6E%76%3D%30+%2D%6E
+12/30/2013 04:58:27 - Index.php, not logged in - SESSION['loggedIn'] contents: 
+12/30/2013 05:35:11 - /manager/html
+12/30/2013 05:35:11 - Index.php, not logged in - SESSION['loggedIn'] contents: 
+12/30/2013 06:08:30 - /
+12/30/2013 06:08:30 - Index.php, not logged in - SESSION['loggedIn'] contents: 
+12/30/2013 06:08:31 - /cgi-bin/php?%2D%64+%61%6C%6C%6F%77%5F%75%72%6C%5F%69%6E%63%6C%75%64%65%3D%6F%6E+%2D%64+%73%61%66%65%5F%6D%6F%64%65%3D%6F%66%66+%2D%64+%73%75%68%6F%73%69%6E%2E%73%69%6D%75%6C%61%74%69%6F%6E%3D%6F%6E+%2D%64+%64%69%73%61%62%6C%65%5F%66%75%6E%63%74%69%6F%6E%73%3D%22%22+%2D%64+%6F%70%65%6E%5F%62%61%73%65%64%69%72%3D%6E%6F%6E%65+%2D%64+%61%75%74%6F%5F%70%72%65%70%65%6E%64%5F%66%69%6C%65%3D%70%68%70%3A%2F%2F%69%6E%70%75%74+%2D%64+%63%67%69%2E%66%6F%72%63%65%5F%72%65%64%69%72%65%63%74%3D%30+%2D%64+%63%67%69%2E%72%65%64%69%72%65%63%74%5F%73%74%61%74%75%73%5F%65%6E%76%3D%30+%2D%6E
+12/30/2013 06:08:31 - Index.php, not logged in - SESSION['loggedIn'] contents: 
+12/30/2013 06:08:31 - /cgi-bin/php5?%2D%64+%61%6C%6C%6F%77%5F%75%72%6C%5F%69%6E%63%6C%75%64%65%3D%6F%6E+%2D%64+%73%61%66%65%5F%6D%6F%64%65%3D%6F%66%66+%2D%64+%73%75%68%6F%73%69%6E%2E%73%69%6D%75%6C%61%74%69%6F%6E%3D%6F%6E+%2D%64+%64%69%73%61%62%6C%65%5F%66%75%6E%63%74%69%6F%6E%73%3D%22%22+%2D%64+%6F%70%65%6E%5F%62%61%73%65%64%69%72%3D%6E%6F%6E%65+%2D%64+%61%75%74%6F%5F%70%72%65%70%65%6E%64%5F%66%69%6C%65%3D%70%68%70%3A%2F%2F%69%6E%70%75%74+%2D%64+%63%67%69%2E%66%6F%72%63%65%5F%72%65%64%69%72%65%63%74%3D%30+%2D%64+%63%67%69%2E%72%65%64%69%72%65%63%74%5F%73%74%61%74%75%73%5F%65%6E%76%3D%30+%2D%6E
+12/30/2013 06:08:31 - Index.php, not logged in - SESSION['loggedIn'] contents: 
+12/30/2013 06:08:31 - /cgi-bin/php-cgi?%2D%64+%61%6C%6C%6F%77%5F%75%72%6C%5F%69%6E%63%6C%75%64%65%3D%6F%6E+%2D%64+%73%61%66%65%5F%6D%6F%64%65%3D%6F%66%66+%2D%64+%73%75%68%6F%73%69%6E%2E%73%69%6D%75%6C%61%74%69%6F%6E%3D%6F%6E+%2D%64+%64%69%73%61%62%6C%65%5F%66%75%6E%63%74%69%6F%6E%73%3D%22%22+%2D%64+%6F%70%65%6E%5F%62%61%73%65%64%69%72%3D%6E%6F%6E%65+%2D%64+%61%75%74%6F%5F%70%72%65%70%65%6E%64%5F%66%69%6C%65%3D%70%68%70%3A%2F%2F%69%6E%70%75%74+%2D%64+%63%67%69%2E%66%6F%72%63%65%5F%72%65%64%69%72%65%63%74%3D%30+%2D%64+%63%67%69%2E%72%65%64%69%72%65%63%74%5F%73%74%61%74%75%73%5F%65%6E%76%3D%30+%2D%6E
+12/30/2013 06:08:31 - Index.php, not logged in - SESSION['loggedIn'] contents: 
+12/30/2013 06:08:31 - /cgi-bin/php.cgi?%2D%64+%61%6C%6C%6F%77%5F%75%72%6C%5F%69%6E%63%6C%75%64%65%3D%6F%6E+%2D%64+%73%61%66%65%5F%6D%6F%64%65%3D%6F%66%66+%2D%64+%73%75%68%6F%73%69%6E%2E%73%69%6D%75%6C%61%74%69%6F%6E%3D%6F%6E+%2D%64+%64%69%73%61%62%6C%65%5F%66%75%6E%63%74%69%6F%6E%73%3D%22%22+%2D%64+%6F%70%65%6E%5F%62%61%73%65%64%69%72%3D%6E%6F%6E%65+%2D%64+%61%75%74%6F%5F%70%72%65%70%65%6E%64%5F%66%69%6C%65%3D%70%68%70%3A%2F%2F%69%6E%70%75%74+%2D%64+%63%67%69%2E%66%6F%72%63%65%5F%72%65%64%69%72%65%63%74%3D%30+%2D%64+%63%67%69%2E%72%65%64%69%72%65%63%74%5F%73%74%61%74%75%73%5F%65%6E%76%3D%30+%2D%6E
+12/30/2013 06:08:31 - Index.php, not logged in - SESSION['loggedIn'] contents: 
+12/30/2013 06:08:31 - /cgi-bin/php4?%2D%64+%61%6C%6C%6F%77%5F%75%72%6C%5F%69%6E%63%6C%75%64%65%3D%6F%6E+%2D%64+%73%61%66%65%5F%6D%6F%64%65%3D%6F%66%66+%2D%64+%73%75%68%6F%73%69%6E%2E%73%69%6D%75%6C%61%74%69%6F%6E%3D%6F%6E+%2D%64+%64%69%73%61%62%6C%65%5F%66%75%6E%63%74%69%6F%6E%73%3D%22%22+%2D%64+%6F%70%65%6E%5F%62%61%73%65%64%69%72%3D%6E%6F%6E%65+%2D%64+%61%75%74%6F%5F%70%72%65%70%65%6E%64%5F%66%69%6C%65%3D%70%68%70%3A%2F%2F%69%6E%70%75%74+%2D%64+%63%67%69%2E%66%6F%72%63%65%5F%72%65%64%69%72%65%63%74%3D%30+%2D%64+%63%67%69%2E%72%65%64%69%72%65%63%74%5F%73%74%61%74%75%73%5F%65%6E%76%3D%30+%2D%6E
+12/30/2013 06:08:31 - Index.php, not logged in - SESSION['loggedIn'] contents: 
+12/30/2013 06:10:05 - /
+12/30/2013 06:10:05 - Index.php, not logged in - SESSION['loggedIn'] contents: 
+12/30/2013 06:40:33 - /
+12/30/2013 06:40:33 - Index.php, not logged in - SESSION['loggedIn'] contents: 
+12/30/2013 08:30:18 - /blog/
+12/30/2013 08:30:18 - Index.php, not logged in - SESSION['loggedIn'] contents: 
+12/30/2013 08:31:52 - /robots.txt
+12/30/2013 08:31:52 - Index.php, not logged in - SESSION['loggedIn'] contents: 
+12/30/2013 08:54:34 - /
+12/30/2013 08:54:34 - Index.php, not logged in - SESSION['loggedIn'] contents: 
+12/30/2013 09:24:51 - /
+12/30/2013 09:24:51 - Index.php, not logged in - SESSION['loggedIn'] contents: 
+12/30/2013 09:52:31 - /
+12/30/2013 09:52:31 - Index.php, not logged in - SESSION['loggedIn'] contents: 
+12/30/2013 09:52:48 - /cgi-bin/php?%2D%64+%61%6C%6C%6F%77%5F%75%72%6C%5F%69%6E%63%6C%75%64%65%3D%6F%6E+%2D%64+%73%61%66%65%5F%6D%6F%64%65%3D%6F%66%66+%2D%64+%73%75%68%6F%73%69%6E%2E%73%69%6D%75%6C%61%74%69%6F%6E%3D%6F%6E+%2D%64+%64%69%73%61%62%6C%65%5F%66%75%6E%63%74%69%6F%6E%73%3D%22%22+%2D%64+%6F%70%65%6E%5F%62%61%73%65%64%69%72%3D%6E%6F%6E%65+%2D%64+%61%75%74%6F%5F%70%72%65%70%65%6E%64%5F%66%69%6C%65%3D%70%68%70%3A%2F%2F%69%6E%70%75%74+%2D%64+%63%67%69%2E%66%6F%72%63%65%5F%72%65%64%69%72%65%63%74%3D%30+%2D%64+%63%67%69%2E%72%65%64%69%72%65%63%74%5F%73%74%61%74%75%73%5F%65%6E%76%3D%30+%2D%6E
+12/30/2013 09:52:48 - Index.php, not logged in - SESSION['loggedIn'] contents: 
+12/30/2013 09:52:48 - /cgi-bin/php5?%2D%64+%61%6C%6C%6F%77%5F%75%72%6C%5F%69%6E%63%6C%75%64%65%3D%6F%6E+%2D%64+%73%61%66%65%5F%6D%6F%64%65%3D%6F%66%66+%2D%64+%73%75%68%6F%73%69%6E%2E%73%69%6D%75%6C%61%74%69%6F%6E%3D%6F%6E+%2D%64+%64%69%73%61%62%6C%65%5F%66%75%6E%63%74%69%6F%6E%73%3D%22%22+%2D%64+%6F%70%65%6E%5F%62%61%73%65%64%69%72%3D%6E%6F%6E%65+%2D%64+%61%75%74%6F%5F%70%72%65%70%65%6E%64%5F%66%69%6C%65%3D%70%68%70%3A%2F%2F%69%6E%70%75%74+%2D%64+%63%67%69%2E%66%6F%72%63%65%5F%72%65%64%69%72%65%63%74%3D%30+%2D%64+%63%67%69%2E%72%65%64%69%72%65%63%74%5F%73%74%61%74%75%73%5F%65%6E%76%3D%30+%2D%6E
+12/30/2013 09:52:48 - Index.php, not logged in - SESSION['loggedIn'] contents: 
+12/30/2013 09:52:48 - /cgi-bin/php-cgi?%2D%64+%61%6C%6C%6F%77%5F%75%72%6C%5F%69%6E%63%6C%75%64%65%3D%6F%6E+%2D%64+%73%61%66%65%5F%6D%6F%64%65%3D%6F%66%66+%2D%64+%73%75%68%6F%73%69%6E%2E%73%69%6D%75%6C%61%74%69%6F%6E%3D%6F%6E+%2D%64+%64%69%73%61%62%6C%65%5F%66%75%6E%63%74%69%6F%6E%73%3D%22%22+%2D%64+%6F%70%65%6E%5F%62%61%73%65%64%69%72%3D%6E%6F%6E%65+%2D%64+%61%75%74%6F%5F%70%72%65%70%65%6E%64%5F%66%69%6C%65%3D%70%68%70%3A%2F%2F%69%6E%70%75%74+%2D%64+%63%67%69%2E%66%6F%72%63%65%5F%72%65%64%69%72%65%63%74%3D%30+%2D%64+%63%67%69%2E%72%65%64%69%72%65%63%74%5F%73%74%61%74%75%73%5F%65%6E%76%3D%30+%2D%6E
+12/30/2013 09:52:48 - Index.php, not logged in - SESSION['loggedIn'] contents: 
+12/30/2013 09:52:49 - /cgi-bin/php.cgi?%2D%64+%61%6C%6C%6F%77%5F%75%72%6C%5F%69%6E%63%6C%75%64%65%3D%6F%6E+%2D%64+%73%61%66%65%5F%6D%6F%64%65%3D%6F%66%66+%2D%64+%73%75%68%6F%73%69%6E%2E%73%69%6D%75%6C%61%74%69%6F%6E%3D%6F%6E+%2D%64+%64%69%73%61%62%6C%65%5F%66%75%6E%63%74%69%6F%6E%73%3D%22%22+%2D%64+%6F%70%65%6E%5F%62%61%73%65%64%69%72%3D%6E%6F%6E%65+%2D%64+%61%75%74%6F%5F%70%72%65%70%65%6E%64%5F%66%69%6C%65%3D%70%68%70%3A%2F%2F%69%6E%70%75%74+%2D%64+%63%67%69%2E%66%6F%72%63%65%5F%72%65%64%69%72%65%63%74%3D%30+%2D%64+%63%67%69%2E%72%65%64%69%72%65%63%74%5F%73%74%61%74%75%73%5F%65%6E%76%3D%30+%2D%6E
+12/30/2013 09:52:49 - Index.php, not logged in - SESSION['loggedIn'] contents: 
+12/30/2013 09:52:49 - /cgi-bin/php4?%2D%64+%61%6C%6C%6F%77%5F%75%72%6C%5F%69%6E%63%6C%75%64%65%3D%6F%6E+%2D%64+%73%61%66%65%5F%6D%6F%64%65%3D%6F%66%66+%2D%64+%73%75%68%6F%73%69%6E%2E%73%69%6D%75%6C%61%74%69%6F%6E%3D%6F%6E+%2D%64+%64%69%73%61%62%6C%65%5F%66%75%6E%63%74%69%6F%6E%73%3D%22%22+%2D%64+%6F%70%65%6E%5F%62%61%73%65%64%69%72%3D%6E%6F%6E%65+%2D%64+%61%75%74%6F%5F%70%72%65%70%65%6E%64%5F%66%69%6C%65%3D%70%68%70%3A%2F%2F%69%6E%70%75%74+%2D%64+%63%67%69%2E%66%6F%72%63%65%5F%72%65%64%69%72%65%63%74%3D%30+%2D%64+%63%67%69%2E%72%65%64%69%72%65%63%74%5F%73%74%61%74%75%73%5F%65%6E%76%3D%30+%2D%6E
+12/30/2013 09:52:49 - Index.php, not logged in - SESSION['loggedIn'] contents: 
+12/30/2013 10:50:52 - /robots.txt
+12/30/2013 10:50:52 - Index.php, not logged in - SESSION['loggedIn'] contents: 
+12/30/2013 11:23:22 - /
+12/30/2013 11:23:22 - Index.php, not logged in - SESSION['loggedIn'] contents: 
+12/30/2013 11:23:22 - /robots.txt
+12/30/2013 11:23:22 - Index.php, not logged in - SESSION['loggedIn'] contents: 
+12/30/2013 11:26:58 - /
+12/30/2013 11:26:58 - Index.php, not logged in - SESSION['loggedIn'] contents: 
+12/30/2013 11:26:59 - /cgi-bin/php?%2D%64+%61%6C%6C%6F%77%5F%75%72%6C%5F%69%6E%63%6C%75%64%65%3D%6F%6E+%2D%64+%73%61%66%65%5F%6D%6F%64%65%3D%6F%66%66+%2D%64+%73%75%68%6F%73%69%6E%2E%73%69%6D%75%6C%61%74%69%6F%6E%3D%6F%6E+%2D%64+%64%69%73%61%62%6C%65%5F%66%75%6E%63%74%69%6F%6E%73%3D%22%22+%2D%64+%6F%70%65%6E%5F%62%61%73%65%64%69%72%3D%6E%6F%6E%65+%2D%64+%61%75%74%6F%5F%70%72%65%70%65%6E%64%5F%66%69%6C%65%3D%70%68%70%3A%2F%2F%69%6E%70%75%74+%2D%64+%63%67%69%2E%66%6F%72%63%65%5F%72%65%64%69%72%65%63%74%3D%30+%2D%64+%63%67%69%2E%72%65%64%69%72%65%63%74%5F%73%74%61%74%75%73%5F%65%6E%76%3D%30+%2D%6E
+12/30/2013 11:26:59 - Index.php, not logged in - SESSION['loggedIn'] contents: 
+12/30/2013 11:26:59 - /cgi-bin/php5?%2D%64+%61%6C%6C%6F%77%5F%75%72%6C%5F%69%6E%63%6C%75%64%65%3D%6F%6E+%2D%64+%73%61%66%65%5F%6D%6F%64%65%3D%6F%66%66+%2D%64+%73%75%68%6F%73%69%6E%2E%73%69%6D%75%6C%61%74%69%6F%6E%3D%6F%6E+%2D%64+%64%69%73%61%62%6C%65%5F%66%75%6E%63%74%69%6F%6E%73%3D%22%22+%2D%64+%6F%70%65%6E%5F%62%61%73%65%64%69%72%3D%6E%6F%6E%65+%2D%64+%61%75%74%6F%5F%70%72%65%70%65%6E%64%5F%66%69%6C%65%3D%70%68%70%3A%2F%2F%69%6E%70%75%74+%2D%64+%63%67%69%2E%66%6F%72%63%65%5F%72%65%64%69%72%65%63%74%3D%30+%2D%64+%63%67%69%2E%72%65%64%69%72%65%63%74%5F%73%74%61%74%75%73%5F%65%6E%76%3D%30+%2D%6E
+12/30/2013 11:26:59 - Index.php, not logged in - SESSION['loggedIn'] contents: 
+12/30/2013 11:26:59 - /cgi-bin/php-cgi?%2D%64+%61%6C%6C%6F%77%5F%75%72%6C%5F%69%6E%63%6C%75%64%65%3D%6F%6E+%2D%64+%73%61%66%65%5F%6D%6F%64%65%3D%6F%66%66+%2D%64+%73%75%68%6F%73%69%6E%2E%73%69%6D%75%6C%61%74%69%6F%6E%3D%6F%6E+%2D%64+%64%69%73%61%62%6C%65%5F%66%75%6E%63%74%69%6F%6E%73%3D%22%22+%2D%64+%6F%70%65%6E%5F%62%61%73%65%64%69%72%3D%6E%6F%6E%65+%2D%64+%61%75%74%6F%5F%70%72%65%70%65%6E%64%5F%66%69%6C%65%3D%70%68%70%3A%2F%2F%69%6E%70%75%74+%2D%64+%63%67%69%2E%66%6F%72%63%65%5F%72%65%64%69%72%65%63%74%3D%30+%2D%64+%63%67%69%2E%72%65%64%69%72%65%63%74%5F%73%74%61%74%75%73%5F%65%6E%76%3D%30+%2D%6E
+12/30/2013 11:26:59 - Index.php, not logged in - SESSION['loggedIn'] contents: 
+12/30/2013 11:26:59 - /cgi-bin/php.cgi?%2D%64+%61%6C%6C%6F%77%5F%75%72%6C%5F%69%6E%63%6C%75%64%65%3D%6F%6E+%2D%64+%73%61%66%65%5F%6D%6F%64%65%3D%6F%66%66+%2D%64+%73%75%68%6F%73%69%6E%2E%73%69%6D%75%6C%61%74%69%6F%6E%3D%6F%6E+%2D%64+%64%69%73%61%62%6C%65%5F%66%75%6E%63%74%69%6F%6E%73%3D%22%22+%2D%64+%6F%70%65%6E%5F%62%61%73%65%64%69%72%3D%6E%6F%6E%65+%2D%64+%61%75%74%6F%5F%70%72%65%70%65%6E%64%5F%66%69%6C%65%3D%70%68%70%3A%2F%2F%69%6E%70%75%74+%2D%64+%63%67%69%2E%66%6F%72%63%65%5F%72%65%64%69%72%65%63%74%3D%30+%2D%64+%63%67%69%2E%72%65%64%69%72%65%63%74%5F%73%74%61%74%75%73%5F%65%6E%76%3D%30+%2D%6E
+12/30/2013 11:26:59 - Index.php, not logged in - SESSION['loggedIn'] contents: 
+12/30/2013 11:27:00 - /cgi-bin/php4?%2D%64+%61%6C%6C%6F%77%5F%75%72%6C%5F%69%6E%63%6C%75%64%65%3D%6F%6E+%2D%64+%73%61%66%65%5F%6D%6F%64%65%3D%6F%66%66+%2D%64+%73%75%68%6F%73%69%6E%2E%73%69%6D%75%6C%61%74%69%6F%6E%3D%6F%6E+%2D%64+%64%69%73%61%62%6C%65%5F%66%75%6E%63%74%69%6F%6E%73%3D%22%22+%2D%64+%6F%70%65%6E%5F%62%61%73%65%64%69%72%3D%6E%6F%6E%65+%2D%64+%61%75%74%6F%5F%70%72%65%70%65%6E%64%5F%66%69%6C%65%3D%70%68%70%3A%2F%2F%69%6E%70%75%74+%2D%64+%63%67%69%2E%66%6F%72%63%65%5F%72%65%64%69%72%65%63%74%3D%30+%2D%64+%63%67%69%2E%72%65%64%69%72%65%63%74%5F%73%74%61%74%75%73%5F%65%6E%76%3D%30+%2D%6E
+12/30/2013 11:27:00 - Index.php, not logged in - SESSION['loggedIn'] contents: 
+12/30/2013 12:16:09 - /w00tw00t.at.blackhats.romanian.anti-sec:)
+12/30/2013 12:16:09 - Index.php, not logged in - SESSION['loggedIn'] contents: 
+12/30/2013 12:16:10 - /phpMyAdmin/scripts/setup.php
+12/30/2013 12:16:10 - Index.php, not logged in - SESSION['loggedIn'] contents: 
+12/30/2013 12:16:10 - /phpmyadmin/scripts/setup.php
+12/30/2013 12:16:10 - Index.php, not logged in - SESSION['loggedIn'] contents: 
+12/30/2013 12:16:11 - /pma/scripts/setup.php
+12/30/2013 12:16:11 - Index.php, not logged in - SESSION['loggedIn'] contents: 
+12/30/2013 12:16:13 - /myadmin/scripts/setup.php
+12/30/2013 12:16:13 - Index.php, not logged in - SESSION['loggedIn'] contents: 
+12/30/2013 12:16:14 - /MyAdmin/scripts/setup.php
+12/30/2013 12:16:14 - Index.php, not logged in - SESSION['loggedIn'] contents: 
+12/30/2013 12:50:05 - /robots.txt
+12/30/2013 12:50:05 - Index.php, not logged in - SESSION['loggedIn'] contents: 
+12/30/2013 01:02:21 - /
+12/30/2013 01:02:21 - Index.php, not logged in - SESSION['loggedIn'] contents: 
+12/30/2013 02:06:41 - /
+12/30/2013 02:06:41 - Index.php, not logged in - SESSION['loggedIn'] contents: 
+12/30/2013 02:06:41 - /bootstrap/bootstrap.css
+12/30/2013 02:06:41 - /Index/index.js
+12/30/2013 02:06:41 - /Common/ajaxRequest.js
+12/30/2013 02:06:41 - /Index/index.css
+12/30/2013 02:06:41 - /Index/floatingBrad.jpg
+12/30/2013 02:06:41 - /Index/RetrieveComments.php
+12/30/2013 02:06:41 - Retrieve Comments
+12/30/2013 02:06:42 - /favicon.ico
+12/30/2013 02:06:42 - Index.php, not logged in - SESSION['loggedIn'] contents: 
+12/30/2013 02:06:42 - /favicon.ico
+12/30/2013 02:06:42 - Index.php, not logged in - SESSION['loggedIn'] contents: 
+12/30/2013 02:06:53 - /
+12/30/2013 02:06:53 - Index.php, not logged in - SESSION['loggedIn'] contents: 
+12/30/2013 02:06:53 - /bootstrap/bootstrap.css
+12/30/2013 02:06:53 - /Index/index.css
+12/30/2013 02:06:53 - /Common/ajaxRequest.js
+12/30/2013 02:06:53 - /Index/index.js
+12/30/2013 02:06:53 - /Index/floatingBrad.jpg
+12/30/2013 02:06:53 - /Index/RetrieveComments.php
+12/30/2013 02:06:53 - Retrieve Comments
+12/30/2013 02:07:09 - /
+12/30/2013 02:07:09 - Index.php, not logged in - SESSION['loggedIn'] contents: 
+12/30/2013 02:07:09 - /bootstrap/bootstrap.css
+12/30/2013 02:07:09 - /Index/index.css
+12/30/2013 02:07:09 - /Index/floatingBrad.jpg
+12/30/2013 02:07:09 - /Index/index.js
+12/30/2013 02:07:09 - /Common/ajaxRequest.js
+12/30/2013 02:07:09 - /bootstrap/bootstrap.css
+12/30/2013 02:07:09 - /Index/index.css
+12/30/2013 02:07:09 - /Index/floatingBrad.jpg
+12/30/2013 02:07:09 - /Index/index.js
+12/30/2013 02:07:09 - /Common/ajaxRequest.js
+12/30/2013 02:07:10 - /Index/RetrieveComments.php
+12/30/2013 02:07:10 - Retrieve Comments
+12/30/2013 02:07:58 - /
+12/30/2013 02:07:58 - Index.php, not logged in - SESSION['loggedIn'] contents: 
+12/30/2013 02:07:59 - /bootstrap/bootstrap.css
+12/30/2013 02:07:59 - /Common/ajaxRequest.js
+12/30/2013 02:07:59 - /Index/index.css
+12/30/2013 02:07:59 - /Index/index.js
+12/30/2013 02:07:59 - /Index/floatingBrad.jpg
+12/30/2013 02:07:59 - /Index/RetrieveComments.php
+12/30/2013 02:07:59 - Retrieve Comments
+12/30/2013 02:08:05 - /
+12/30/2013 02:08:05 - Index.php, not logged in - SESSION['loggedIn'] contents: 
+12/30/2013 02:08:05 - /bootstrap/bootstrap.css
+12/30/2013 02:08:05 - /Index/floatingBrad.jpg
+12/30/2013 02:08:05 - /Common/ajaxRequest.js
+12/30/2013 02:08:05 - /Index/index.js
+12/30/2013 02:08:05 - /Index/index.css
+12/30/2013 02:08:05 - /Index/RetrieveComments.php
+12/30/2013 02:08:05 - Retrieve Comments
+12/30/2013 02:09:10 - /
+12/30/2013 02:09:10 - Index.php, not logged in - SESSION['loggedIn'] contents: 
+12/30/2013 02:09:10 - /bootstrap/bootstrap.css
+12/30/2013 02:09:10 - /Index/index.js
+12/30/2013 02:09:10 - /Common/ajaxRequest.js
+12/30/2013 02:09:10 - /Index/index.css
+12/30/2013 02:09:10 - /Index/floatingBrad.jpg
+12/30/2013 02:09:10 - /Index/RetrieveComments.php
+12/30/2013 02:09:10 - Retrieve Comments
+12/30/2013 02:09:18 - /
+12/30/2013 02:09:18 - Index.php, not logged in - SESSION['loggedIn'] contents: 
+12/30/2013 02:09:18 - /bootstrap/bootstrap.css
+12/30/2013 02:09:18 - /Common/ajaxRequest.js
+12/30/2013 02:09:18 - /Index/floatingBrad.jpg
+12/30/2013 02:09:18 - /Index/index.js
+12/30/2013 02:09:18 - /Index/index.css
+12/30/2013 02:09:18 - /Index/RetrieveComments.php
+12/30/2013 02:09:18 - Retrieve Comments
+12/30/2013 02:10:12 - /
+12/30/2013 02:10:12 - Index.php, not logged in - SESSION['loggedIn'] contents: 
+12/30/2013 02:10:12 - /bootstrap/bootstrap.css
+12/30/2013 02:10:12 - /Index/index.css
+12/30/2013 02:10:12 - /Common/ajaxRequest.js
+12/30/2013 02:10:12 - /Index/index.js
+12/30/2013 02:10:12 - /Index/floatingBrad.jpg
+12/30/2013 02:10:12 - /Index/RetrieveComments.php
+12/30/2013 02:10:12 - Retrieve Comments
+12/30/2013 02:10:23 - /
+12/30/2013 02:10:23 - Index.php, not logged in - SESSION['loggedIn'] contents: 
+12/30/2013 02:10:23 - /bootstrap/bootstrap.css
+12/30/2013 02:10:23 - /Index/index.css
+12/30/2013 02:10:23 - /Index/floatingBrad.jpg
+12/30/2013 02:10:23 - /Common/ajaxRequest.js
+12/30/2013 02:10:23 - /Index/index.js
+12/30/2013 02:10:23 - /Index/RetrieveComments.php
+12/30/2013 02:10:23 - Retrieve Comments
+12/30/2013 02:11:14 - /
+12/30/2013 02:11:14 - Index.php, not logged in - SESSION['loggedIn'] contents: 
+12/30/2013 02:11:14 - /bootstrap/bootstrap.css
+12/30/2013 02:11:14 - /Common/ajaxRequest.js
+12/30/2013 02:11:14 - /Index/index.js
+12/30/2013 02:11:14 - /Index/index.css
+12/30/2013 02:11:14 - /Index/RetrieveComments.php
+12/30/2013 02:11:14 - Retrieve Comments
+12/30/2013 02:11:14 - /Index/floatingBrad.jpg
+12/30/2013 02:11:23 - /
+12/30/2013 02:11:23 - Index.php, not logged in - SESSION['loggedIn'] contents: 
+12/30/2013 02:11:23 - /bootstrap/bootstrap.css
+12/30/2013 02:11:23 - /Index/index.css
+12/30/2013 02:11:24 - /
+12/30/2013 02:11:24 - Index.php, not logged in - SESSION['loggedIn'] contents: 
+12/30/2013 02:11:24 - /bootstrap/bootstrap.css
+12/30/2013 02:11:24 - /Index/index.css
+12/30/2013 02:11:24 - /Index/index.js
+12/30/2013 02:11:24 - /Common/ajaxRequest.js
+12/30/2013 02:11:24 - /Index/floatingBrad.jpg
+12/30/2013 02:11:24 - /Index/RetrieveComments.php
+12/30/2013 02:11:24 - Retrieve Comments
+12/30/2013 02:12:43 - /
+12/30/2013 02:12:43 - Index.php, not logged in - SESSION['loggedIn'] contents: 
+12/30/2013 02:12:43 - /bootstrap/bootstrap.css
+12/30/2013 02:12:43 - /Index/index.js
+12/30/2013 02:12:43 - /Common/ajaxRequest.js
+12/30/2013 02:12:43 - /Index/index.css
+12/30/2013 02:12:43 - /Index/RetrieveComments.php
+12/30/2013 02:12:43 - Retrieve Comments
+12/30/2013 02:12:43 - /Index/floatingBrad.jpg
+12/30/2013 02:12:48 - /
+12/30/2013 02:12:48 - Index.php, not logged in - SESSION['loggedIn'] contents: 
+12/30/2013 02:12:48 - /bootstrap/bootstrap.css
+12/30/2013 02:12:48 - /Index/index.css
+12/30/2013 02:12:48 - /Index/index.js
+12/30/2013 02:12:48 - /Index/floatingBrad.jpg
+12/30/2013 02:12:48 - /Common/ajaxRequest.js
+12/30/2013 02:12:49 - /Index/RetrieveComments.php
+12/30/2013 02:12:49 - Retrieve Comments
+12/30/2013 02:13:29 - /
+12/30/2013 02:13:29 - Index.php, not logged in - SESSION['loggedIn'] contents: 
+12/30/2013 02:13:29 - /bootstrap/bootstrap.css
+12/30/2013 02:13:29 - /Index/index.css
+12/30/2013 02:13:29 - /Common/ajaxRequest.js
+12/30/2013 02:13:29 - /Index/index.js
+12/30/2013 02:13:29 - /Index/RetrieveComments.php
+12/30/2013 02:13:29 - Retrieve Comments
+12/30/2013 02:13:29 - /Index/floatingBrad.jpg
+12/30/2013 02:13:36 - /
+12/30/2013 02:13:36 - Index.php, not logged in - SESSION['loggedIn'] contents: 
+12/30/2013 02:13:36 - /bootstrap/bootstrap.css
+12/30/2013 02:13:36 - /Index/index.css
+12/30/2013 02:13:37 - /Index/floatingBrad.jpg
+12/30/2013 02:13:37 - /Common/ajaxRequest.js
+12/30/2013 02:13:37 - /Index/index.js
+12/30/2013 02:13:37 - /Index/RetrieveComments.php
+12/30/2013 02:13:37 - Retrieve Comments
+12/30/2013 02:14:11 - /
+12/30/2013 02:14:11 - Index.php, not logged in - SESSION['loggedIn'] contents: 
+12/30/2013 02:14:11 - /bootstrap/bootstrap.css
+12/30/2013 02:14:11 - /Index/index.js
+12/30/2013 02:14:11 - /Index/index.css
+12/30/2013 02:14:11 - /Common/ajaxRequest.js
+12/30/2013 02:14:11 - /Index/RetrieveComments.php
+12/30/2013 02:14:11 - Retrieve Comments
+12/30/2013 02:14:11 - /Index/floatingBrad.jpg
+12/30/2013 02:14:15 - /
+12/30/2013 02:14:15 - Index.php, not logged in - SESSION['loggedIn'] contents: 
+12/30/2013 02:14:15 - /bootstrap/bootstrap.css
+12/30/2013 02:14:15 - /Index/index.css
+12/30/2013 02:14:15 - /Index/floatingBrad.jpg
+12/30/2013 02:14:15 - /Index/index.js
+12/30/2013 02:14:15 - /Common/ajaxRequest.js
+12/30/2013 02:14:16 - /Index/RetrieveComments.php
+12/30/2013 02:14:16 - Retrieve Comments
+12/30/2013 02:14:57 - /
+12/30/2013 02:14:57 - Index.php, not logged in - SESSION['loggedIn'] contents: 
+12/30/2013 02:14:58 - /bootstrap/bootstrap.css
+12/30/2013 02:14:58 - /Common/ajaxRequest.js
+12/30/2013 02:14:58 - /Index/index.css
+12/30/2013 02:14:58 - /Index/index.js
+12/30/2013 02:14:58 - /Index/RetrieveComments.php
+12/30/2013 02:14:58 - Retrieve Comments
+12/30/2013 02:14:58 - /Index/floatingBrad.jpg
+12/30/2013 02:15:09 - /
+12/30/2013 02:15:09 - Index.php, not logged in - SESSION['loggedIn'] contents: 
+12/30/2013 02:15:09 - /bootstrap/bootstrap.css
+12/30/2013 02:15:09 - /Index/index.css
+12/30/2013 02:15:09 - /Index/floatingBrad.jpg
+12/30/2013 02:15:09 - /Common/ajaxRequest.js
+12/30/2013 02:15:09 - /Index/index.js
+12/30/2013 02:15:09 - /Index/RetrieveComments.php
+12/30/2013 02:15:09 - Retrieve Comments
+12/30/2013 02:15:14 - /Resume/
+12/30/2013 02:15:14 - /Common/backButton.js
+12/30/2013 02:15:14 - /Resume/resume.css
+12/30/2013 02:15:14 - /Resume/bootstrap/bootstrap.css
+12/30/2013 02:15:16 - /Resume/bootstrap/bootstrap.css
+12/30/2013 02:15:16 - /Common/backButton.js
+12/30/2013 02:15:16 - /Resume/resume.css
+12/30/2013 02:15:22 - /
+12/30/2013 02:15:22 - Index.php, not logged in - SESSION['loggedIn'] contents: 
+12/30/2013 02:15:22 - /bootstrap/bootstrap.css
+12/30/2013 02:15:22 - /Index/index.css
+12/30/2013 02:15:22 - /Common/ajaxRequest.js
+12/30/2013 02:15:22 - /Index/floatingBrad.jpg
+12/30/2013 02:15:22 - /Index/index.js
+12/30/2013 02:15:23 - /Index/RetrieveComments.php
+12/30/2013 02:15:23 - Retrieve Comments
+12/30/2013 02:15:29 - /Login/
+12/30/2013 02:15:29 - /bootstrap/bootstrap.css
+12/30/2013 02:15:29 - /bootstrap/bootstrap.css
+12/30/2013 02:15:29 - /Common/jquery.js
+12/30/2013 02:15:30 - /Common/backButton.js
+12/30/2013 02:15:30 - /Login/login.js
+12/30/2013 02:15:30 - /Common/ajaxRequest.js
+12/30/2013 02:15:30 - /Login/login.css
+12/30/2013 02:15:32 - /
+12/30/2013 02:15:32 - Index.php, not logged in - SESSION['loggedIn'] contents: 
+12/30/2013 02:15:32 - /bootstrap/bootstrap.css
+12/30/2013 02:15:32 - /Index/index.css
+12/30/2013 02:15:32 - /Common/ajaxRequest.js
+12/30/2013 02:15:32 - /Index/floatingBrad.jpg
+12/30/2013 02:15:32 - /Index/index.js
+12/30/2013 02:15:33 - /Index/RetrieveComments.php
+12/30/2013 02:15:33 - Retrieve Comments
+12/30/2013 02:16:04 - /
+12/30/2013 02:16:04 - Index.php, not logged in - SESSION['loggedIn'] contents: 
+12/30/2013 02:16:04 - /bootstrap/bootstrap.css
+12/30/2013 02:16:04 - /Index/index.css
+12/30/2013 02:16:04 - /Index/index.js
+12/30/2013 02:16:04 - /Index/floatingBrad.jpg
+12/30/2013 02:16:04 - /Common/ajaxRequest.js
+12/30/2013 02:16:04 - /Index/RetrieveComments.php
+12/30/2013 02:16:04 - Retrieve Comments
+12/30/2013 02:18:40 - /
+12/30/2013 02:18:40 - Index.php, not logged in - SESSION['loggedIn'] contents: 
+12/30/2013 02:18:40 - /bootstrap/bootstrap.css
+12/30/2013 02:18:40 - /Index/index.css
+12/30/2013 02:18:40 - /Common/ajaxRequest.js
+12/30/2013 02:18:40 - /Index/index.js
+12/30/2013 02:18:41 - /Index/RetrieveComments.php
+12/30/2013 02:18:41 - Retrieve Comments
+12/30/2013 02:18:41 - /Index/floatingBrad.jpg
+12/30/2013 02:19:10 - /
+12/30/2013 02:19:10 - Index.php, not logged in - SESSION['loggedIn'] contents: 
+12/30/2013 02:19:10 - /bootstrap/bootstrap.css
+12/30/2013 02:19:10 - /Common/ajaxRequest.js
+12/30/2013 02:19:10 - /Index/index.css
+12/30/2013 02:19:10 - /Index/index.js
+12/30/2013 02:19:10 - /Index/floatingBrad.jpg
+12/30/2013 02:19:10 - /Index/RetrieveComments.php
+12/30/2013 02:19:10 - Retrieve Comments
+12/30/2013 02:20:44 - /
+12/30/2013 02:20:44 - Index.php, not logged in - SESSION['loggedIn'] contents: 
+12/30/2013 02:20:44 - /bootstrap/bootstrap.css
+12/30/2013 02:20:44 - /Index/index.css
+12/30/2013 02:20:45 - /Index/index.js
+12/30/2013 02:20:45 - /Common/ajaxRequest.js
+12/30/2013 02:20:45 - /Index/floatingBrad.jpg
+12/30/2013 02:20:45 - /Index/RetrieveComments.php
+12/30/2013 02:20:45 - Retrieve Comments
+12/30/2013 02:22:50 - /
+12/30/2013 02:22:50 - Index.php, not logged in - SESSION['loggedIn'] contents: 
+12/30/2013 02:22:50 - /bootstrap/bootstrap.css
+12/30/2013 02:22:50 - /Index/index.css
+12/30/2013 02:22:50 - /Index/floatingBrad.jpg
+12/30/2013 02:22:50 - /Common/ajaxRequest.js
+12/30/2013 02:22:50 - /Index/index.js
+12/30/2013 02:22:50 - /Index/RetrieveComments.php
+12/30/2013 02:22:50 - Retrieve Comments
+12/30/2013 02:25:29 - /
+12/30/2013 02:25:29 - Index.php, not logged in - SESSION['loggedIn'] contents: 
+12/30/2013 02:25:30 - /bootstrap/bootstrap.css
+12/30/2013 02:25:30 - /Index/index.css
+12/30/2013 02:25:30 - /bootstrap/bootstrap.css
+12/30/2013 02:25:30 - /Common/ajaxRequest.js
+12/30/2013 02:25:30 - /Index/floatingBrad.jpg
+12/30/2013 02:25:30 - /Index/index.css
+12/30/2013 02:25:30 - /Index/index.js
+12/30/2013 02:25:30 - /Index/RetrieveComments.php
+12/30/2013 02:25:30 - Retrieve Comments
+12/30/2013 02:26:19 - /
+12/30/2013 02:26:19 - Index.php, not logged in - SESSION['loggedIn'] contents: 
+12/30/2013 02:26:19 - /bootstrap/bootstrap.css
+12/30/2013 02:26:19 - /Index/index.css
+12/30/2013 02:26:20 - /Index/index.js
+12/30/2013 02:26:20 - /Common/ajaxRequest.js
+12/30/2013 02:26:20 - /Index/floatingBrad.jpg
+12/30/2013 02:26:20 - /Index/RetrieveComments.php
+12/30/2013 02:26:20 - Retrieve Comments
+12/30/2013 02:27:32 - /
+12/30/2013 02:27:32 - Index.php, not logged in - SESSION['loggedIn'] contents: 
+12/30/2013 02:27:32 - /bootstrap/bootstrap.css
+12/30/2013 02:27:32 - /Common/ajaxRequest.js
+12/30/2013 02:27:32 - /Index/index.js
+12/30/2013 02:27:32 - /Index/index.css
+12/30/2013 02:27:32 - /Index/floatingBrad.jpg
+12/30/2013 02:27:32 - /Index/RetrieveComments.php
+12/30/2013 02:27:32 - Retrieve Comments
+12/30/2013 02:28:01 - /
+12/30/2013 02:28:01 - Index.php, not logged in - SESSION['loggedIn'] contents: 
+12/30/2013 02:28:01 - /bootstrap/bootstrap.css
+12/30/2013 02:28:01 - /Index/index.css
+12/30/2013 02:28:01 - /Index/floatingBrad.jpg
+12/30/2013 02:28:01 - /Index/index.js
+12/30/2013 02:28:01 - /Common/ajaxRequest.js
+12/30/2013 02:28:01 - /Index/RetrieveComments.php
+12/30/2013 02:28:01 - Retrieve Comments
+12/30/2013 02:28:40 - /
+12/30/2013 02:28:40 - Index.php, not logged in - SESSION['loggedIn'] contents: 
+12/30/2013 02:28:40 - /bootstrap/bootstrap.css
+12/30/2013 02:28:40 - /Index/index.css
+12/30/2013 02:28:40 - /Common/ajaxRequest.js
+12/30/2013 02:28:40 - /Index/index.js
+12/30/2013 02:28:42 - /Index/floatingBrad.jpg
+12/30/2013 02:28:42 - /Index/RetrieveComments.php
+12/30/2013 02:28:42 - Retrieve Comments
+12/30/2013 02:32:06 - /
+12/30/2013 02:32:06 - Index.php, not logged in - SESSION['loggedIn'] contents: 
+12/30/2013 02:32:06 - /bootstrap/bootstrap.css
+12/30/2013 02:32:06 - /Index/index.css
+12/30/2013 02:32:06 - /Index/index.js
+12/30/2013 02:32:06 - /Common/ajaxRequest.js
+12/30/2013 02:32:06 - /Index/RetrieveComments.php
+12/30/2013 02:32:06 - Retrieve Comments
+12/30/2013 02:32:06 - /Index/floatingBrad.jpg
+12/30/2013 02:32:08 - /
+12/30/2013 02:32:08 - Index.php, not logged in - SESSION['loggedIn'] contents: 
+12/30/2013 02:32:09 - /bootstrap/bootstrap.css
+12/30/2013 02:32:09 - /Index/index.js
+12/30/2013 02:32:09 - /Common/ajaxRequest.js
+12/30/2013 02:32:09 - /Index/index.css
+12/30/2013 02:32:09 - /Index/floatingBrad.jpg
+12/30/2013 02:32:09 - /Index/RetrieveComments.php
+12/30/2013 02:32:09 - Retrieve Comments
+12/30/2013 02:32:16 - /
+12/30/2013 02:32:16 - Index.php, not logged in - SESSION['loggedIn'] contents: 
+12/30/2013 02:32:17 - /bootstrap/bootstrap.css
+12/30/2013 02:32:17 - /Index/index.css
+12/30/2013 02:32:17 - /Index/floatingBrad.jpg
+12/30/2013 02:32:17 - /Common/ajaxRequest.js
+12/30/2013 02:32:17 - /Index/index.js
+12/30/2013 02:32:17 - /Index/RetrieveComments.php
+12/30/2013 02:32:17 - Retrieve Comments
+12/30/2013 02:32:37 - /
+12/30/2013 02:32:37 - Index.php, not logged in - SESSION['loggedIn'] contents: 
+12/30/2013 02:32:37 - /bootstrap/bootstrap.css
+12/30/2013 02:32:37 - /Index/index.js
+12/30/2013 02:32:37 - /Common/ajaxRequest.js
+12/30/2013 02:32:37 - /Index/index.css
+12/30/2013 02:32:37 - /Index/floatingBrad.jpg
+12/30/2013 02:32:37 - /Index/RetrieveComments.php
+12/30/2013 02:32:37 - Retrieve Comments
+12/30/2013 02:33:29 - /
+12/30/2013 02:33:29 - Index.php, not logged in - SESSION['loggedIn'] contents: 
+12/30/2013 02:33:29 - /bootstrap/bootstrap.css
+12/30/2013 02:33:29 - /Index/index.js
+12/30/2013 02:33:29 - /Index/index.css
+12/30/2013 02:33:29 - /Common/ajaxRequest.js
+12/30/2013 02:33:29 - /Index/RetrieveComments.php
+12/30/2013 02:33:29 - Retrieve Comments
+12/30/2013 02:33:29 - /Index/floatingBrad.jpg
+12/30/2013 02:33:35 - /
+12/30/2013 02:33:35 - Index.php, not logged in - SESSION['loggedIn'] contents: 
+12/30/2013 02:33:35 - /bootstrap/bootstrap.css
+12/30/2013 02:33:35 - /Index/index.css
+12/30/2013 02:33:35 - /Common/ajaxRequest.js
+12/30/2013 02:33:35 - /Index/index.js
+12/30/2013 02:33:35 - /Index/floatingBrad.jpg
+12/30/2013 02:33:35 - /Index/RetrieveComments.php
+12/30/2013 02:33:35 - Retrieve Comments
+12/30/2013 02:33:49 - /
+12/30/2013 02:33:49 - Index.php, not logged in - SESSION['loggedIn'] contents: 
+12/30/2013 02:33:49 - /bootstrap/bootstrap.css
+12/30/2013 02:33:49 - /Index/index.css
+12/30/2013 02:33:49 - /Index/index.js
+12/30/2013 02:33:49 - /Index/floatingBrad.jpg
+12/30/2013 02:33:49 - /Common/ajaxRequest.js
+12/30/2013 02:33:49 - /Index/RetrieveComments.php
+12/30/2013 02:33:49 - Retrieve Comments
+12/30/2013 02:34:05 - /
+12/30/2013 02:34:05 - Index.php, not logged in - SESSION['loggedIn'] contents: 
+12/30/2013 02:34:05 - /bootstrap/bootstrap.css
+12/30/2013 02:34:05 - /Index/index.css
+12/30/2013 02:34:05 - /Common/ajaxRequest.js
+12/30/2013 02:34:05 - /Index/floatingBrad.jpg
+12/30/2013 02:34:05 - /Index/index.js
+12/30/2013 02:34:06 - /Index/RetrieveComments.php
+12/30/2013 02:34:06 - Retrieve Comments
+12/30/2013 02:34:20 - /
+12/30/2013 02:34:20 - Index.php, not logged in - SESSION['loggedIn'] contents: 
+12/30/2013 02:34:20 - /bootstrap/bootstrap.css
+12/30/2013 02:34:20 - /Index/index.css
+12/30/2013 02:34:21 - /Common/ajaxRequest.js
+12/30/2013 02:34:21 - /Index/index.js
+12/30/2013 02:34:21 - /Index/floatingBrad.jpg
+12/30/2013 02:34:21 - /Index/RetrieveComments.php
+12/30/2013 02:34:21 - Retrieve Comments
+12/30/2013 02:35:36 - /
+12/30/2013 02:35:36 - Index.php, not logged in - SESSION['loggedIn'] contents: 
+12/30/2013 02:35:36 - /bootstrap/bootstrap.css
+12/30/2013 02:35:36 - /Index/floatingBrad.jpg
+12/30/2013 02:35:36 - /Common/ajaxRequest.js
+12/30/2013 02:35:36 - /Index/index.js
+12/30/2013 02:35:36 - /Index/index.css
+12/30/2013 02:35:37 - /Index/RetrieveComments.php
+12/30/2013 02:35:37 - Retrieve Comments
+12/30/2013 02:36:05 - /
+12/30/2013 02:36:05 - Index.php, not logged in - SESSION['loggedIn'] contents: 
+12/30/2013 02:36:05 - /bootstrap/bootstrap.css
+12/30/2013 02:36:05 - /Index/index.css
+12/30/2013 02:36:05 - /Common/ajaxRequest.js
+12/30/2013 02:36:05 - /Index/index.js
+12/30/2013 02:36:05 - /Index/RetrieveComments.php
+12/30/2013 02:36:05 - Retrieve Comments
+12/30/2013 02:36:05 - /Index/floatingBrad.jpg
+12/30/2013 02:36:23 - /
+12/30/2013 02:36:23 - Index.php, not logged in - SESSION['loggedIn'] contents: 
+12/30/2013 02:36:23 - /bootstrap/bootstrap.css
+12/30/2013 02:36:23 - /Common/ajaxRequest.js
+12/30/2013 02:36:23 - /Index/index.css
+12/30/2013 02:36:23 - /Index/index.js
+12/30/2013 02:36:24 - /Index/floatingBrad.jpg
+12/30/2013 02:36:24 - /Index/RetrieveComments.php
+12/30/2013 02:36:24 - Retrieve Comments
+12/30/2013 02:36:30 - /
+12/30/2013 02:36:30 - Index.php, not logged in - SESSION['loggedIn'] contents: 
+12/30/2013 02:36:30 - /bootstrap/bootstrap.css
+12/30/2013 02:36:30 - /Index/index.css
+12/30/2013 02:36:30 - /Index/floatingBrad.jpg
+12/30/2013 02:36:30 - /Index/index.js
+12/30/2013 02:36:30 - /Common/ajaxRequest.js
+12/30/2013 02:36:30 - /Index/RetrieveComments.php
+12/30/2013 02:36:30 - Retrieve Comments
+12/30/2013 02:36:55 - /
+12/30/2013 02:36:55 - Index.php, not logged in - SESSION['loggedIn'] contents: 
+12/30/2013 02:36:55 - /bootstrap/bootstrap.css
+12/30/2013 02:36:55 - /Index/index.css
+12/30/2013 02:36:55 - /Index/index.js
+12/30/2013 02:36:55 - /Common/ajaxRequest.js
+12/30/2013 02:36:55 - /Index/floatingBrad.jpg
+12/30/2013 02:36:55 - /Index/RetrieveComments.php
+12/30/2013 02:36:55 - Retrieve Comments
+12/30/2013 02:38:23 - /
+12/30/2013 02:38:23 - Index.php, not logged in - SESSION['loggedIn'] contents: 
+12/30/2013 02:38:23 - /bootstrap/bootstrap.css
+12/30/2013 02:38:23 - /Common/ajaxRequest.js
+12/30/2013 02:38:23 - /Index/index.js
+12/30/2013 02:38:23 - /Index/index.css
+12/30/2013 02:38:24 - /Index/RetrieveComments.php
+12/30/2013 02:38:24 - Retrieve Comments
+12/30/2013 02:38:24 - /Index/floatingBrad.jpg
+12/30/2013 02:38:26 - /
+12/30/2013 02:38:26 - Index.php, not logged in - SESSION['loggedIn'] contents: 
+12/30/2013 02:38:26 - /bootstrap/bootstrap.css
+12/30/2013 02:38:26 - /Index/index.css
+12/30/2013 02:38:27 - /Index/index.js
+12/30/2013 02:38:27 - /Common/ajaxRequest.js
+12/30/2013 02:38:27 - /Index/floatingBrad.jpg
+12/30/2013 02:38:27 - /Index/RetrieveComments.php
+12/30/2013 02:38:27 - Retrieve Comments
+12/30/2013 02:39:11 - /Thesaurify/
+12/30/2013 02:39:11 - /Thesaurify/thesaurify.css
+12/30/2013 02:39:11 - /Thesaurify/thesaurify.js
+12/30/2013 02:39:11 - /Common/backButton.js
+12/30/2013 02:39:11 - /Thesaurify/loading.gif
+12/30/2013 06:06:40 - /robots.txt
+12/30/2013 06:06:40 - Index.php, not logged in - SESSION['loggedIn'] contents: 
+12/30/2013 06:06:40 - /
+12/30/2013 06:06:40 - Index.php, not logged in - SESSION['loggedIn'] contents: 
+12/30/2013 06:12:36 - /
+12/30/2013 06:12:36 - Index.php, not logged in - SESSION['loggedIn'] contents: 
+12/30/2013 06:13:20 - /cgi-bin/php?%2D%64+%61%6C%6C%6F%77%5F%75%72%6C%5F%69%6E%63%6C%75%64%65%3D%6F%6E+%2D%64+%73%61%66%65%5F%6D%6F%64%65%3D%6F%66%66+%2D%64+%73%75%68%6F%73%69%6E%2E%73%69%6D%75%6C%61%74%69%6F%6E%3D%6F%6E+%2D%64+%64%69%73%61%62%6C%65%5F%66%75%6E%63%74%69%6F%6E%73%3D%22%22+%2D%64+%6F%70%65%6E%5F%62%61%73%65%64%69%72%3D%6E%6F%6E%65+%2D%64+%61%75%74%6F%5F%70%72%65%70%65%6E%64%5F%66%69%6C%65%3D%70%68%70%3A%2F%2F%69%6E%70%75%74+%2D%64+%63%67%69%2E%66%6F%72%63%65%5F%72%65%64%69%72%65%63%74%3D%30+%2D%64+%63%67%69%2E%72%65%64%69%72%65%63%74%5F%73%74%61%74%75%73%5F%65%6E%76%3D%30+%2D%6E
+12/30/2013 06:13:20 - Index.php, not logged in - SESSION['loggedIn'] contents: 
+12/30/2013 06:13:21 - /cgi-bin/php5?%2D%64+%61%6C%6C%6F%77%5F%75%72%6C%5F%69%6E%63%6C%75%64%65%3D%6F%6E+%2D%64+%73%61%66%65%5F%6D%6F%64%65%3D%6F%66%66+%2D%64+%73%75%68%6F%73%69%6E%2E%73%69%6D%75%6C%61%74%69%6F%6E%3D%6F%6E+%2D%64+%64%69%73%61%62%6C%65%5F%66%75%6E%63%74%69%6F%6E%73%3D%22%22+%2D%64+%6F%70%65%6E%5F%62%61%73%65%64%69%72%3D%6E%6F%6E%65+%2D%64+%61%75%74%6F%5F%70%72%65%70%65%6E%64%5F%66%69%6C%65%3D%70%68%70%3A%2F%2F%69%6E%70%75%74+%2D%64+%63%67%69%2E%66%6F%72%63%65%5F%72%65%64%69%72%65%63%74%3D%30+%2D%64+%63%67%69%2E%72%65%64%69%72%65%63%74%5F%73%74%61%74%75%73%5F%65%6E%76%3D%30+%2D%6E
+12/30/2013 06:13:21 - Index.php, not logged in - SESSION['loggedIn'] contents: 
+12/30/2013 06:13:22 - /cgi-bin/php-cgi?%2D%64+%61%6C%6C%6F%77%5F%75%72%6C%5F%69%6E%63%6C%75%64%65%3D%6F%6E+%2D%64+%73%61%66%65%5F%6D%6F%64%65%3D%6F%66%66+%2D%64+%73%75%68%6F%73%69%6E%2E%73%69%6D%75%6C%61%74%69%6F%6E%3D%6F%6E+%2D%64+%64%69%73%61%62%6C%65%5F%66%75%6E%63%74%69%6F%6E%73%3D%22%22+%2D%64+%6F%70%65%6E%5F%62%61%73%65%64%69%72%3D%6E%6F%6E%65+%2D%64+%61%75%74%6F%5F%70%72%65%70%65%6E%64%5F%66%69%6C%65%3D%70%68%70%3A%2F%2F%69%6E%70%75%74+%2D%64+%63%67%69%2E%66%6F%72%63%65%5F%72%65%64%69%72%65%63%74%3D%30+%2D%64+%63%67%69%2E%72%65%64%69%72%65%63%74%5F%73%74%61%74%75%73%5F%65%6E%76%3D%30+%2D%6E
+12/30/2013 06:13:22 - Index.php, not logged in - SESSION['loggedIn'] contents: 
+12/30/2013 06:13:27 - /cgi-bin/php.cgi?%2D%64+%61%6C%6C%6F%77%5F%75%72%6C%5F%69%6E%63%6C%75%64%65%3D%6F%6E+%2D%64+%73%61%66%65%5F%6D%6F%64%65%3D%6F%66%66+%2D%64+%73%75%68%6F%73%69%6E%2E%73%69%6D%75%6C%61%74%69%6F%6E%3D%6F%6E+%2D%64+%64%69%73%61%62%6C%65%5F%66%75%6E%63%74%69%6F%6E%73%3D%22%22+%2D%64+%6F%70%65%6E%5F%62%61%73%65%64%69%72%3D%6E%6F%6E%65+%2D%64+%61%75%74%6F%5F%70%72%65%70%65%6E%64%5F%66%69%6C%65%3D%70%68%70%3A%2F%2F%69%6E%70%75%74+%2D%64+%63%67%69%2E%66%6F%72%63%65%5F%72%65%64%69%72%65%63%74%3D%30+%2D%64+%63%67%69%2E%72%65%64%69%72%65%63%74%5F%73%74%61%74%75%73%5F%65%6E%76%3D%30+%2D%6E
+12/30/2013 06:13:27 - Index.php, not logged in - SESSION['loggedIn'] contents: 
+12/30/2013 06:13:28 - /cgi-bin/php4?%2D%64+%61%6C%6C%6F%77%5F%75%72%6C%5F%69%6E%63%6C%75%64%65%3D%6F%6E+%2D%64+%73%61%66%65%5F%6D%6F%64%65%3D%6F%66%66+%2D%64+%73%75%68%6F%73%69%6E%2E%73%69%6D%75%6C%61%74%69%6F%6E%3D%6F%6E+%2D%64+%64%69%73%61%62%6C%65%5F%66%75%6E%63%74%69%6F%6E%73%3D%22%22+%2D%64+%6F%70%65%6E%5F%62%61%73%65%64%69%72%3D%6E%6F%6E%65+%2D%64+%61%75%74%6F%5F%70%72%65%70%65%6E%64%5F%66%69%6C%65%3D%70%68%70%3A%2F%2F%69%6E%70%75%74+%2D%64+%63%67%69%2E%66%6F%72%63%65%5F%72%65%64%69%72%65%63%74%3D%30+%2D%64+%63%67%69%2E%72%65%64%69%72%65%63%74%5F%73%74%61%74%75%73%5F%65%6E%76%3D%30+%2D%6E
+12/30/2013 06:13:28 - Index.php, not logged in - SESSION['loggedIn'] contents: 
+12/30/2013 06:14:06 - /robots.txt
+12/30/2013 06:14:06 - Index.php, not logged in - SESSION['loggedIn'] contents: 
+12/30/2013 06:14:08 - /Resume/
+12/30/2013 06:14:08 - /Contact/
+12/30/2013 06:14:09 - /Login/
+12/30/2013 06:14:09 - /Register/
+12/30/2013 06:14:10 - /Thesaurify/
+12/30/2013 06:14:10 - /Uno/
+12/30/2013 06:24:40 - /robots.txt
+12/30/2013 06:24:40 - Index.php, not logged in - SESSION['loggedIn'] contents: 
+12/30/2013 06:24:41 - /
+12/30/2013 06:24:41 - Index.php, not logged in - SESSION['loggedIn'] contents: 
+12/30/2013 06:27:26 - /cgi-bin/php?%2D%64+%61%6C%6C%6F%77%5F%75%72%6C%5F%69%6E%63%6C%75%64%65%3D%6F%6E+%2D%64+%73%61%66%65%5F%6D%6F%64%65%3D%6F%66%66+%2D%64+%73%75%68%6F%73%69%6E%2E%73%69%6D%75%6C%61%74%69%6F%6E%3D%6F%6E+%2D%64+%64%69%73%61%62%6C%65%5F%66%75%6E%63%74%69%6F%6E%73%3D%22%22+%2D%64+%6F%70%65%6E%5F%62%61%73%65%64%69%72%3D%6E%6F%6E%65+%2D%64+%61%75%74%6F%5F%70%72%65%70%65%6E%64%5F%66%69%6C%65%3D%70%68%70%3A%2F%2F%69%6E%70%75%74+%2D%64+%63%67%69%2E%66%6F%72%63%65%5F%72%65%64%69%72%65%63%74%3D%30+%2D%64+%63%67%69%2E%72%65%64%69%72%65%63%74%5F%73%74%61%74%75%73%5F%65%6E%76%3D%30+%2D%6E
+12/30/2013 06:27:26 - Index.php, not logged in - SESSION['loggedIn'] contents: 
+12/30/2013 06:27:27 - /
+12/30/2013 06:27:27 - Index.php, not logged in - SESSION['loggedIn'] contents: 
+12/30/2013 06:27:32 - /cgi-bin/php5?%2D%64+%61%6C%6C%6F%77%5F%75%72%6C%5F%69%6E%63%6C%75%64%65%3D%6F%6E+%2D%64+%73%61%66%65%5F%6D%6F%64%65%3D%6F%66%66+%2D%64+%73%75%68%6F%73%69%6E%2E%73%69%6D%75%6C%61%74%69%6F%6E%3D%6F%6E+%2D%64+%64%69%73%61%62%6C%65%5F%66%75%6E%63%74%69%6F%6E%73%3D%22%22+%2D%64+%6F%70%65%6E%5F%62%61%73%65%64%69%72%3D%6E%6F%6E%65+%2D%64+%61%75%74%6F%5F%70%72%65%70%65%6E%64%5F%66%69%6C%65%3D%70%68%70%3A%2F%2F%69%6E%70%75%74+%2D%64+%63%67%69%2E%66%6F%72%63%65%5F%72%65%64%69%72%65%63%74%3D%30+%2D%64+%63%67%69%2E%72%65%64%69%72%65%63%74%5F%73%74%61%74%75%73%5F%65%6E%76%3D%30+%2D%6E
+12/30/2013 06:27:32 - Index.php, not logged in - SESSION['loggedIn'] contents: 
+12/30/2013 06:27:34 - /cgi-bin/php-cgi?%2D%64+%61%6C%6C%6F%77%5F%75%72%6C%5F%69%6E%63%6C%75%64%65%3D%6F%6E+%2D%64+%73%61%66%65%5F%6D%6F%64%65%3D%6F%66%66+%2D%64+%73%75%68%6F%73%69%6E%2E%73%69%6D%75%6C%61%74%69%6F%6E%3D%6F%6E+%2D%64+%64%69%73%61%62%6C%65%5F%66%75%6E%63%74%69%6F%6E%73%3D%22%22+%2D%64+%6F%70%65%6E%5F%62%61%73%65%64%69%72%3D%6E%6F%6E%65+%2D%64+%61%75%74%6F%5F%70%72%65%70%65%6E%64%5F%66%69%6C%65%3D%70%68%70%3A%2F%2F%69%6E%70%75%74+%2D%64+%63%67%69%2E%66%6F%72%63%65%5F%72%65%64%69%72%65%63%74%3D%30+%2D%64+%63%67%69%2E%72%65%64%69%72%65%63%74%5F%73%74%61%74%75%73%5F%65%6E%76%3D%30+%2D%6E
+12/30/2013 06:27:34 - Index.php, not logged in - SESSION['loggedIn'] contents: 
+12/30/2013 06:27:36 - /cgi-bin/php.cgi?%2D%64+%61%6C%6C%6F%77%5F%75%72%6C%5F%69%6E%63%6C%75%64%65%3D%6F%6E+%2D%64+%73%61%66%65%5F%6D%6F%64%65%3D%6F%66%66+%2D%64+%73%75%68%6F%73%69%6E%2E%73%69%6D%75%6C%61%74%69%6F%6E%3D%6F%6E+%2D%64+%64%69%73%61%62%6C%65%5F%66%75%6E%63%74%69%6F%6E%73%3D%22%22+%2D%64+%6F%70%65%6E%5F%62%61%73%65%64%69%72%3D%6E%6F%6E%65+%2D%64+%61%75%74%6F%5F%70%72%65%70%65%6E%64%5F%66%69%6C%65%3D%70%68%70%3A%2F%2F%69%6E%70%75%74+%2D%64+%63%67%69%2E%66%6F%72%63%65%5F%72%65%64%69%72%65%63%74%3D%30+%2D%64+%63%67%69%2E%72%65%64%69%72%65%63%74%5F%73%74%61%74%75%73%5F%65%6E%76%3D%30+%2D%6E
+12/30/2013 06:27:36 - Index.php, not logged in - SESSION['loggedIn'] contents: 
+12/30/2013 06:27:39 - /cgi-bin/php4?%2D%64+%61%6C%6C%6F%77%5F%75%72%6C%5F%69%6E%63%6C%75%64%65%3D%6F%6E+%2D%64+%73%61%66%65%5F%6D%6F%64%65%3D%6F%66%66+%2D%64+%73%75%68%6F%73%69%6E%2E%73%69%6D%75%6C%61%74%69%6F%6E%3D%6F%6E+%2D%64+%64%69%73%61%62%6C%65%5F%66%75%6E%63%74%69%6F%6E%73%3D%22%22+%2D%64+%6F%70%65%6E%5F%62%61%73%65%64%69%72%3D%6E%6F%6E%65+%2D%64+%61%75%74%6F%5F%70%72%65%70%65%6E%64%5F%66%69%6C%65%3D%70%68%70%3A%2F%2F%69%6E%70%75%74+%2D%64+%63%67%69%2E%66%6F%72%63%65%5F%72%65%64%69%72%65%63%74%3D%30+%2D%64+%63%67%69%2E%72%65%64%69%72%65%63%74%5F%73%74%61%74%75%73%5F%65%6E%76%3D%30+%2D%6E
+12/30/2013 06:27:39 - Index.php, not logged in - SESSION['loggedIn'] contents: 
+12/30/2013 07:21:06 - /Thesaurify/
+12/30/2013 07:21:06 - /Thesaurify/thesaurify.css
+12/30/2013 07:21:06 - /Thesaurify/thesaurify.js
+12/30/2013 07:21:06 - /Common/backButton.js
+12/30/2013 07:21:07 - /Thesaurify/loading.gif
+12/30/2013 07:24:00 - /Thesaurify/
+12/30/2013 07:24:01 - /Thesaurify/thesaurify.css
+12/30/2013 07:24:01 - /Thesaurify/thesaurify.js
+12/30/2013 07:24:01 - /Common/backButton.js
+12/30/2013 07:24:01 - /Thesaurify/loading.gif
+12/30/2013 07:30:07 - /Thesaurify/
+12/30/2013 07:30:07 - /Thesaurify/thesaurify.css
+12/30/2013 07:30:07 - /Thesaurify/thesaurify.js
+12/30/2013 07:30:07 - /Common/backButton.js
+12/30/2013 07:30:07 - /Thesaurify/loading.gif
+12/30/2013 07:30:35 - /Thesaurify/
+12/30/2013 07:30:35 - /Thesaurify/thesaurify.css
+12/30/2013 07:30:35 - /Thesaurify/thesaurify.js
+12/30/2013 07:30:35 - /Common/backButton.js
+12/30/2013 07:30:35 - /Thesaurify/loading.gif
+12/30/2013 07:31:50 - /Thesaurify/
+12/30/2013 07:31:50 - /Thesaurify/thesaurify.css
+12/30/2013 07:31:51 - /Thesaurify/thesaurify.js
+12/30/2013 07:31:51 - /Common/backButton.js
+12/30/2013 07:31:51 - /Thesaurify/loading.gif
+12/30/2013 07:38:10 - /Thesaurify/
+12/30/2013 07:38:10 - /Thesaurify/thesaurify.css
+12/30/2013 07:38:10 - /Thesaurify/thesaurify.js
+12/30/2013 07:38:10 - /Common/backButton.js
+12/30/2013 07:38:10 - /Thesaurify/loading.gif
+12/30/2013 07:47:37 - /Thesaurify/
+12/30/2013 07:47:37 - /Thesaurify/thesaurify.css
+12/30/2013 07:47:37 - /Common/backButton.js
+12/30/2013 07:47:37 - /Thesaurify/thesaurify.js
+12/30/2013 07:47:37 - /Thesaurify/loading.gif
+12/30/2013 07:58:25 - /Thesaurify/
+12/30/2013 07:58:25 - /Thesaurify/thesaurify.css
+12/30/2013 07:58:25 - /Thesaurify/thesaurify.js
+12/30/2013 07:58:25 - /Common/backButton.js
+12/30/2013 07:58:25 - /Thesaurify/loading.gif
+12/30/2013 09:39:00 - /
+12/30/2013 09:39:00 - Index.php, not logged in - SESSION['loggedIn'] contents: 
+12/30/2013 11:42:17 - 62.233.187.99:80
+12/30/2013 11:42:17 - Index.php, not logged in - SESSION['loggedIn'] contents: 

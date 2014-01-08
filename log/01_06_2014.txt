@@ -1,0 +1,288 @@
+01/06/2014 01:27:51 - Index.php, not logged in - SESSION['loggedIn'] contents: 
+01/06/2014 02:15:04 - Index.php, not logged in - SESSION['loggedIn'] contents: 
+01/06/2014 02:38:25 - Index.php, not logged in - SESSION['loggedIn'] contents: 
+01/06/2014 03:09:55 - Index.php, not logged in - SESSION['loggedIn'] contents: 
+01/06/2014 03:09:56 - Retrieve Comments
+01/06/2014 03:10:00 - Index.php, not logged in - SESSION['loggedIn'] contents: 
+01/06/2014 03:10:04 - Index.php, logged in - SESSION['loggedIn'] contents: 1
+01/06/2014 03:10:05 - Retrieve Comments
+01/06/2014 03:10:20 - Index.php, logged in - SESSION['loggedIn'] contents: 1
+01/06/2014 03:10:21 - Retrieve Comments
+01/06/2014 08:33:06 - Index.php, not logged in - SESSION['loggedIn'] contents: 
+01/06/2014 12:52:04 - Index.php, not logged in - SESSION['loggedIn'] contents: 
+01/06/2014 03:29:44 - Index.php, not logged in - SESSION['loggedIn'] contents: 
+01/06/2014 03:44:58 - Index.php, not logged in - SESSION['loggedIn'] contents: 
+01/06/2014 03:45:00 - Retrieve Comments
+01/06/2014 03:45:31 - Index.php, not logged in - SESSION['loggedIn'] contents: 
+01/06/2014 03:45:33 - Retrieve Comments
+01/06/2014 03:45:34 - Index.php, not logged in - SESSION['loggedIn'] contents: 
+01/06/2014 05:51:58 - Index.php, not logged in - SESSION['loggedIn'] contents: 
+01/06/2014 05:51:58 - Retrieve Comments
+01/06/2014 05:51:59 - Index.php, not logged in - SESSION['loggedIn'] contents: 
+01/06/2014 05:51:59 - Index.php, not logged in - SESSION['loggedIn'] contents: 
+01/06/2014 05:53:16 - Index.php, not logged in - SESSION['loggedIn'] contents: 
+01/06/2014 05:53:16 - Retrieve Comments
+01/06/2014 05:53:24 - Index.php, logged in - SESSION['loggedIn'] contents: 1
+01/06/2014 05:53:25 - Retrieve Comments
+01/06/2014 05:56:30 - List class - got here
+01/06/2014 06:02:02 - List class - query: select ID from Houses where USER_ID=7;
+result: 1
+01/06/2014 06:03:51 - List class - query: select ID from Houses where USER_ID=7;
+result: 1
+01/06/2014 06:21:36 - List class - query: select ID from Houses where USER_ID=7;
+result: 1
+01/06/2014 07:13:01 - Index.php, not logged in - SESSION['loggedIn'] contents: 
+01/06/2014 07:13:01 - Retrieve Comments
+01/06/2014 07:13:05 - Index.php, not logged in - SESSION['loggedIn'] contents: 
+01/06/2014 07:13:05 - Retrieve Comments
+01/06/2014 07:13:09 - Index.php, not logged in - SESSION['loggedIn'] contents: 
+01/06/2014 07:13:10 - Retrieve Comments
+01/06/2014 07:13:22 - Index.php, logged in - SESSION['loggedIn'] contents: 1
+01/06/2014 07:13:23 - Retrieve Comments
+01/06/2014 07:14:54 - Index.php, not logged in - SESSION['loggedIn'] contents: 
+01/06/2014 07:14:58 - Index.php, not logged in - SESSION['loggedIn'] contents: 
+01/06/2014 07:16:07 - Index.php, not logged in - SESSION['loggedIn'] contents: 
+01/06/2014 07:16:17 - Index.php, not logged in - SESSION['loggedIn'] contents: 
+01/06/2014 07:16:46 - Index.php, not logged in - SESSION['loggedIn'] contents: 
+01/06/2014 07:16:46 - Retrieve Comments
+01/06/2014 07:16:49 - Index.php, not logged in - SESSION['loggedIn'] contents: 
+01/06/2014 07:16:49 - Retrieve Comments
+01/06/2014 07:16:58 - Index.php, logged in - SESSION['loggedIn'] contents: 1
+01/06/2014 07:16:59 - Retrieve Comments
+01/06/2014 07:17:01 - Index.php, not logged in - SESSION['loggedIn'] contents: 
+01/06/2014 07:17:01 - Retrieve Comments
+01/06/2014 07:17:01 - Index.php, not logged in - SESSION['loggedIn'] contents: 
+01/06/2014 07:17:01 - Index.php, not logged in - SESSION['loggedIn'] contents: 
+01/06/2014 07:17:18 - Mysql class - funcAry: [0]:issis; [1]:6; [2]:test com; [3]:test; [4]:1; [5]:2014-01-07 01:16:58; 
+01/06/2014 07:17:18 - Mysql class - affected rows: 1
+01/06/2014 07:17:58 - Index.php, not logged in - SESSION['loggedIn'] contents: 
+01/06/2014 07:17:59 - Retrieve Comments
+01/06/2014 07:21:59 - Index.php, not logged in - SESSION['loggedIn'] contents: 
+01/06/2014 07:21:59 - Retrieve Comments
+01/06/2014 07:22:07 - Index.php, logged in - SESSION['loggedIn'] contents: 1
+01/06/2014 07:22:07 - Retrieve Comments
+01/06/2014 07:22:26 - List class - query: select ID from Houses where USER_ID=7;
+result: 1
+01/06/2014 07:24:51 - index.php - url: /List/houseCreate/
+folder: List
+file: list_housecreate.html
+type: html
+path: List/houseCreate
+01/06/2014 07:24:51 - Index - filename: ./List/houseCreate/list_housecreate.html
+01/06/2014 07:27:20 - index.php - url: /List/houseCreate/
+folder: List
+file: .html
+type: html
+path: List/houseCreate
+01/06/2014 07:27:20 - Index - filename: ./List/houseCreate/.html
+01/06/2014 07:27:55 - index.php - url: /List/houseCreate/
+folder: List
+file: housecreate.html
+type: html
+path: List/houseCreate
+01/06/2014 07:27:55 - Index - filename: ./List/houseCreate/housecreate.html
+01/06/2014 07:27:55 - List class error - placeholder not found: {welcome_placeholder}
+01/06/2014 07:27:55 - List class - query: select ID from Houses where USER_ID=7;
+result: 1
+01/06/2014 07:27:55 - List class error - placeholder not found: {houses_display_placeholder}
+01/06/2014 07:27:55 - List class error - placeholder not found: {houses_search_placeholder}
+01/06/2014 07:27:55 - List class error - placeholder not found: {new_house_placeholder}
+01/06/2014 07:27:55 - index.php - url: /bootstrap/bootstrap.css
+folder: bootstrap
+file: bootstrap.css
+type: css
+path: bootstrap
+01/06/2014 07:27:55 - Index - filename: ./bootstrap/bootstrap.css
+01/06/2014 07:27:55 - index.php - url: /List/houseCreate/housecreate.css
+folder: List
+file: housecreate.css
+type: css
+path: List/houseCreate
+01/06/2014 07:27:55 - Index - filename: ./List/houseCreate/housecreate.css
+01/06/2014 07:27:55 - index.php - url: /Common/backButton.js
+folder: Common
+file: backButton.js
+type: js
+path: Common
+01/06/2014 07:27:55 - Index - filename: ./Common/backButton.js
+01/06/2014 07:27:55 - index.php - url: /Common/jquery.js
+folder: Common
+file: jquery.js
+type: js
+path: Common
+01/06/2014 07:27:55 - Index - filename: ./Common/jquery.js
+01/06/2014 07:27:56 - index.php - url: /List/housecreate.js
+folder: List
+file: housecreate.js
+type: js
+path: List
+01/06/2014 07:27:56 - Index - filename: ./List/housecreate.js
+01/06/2014 07:30:29 - index.php - url: /List/houseCreate/
+folder: List
+file: housecreate.html
+type: html
+path: List/houseCreate
+01/06/2014 07:30:29 - Index - filename: ./List/houseCreate/housecreate.html
+01/06/2014 07:30:29 - List class error - placeholder not found: {welcome_placeholder}
+01/06/2014 07:30:29 - List class - query: select ID from Houses where USER_ID=7;
+result: 1
+01/06/2014 07:30:29 - List class error - placeholder not found: {houses_display_placeholder}
+01/06/2014 07:30:29 - List class error - placeholder not found: {houses_search_placeholder}
+01/06/2014 07:30:29 - List class error - placeholder not found: {new_house_placeholder}
+01/06/2014 07:30:29 - index.php - url: /bootstrap/bootstrap.css
+folder: bootstrap
+file: bootstrap.css
+type: css
+path: bootstrap
+01/06/2014 07:30:29 - Index - filename: ./bootstrap/bootstrap.css
+01/06/2014 07:30:29 - index.php - url: /List/housecreate.js
+folder: List
+file: housecreate.js
+type: js
+path: List
+01/06/2014 07:30:29 - Index - filename: ./List/housecreate.js
+01/06/2014 07:30:29 - index.php - url: /Common/jquery.js
+folder: Common
+file: jquery.js
+type: js
+path: Common
+01/06/2014 07:30:29 - Index - filename: ./Common/jquery.js
+01/06/2014 07:30:30 - index.php - url: /List/houseCreate/housecreate.css
+folder: List
+file: housecreate.css
+type: css
+path: List/houseCreate
+01/06/2014 07:30:30 - Index - filename: ./List/houseCreate/housecreate.css
+01/06/2014 07:30:30 - index.php - url: /Common/backButton.js
+folder: Common
+file: backButton.js
+type: js
+path: Common
+01/06/2014 07:30:30 - Index - filename: ./Common/backButton.js
+01/06/2014 07:31:15 - index.php - url: /List/houseCreate/
+folder: List
+file: housecreate.html
+type: html
+path: List/houseCreate
+01/06/2014 07:31:15 - Index - filename: ./List/houseCreate/housecreate.html
+01/06/2014 07:31:15 - List class error - placeholder not found: {welcome_placeholder}
+01/06/2014 07:31:15 - List class - query: select ID from Houses where USER_ID=7;
+result: 1
+01/06/2014 07:31:15 - List class error - placeholder not found: {houses_display_placeholder}
+01/06/2014 07:31:15 - List class error - placeholder not found: {houses_search_placeholder}
+01/06/2014 07:31:15 - List class error - placeholder not found: {new_house_placeholder}
+01/06/2014 07:31:15 - index.php - url: /bootstrap/bootstrap.css
+folder: bootstrap
+file: bootstrap.css
+type: css
+path: bootstrap
+01/06/2014 07:31:15 - Index - filename: ./bootstrap/bootstrap.css
+01/06/2014 07:31:15 - index.php - url: /Common/backButton.js
+folder: Common
+file: backButton.js
+type: js
+path: Common
+01/06/2014 07:31:15 - Index - filename: ./Common/backButton.js
+01/06/2014 07:31:15 - index.php - url: /List/houseCreate/housecreate.js
+folder: List
+file: housecreate.js
+type: js
+path: List/houseCreate
+01/06/2014 07:31:15 - Index - filename: ./List/houseCreate/housecreate.js
+01/06/2014 07:31:15 - index.php - url: /List/houseCreate/housecreate.css
+folder: List
+file: housecreate.css
+type: css
+path: List/houseCreate
+01/06/2014 07:31:15 - Index - filename: ./List/houseCreate/housecreate.css
+01/06/2014 07:31:15 - index.php - url: /Common/jquery.js
+folder: Common
+file: jquery.js
+type: js
+path: Common
+01/06/2014 07:31:15 - Index - filename: ./Common/jquery.js
+01/06/2014 09:09:08 - index.php - url: /
+folder: 
+file: .html
+type: html
+path: 
+01/06/2014 09:09:08 - Index.php, not logged in - SESSION['loggedIn'] contents: 
+01/06/2014 09:09:19 - index.php - url: /bootstrap/bootstrap.css
+folder: bootstrap
+file: bootstrap.css
+type: css
+path: bootstrap
+01/06/2014 09:09:19 - Index - filename: ./bootstrap/bootstrap.css
+01/06/2014 09:09:19 - index.php - url: /Index/index.css
+folder: Index
+file: index.css
+type: css
+path: Index
+01/06/2014 09:09:19 - Index - filename: ./Index/index.css
+01/06/2014 09:09:19 - index.php - url: /Common/ajaxRequest.js
+folder: Common
+file: ajaxRequest.js
+type: js
+path: Common
+01/06/2014 09:09:19 - Index - filename: ./Common/ajaxRequest.js
+01/06/2014 09:09:22 - index.php - url: /Index/index.js
+folder: Index
+file: index.js
+type: js
+path: Index
+01/06/2014 09:09:22 - Index - filename: ./Index/index.js
+01/06/2014 09:09:49 - index.php - url: /Index/floatingBrad.jpg
+folder: Index
+file: floatingBrad.jpg
+type: jpg
+path: Index
+01/06/2014 09:09:49 - Index - filename: ./Index/floatingBrad.jpg
+01/06/2014 09:09:49 - index.php - url: /Index/RetrieveComments.php
+folder: Index
+file: RetrieveComments.php
+type: php
+path: Index
+01/06/2014 09:09:49 - Index - filename: ./Index/RetrieveComments.php
+01/06/2014 09:09:49 - Retrieve Comments
+01/06/2014 11:22:57 - index.php - url: /
+folder: 
+file: .html
+type: html
+path: 
+01/06/2014 11:22:57 - Index.php, not logged in - SESSION['loggedIn'] contents: 
+01/06/2014 11:39:58 - index.php - url: /Thesaurify/
+folder: Thesaurify
+file: thesaurify.html
+type: html
+path: Thesaurify
+01/06/2014 11:39:58 - Index - filename: ./Thesaurify/thesaurify.html
+01/06/2014 11:39:58 - index.php - url: /Thesaurify/thesaurify.css
+folder: Thesaurify
+file: thesaurify.css
+type: css
+path: Thesaurify
+01/06/2014 11:39:58 - Index - filename: ./Thesaurify/thesaurify.css
+01/06/2014 11:39:58 - index.php - url: /Common/backButton.js
+folder: Common
+file: backButton.js
+type: js
+path: Common
+01/06/2014 11:39:58 - Index - filename: ./Common/backButton.js
+01/06/2014 11:39:58 - index.php - url: /Thesaurify/thesaurify.js
+folder: Thesaurify
+file: thesaurify.js
+type: js
+path: Thesaurify
+01/06/2014 11:39:58 - Index - filename: ./Thesaurify/thesaurify.js
+01/06/2014 11:39:58 - index.php - url: /Thesaurify/loading.gif
+folder: Thesaurify
+file: loading.gif
+type: gif
+path: Thesaurify
+01/06/2014 11:39:58 - Index - filename: ./Thesaurify/loading.gif
+01/06/2014 11:39:58 - index.php - url: /favicon.ico
+folder: favicon.ico
+file: favicon.ico
+type: ico
+path: 
+01/06/2014 11:39:58 - Index.php, not logged in - SESSION['loggedIn'] contents: 

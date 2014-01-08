@@ -5,12 +5,13 @@
 
     $mysql = new Mysql();
     $logging = new Logging();
+    $enableLogging = 0;
 
-    $logging->logMessage("Retrieve Comments");
+    if($enableLogging){$logging->logMessage("Retrieve Comments");}
     // Passing back comments as a string to js.  Format:
     // id|commentText|userID|userName|anonymous|timestamp;id2|commentText2|...etc
 
-    $results = $mysql->multiRowQuery("select * from Comments");
+    $results = $mysql->multiRowQuery("select * from Comments order by TIMESTAMP");
     $response = "";
 
     for($i=0;$i<count($results);$i++){

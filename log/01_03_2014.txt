@@ -1,0 +1,877 @@
+01/03/2014 12:25:55 - /
+01/03/2014 12:25:55 - Index.php, not logged in - SESSION['loggedIn'] contents: 
+01/03/2014 12:25:55 - /bootstrap/bootstrap.css
+01/03/2014 12:25:55 - /Index/index.css
+01/03/2014 12:25:55 - /Common/ajaxRequest.js
+01/03/2014 12:25:55 - /Index/index.js
+01/03/2014 12:25:55 - /Index/floatingBrad.jpg
+01/03/2014 12:25:55 - /Index/RetrieveComments.php
+01/03/2014 12:25:55 - Retrieve Comments
+01/03/2014 12:30:01 - /Thesaurify/
+01/03/2014 12:30:01 - /Thesaurify/thesaurify.js
+01/03/2014 12:30:01 - /Thesaurify/thesaurify.css
+01/03/2014 12:30:01 - /Common/backButton.js
+01/03/2014 12:30:02 - /Thesaurify/loading.gif
+01/03/2014 12:30:16 - /Common/EmojiSymbols-Regular.woff
+01/03/2014 12:31:40 - /
+01/03/2014 12:31:40 - Index.php, not logged in - SESSION['loggedIn'] contents: 
+01/03/2014 12:31:40 - /bootstrap/bootstrap.css
+01/03/2014 12:31:40 - /Index/index.css
+01/03/2014 12:31:40 - /Index/index.js
+01/03/2014 12:31:40 - /Common/ajaxRequest.js
+01/03/2014 12:31:40 - /Index/floatingBrad.jpg
+01/03/2014 12:31:40 - /Common/ajaxRequest.js
+01/03/2014 12:31:40 - /bootstrap/bootstrap.css
+01/03/2014 12:31:40 - /Index/index.css
+01/03/2014 12:31:40 - /Index/floatingBrad.jpg
+01/03/2014 12:31:40 - /Index/index.js
+01/03/2014 12:31:41 - /Index/RetrieveComments.php
+01/03/2014 12:31:41 - Retrieve Comments
+01/03/2014 12:31:42 - /robots.txt
+01/03/2014 12:31:42 - Index.php, not logged in - SESSION['loggedIn'] contents: 
+01/03/2014 12:31:42 - /
+01/03/2014 12:31:42 - Index.php, not logged in - SESSION['loggedIn'] contents: 
+01/03/2014 12:32:34 - /
+01/03/2014 12:32:34 - Index.php, not logged in - SESSION['loggedIn'] contents: 
+01/03/2014 12:32:34 - /bootstrap/bootstrap.css
+01/03/2014 12:32:34 - /Index/index.css
+01/03/2014 12:32:34 - /Index/index.js
+01/03/2014 12:32:34 - /Common/ajaxRequest.js
+01/03/2014 12:32:34 - /Index/floatingBrad.jpg
+01/03/2014 12:32:35 - /Index/RetrieveComments.php
+01/03/2014 12:32:35 - Retrieve Comments
+01/03/2014 12:32:35 - /favicon.ico
+01/03/2014 12:32:35 - Index.php, not logged in - SESSION['loggedIn'] contents: 
+01/03/2014 12:32:38 - /
+01/03/2014 12:32:38 - Index.php, not logged in - SESSION['loggedIn'] contents: 
+01/03/2014 12:32:38 - /bootstrap/bootstrap.css
+01/03/2014 12:32:38 - /Index/index.js
+01/03/2014 12:32:38 - /Common/ajaxRequest.js
+01/03/2014 12:32:38 - /Index/index.css
+01/03/2014 12:32:38 - /Index/floatingBrad.jpg
+01/03/2014 12:32:38 - /Index/RetrieveComments.php
+01/03/2014 12:32:38 - Retrieve Comments
+01/03/2014 12:32:51 - /
+01/03/2014 12:32:51 - Index.php, not logged in - SESSION['loggedIn'] contents: 
+01/03/2014 12:32:51 - /bootstrap/bootstrap.css
+01/03/2014 12:32:52 - /Common/ajaxRequest.js
+01/03/2014 12:32:52 - /Index/index.css
+01/03/2014 12:32:52 - /Index/index.js
+01/03/2014 12:32:52 - /Index/floatingBrad.jpg
+01/03/2014 12:32:52 - /Index/RetrieveComments.php
+01/03/2014 12:32:52 - Retrieve Comments
+01/03/2014 12:33:04 - /Thesaurify/
+01/03/2014 12:33:04 - /Thesaurify/thesaurify.css
+01/03/2014 12:33:04 - /Thesaurify/thesaurify.js
+01/03/2014 12:33:05 - /Thesaurify/thesaurify.css
+01/03/2014 12:33:05 - /Thesaurify/thesaurify.js
+01/03/2014 12:33:05 - /Thesaurify/loading.gif
+01/03/2014 12:33:05 - /Common/backButton.js
+01/03/2014 12:33:11 - /Common/EmojiSymbols-Regular.woff
+01/03/2014 12:33:29 - /Thesaurify/
+01/03/2014 12:33:29 - /Thesaurify/thesaurify.css
+01/03/2014 12:33:29 - /Thesaurify/thesaurify.js
+01/03/2014 12:33:29 - /Common/backButton.js
+01/03/2014 12:33:29 - /Thesaurify/loading.gif
+01/03/2014 12:33:36 - /Common/EmojiSymbols-Regular.woff
+01/03/2014 12:34:11 - /Common/EmojiSymbols-Regular.woff
+01/03/2014 12:53:28 - /
+01/03/2014 12:53:28 - Index.php, not logged in - SESSION['loggedIn'] contents: 
+01/03/2014 12:53:28 - /bootstrap/bootstrap.css
+01/03/2014 12:53:28 - /Index/index.css
+01/03/2014 12:53:28 - /Common/ajaxRequest.js
+01/03/2014 12:53:28 - /Index/index.js
+01/03/2014 12:53:28 - /Index/floatingBrad.jpg
+01/03/2014 12:53:28 - /Index/RetrieveComments.php
+01/03/2014 12:53:28 - Retrieve Comments
+01/03/2014 01:01:11 - /
+01/03/2014 01:01:11 - Index.php, not logged in - SESSION['loggedIn'] contents: 
+01/03/2014 01:01:11 - /bootstrap/bootstrap.css
+01/03/2014 01:01:12 - /Common/ajaxRequest.js
+01/03/2014 01:01:12 - /Index/index.css
+01/03/2014 01:01:12 - /Index/index.js
+01/03/2014 01:01:12 - /Index/floatingBrad.jpg
+01/03/2014 01:01:12 - /Index/RetrieveComments.php
+01/03/2014 01:01:12 - Retrieve Comments
+01/03/2014 01:01:25 - /
+01/03/2014 01:01:25 - Index.php, not logged in - SESSION['loggedIn'] contents: 
+01/03/2014 01:01:25 - /bootstrap/bootstrap.css
+01/03/2014 01:01:25 - /Common/ajaxRequest.js
+01/03/2014 01:01:25 - /Index/index.css
+01/03/2014 01:01:25 - /Index/index.js
+01/03/2014 01:01:25 - /Index/floatingBrad.jpg
+01/03/2014 01:01:25 - /Index/RetrieveComments.php
+01/03/2014 01:01:25 - Retrieve Comments
+01/03/2014 01:08:05 - /
+01/03/2014 01:08:05 - Index.php, not logged in - SESSION['loggedIn'] contents: 
+01/03/2014 01:08:05 - /bootstrap/bootstrap.css
+01/03/2014 01:08:05 - /Index/index.css
+01/03/2014 01:08:05 - /Common/ajaxRequest.js
+01/03/2014 01:08:06 - /Index/index.js
+01/03/2014 01:08:06 - /Index/RetrieveComments.php
+01/03/2014 01:08:06 - Retrieve Comments
+01/03/2014 01:08:06 - /Index/floatingBrad.jpg
+01/03/2014 01:08:20 - /
+01/03/2014 01:08:20 - Index.php, not logged in - SESSION['loggedIn'] contents: 
+01/03/2014 01:08:20 - /bootstrap/bootstrap.css
+01/03/2014 01:08:20 - /Common/ajaxRequest.js
+01/03/2014 01:08:20 - /Index/index.js
+01/03/2014 01:08:20 - /Index/index.css
+01/03/2014 01:08:20 - /Index/RetrieveComments.php
+01/03/2014 01:08:20 - Retrieve Comments
+01/03/2014 01:08:20 - /Index/floatingBrad.jpg
+01/03/2014 01:09:16 - /
+01/03/2014 01:09:16 - Index.php, not logged in - SESSION['loggedIn'] contents: 
+01/03/2014 01:09:16 - /bootstrap/bootstrap.css
+01/03/2014 01:09:16 - /Index/index.js
+01/03/2014 01:09:16 - /Index/index.css
+01/03/2014 01:09:16 - /Common/ajaxRequest.js
+01/03/2014 01:09:16 - /Index/floatingBrad.jpg
+01/03/2014 01:09:16 - /Index/RetrieveComments.php
+01/03/2014 01:09:16 - Retrieve Comments
+01/03/2014 01:09:26 - /
+01/03/2014 01:09:26 - Index.php, not logged in - SESSION['loggedIn'] contents: 
+01/03/2014 01:09:26 - /bootstrap/bootstrap.css
+01/03/2014 01:09:26 - /Common/ajaxRequest.js
+01/03/2014 01:09:26 - /Index/index.js
+01/03/2014 01:09:26 - /Index/index.css
+01/03/2014 01:09:26 - /Index/floatingBrad.jpg
+01/03/2014 01:09:26 - /Index/RetrieveComments.php
+01/03/2014 01:09:26 - Retrieve Comments
+01/03/2014 01:09:46 - /
+01/03/2014 01:09:46 - Index.php, not logged in - SESSION['loggedIn'] contents: 
+01/03/2014 01:09:46 - /bootstrap/bootstrap.css
+01/03/2014 01:09:46 - /Common/ajaxRequest.js
+01/03/2014 01:09:46 - /Index/index.js
+01/03/2014 01:09:46 - /Index/index.css
+01/03/2014 01:09:46 - /Index/floatingBrad.jpg
+01/03/2014 01:09:46 - /Index/RetrieveComments.php
+01/03/2014 01:09:46 - Retrieve Comments
+01/03/2014 01:10:01 - /
+01/03/2014 01:10:01 - Index.php, not logged in - SESSION['loggedIn'] contents: 
+01/03/2014 01:10:02 - /bootstrap/bootstrap.css
+01/03/2014 01:10:02 - /Common/ajaxRequest.js
+01/03/2014 01:10:02 - /Index/index.css
+01/03/2014 01:10:02 - /Index/index.js
+01/03/2014 01:10:03 - /Index/floatingBrad.jpg
+01/03/2014 01:10:03 - /Index/RetrieveComments.php
+01/03/2014 01:10:03 - Retrieve Comments
+01/03/2014 01:11:07 - /
+01/03/2014 01:11:07 - Index.php, not logged in - SESSION['loggedIn'] contents: 
+01/03/2014 01:11:07 - /bootstrap/bootstrap.css
+01/03/2014 01:11:07 - /Index/index.css
+01/03/2014 01:11:07 - /Common/ajaxRequest.js
+01/03/2014 01:11:07 - /Index/index.js
+01/03/2014 01:11:08 - /Index/floatingBrad.jpg
+01/03/2014 01:11:09 - /Index/RetrieveComments.php
+01/03/2014 01:11:09 - Retrieve Comments
+01/03/2014 01:11:10 - /favicon.ico
+01/03/2014 01:11:10 - Index.php, not logged in - SESSION['loggedIn'] contents: 
+01/03/2014 01:12:38 - /
+01/03/2014 01:12:38 - Index.php, not logged in - SESSION['loggedIn'] contents: 
+01/03/2014 01:12:38 - /bootstrap/bootstrap.css
+01/03/2014 01:12:38 - /Index/index.css
+01/03/2014 01:12:38 - /Common/ajaxRequest.js
+01/03/2014 01:12:38 - /Index/index.js
+01/03/2014 01:12:38 - /Index/floatingBrad.jpg
+01/03/2014 01:12:38 - /Index/RetrieveComments.php
+01/03/2014 01:12:38 - Retrieve Comments
+01/03/2014 01:12:48 - /
+01/03/2014 01:12:48 - Index.php, not logged in - SESSION['loggedIn'] contents: 
+01/03/2014 01:12:48 - /bootstrap/bootstrap.css
+01/03/2014 01:12:48 - /Index/index.css
+01/03/2014 01:12:48 - /Index/index.js
+01/03/2014 01:12:48 - /Common/ajaxRequest.js
+01/03/2014 01:12:48 - /Index/floatingBrad.jpg
+01/03/2014 01:12:48 - /Index/RetrieveComments.php
+01/03/2014 01:12:48 - Retrieve Comments
+01/03/2014 01:13:21 - /Resume/
+01/03/2014 01:13:21 - /Resume/bootstrap/bootstrap.css
+01/03/2014 01:13:21 - /Common/backButton.js
+01/03/2014 01:13:21 - /Resume/resume.css
+01/03/2014 01:13:29 - /
+01/03/2014 01:13:29 - Index.php, not logged in - SESSION['loggedIn'] contents: 
+01/03/2014 01:13:29 - /bootstrap/bootstrap.css
+01/03/2014 01:13:29 - /Index/index.js
+01/03/2014 01:13:29 - /Index/index.css
+01/03/2014 01:13:29 - /Common/ajaxRequest.js
+01/03/2014 01:13:29 - /Index/floatingBrad.jpg
+01/03/2014 01:13:29 - /Index/RetrieveComments.php
+01/03/2014 01:13:29 - Retrieve Comments
+01/03/2014 01:13:29 - /favicon.ico
+01/03/2014 01:13:29 - Index.php, not logged in - SESSION['loggedIn'] contents: 
+01/03/2014 01:13:34 - /
+01/03/2014 01:13:34 - Index.php, not logged in - SESSION['loggedIn'] contents: 
+01/03/2014 01:13:34 - /Index/index.css
+01/03/2014 01:13:34 - /bootstrap/bootstrap.css
+01/03/2014 01:13:34 - /Common/ajaxRequest.js
+01/03/2014 01:13:34 - /Index/index.js
+01/03/2014 01:13:34 - /Index/floatingBrad.jpg
+01/03/2014 01:13:34 - /Index/RetrieveComments.php
+01/03/2014 01:13:34 - Retrieve Comments
+01/03/2014 01:13:41 - /Contact/
+01/03/2014 01:13:41 - /Contact/bootstrap/bootstrap.css
+01/03/2014 01:13:41 - /Contact/contact.css
+01/03/2014 01:13:41 - /Common/backButton.js
+01/03/2014 01:13:49 - /
+01/03/2014 01:13:49 - Index.php, not logged in - SESSION['loggedIn'] contents: 
+01/03/2014 01:13:49 - /bootstrap/bootstrap.css
+01/03/2014 01:13:49 - /Common/ajaxRequest.js
+01/03/2014 01:13:49 - /Index/index.css
+01/03/2014 01:13:49 - /Index/index.js
+01/03/2014 01:13:50 - /Index/floatingBrad.jpg
+01/03/2014 01:13:50 - /Index/RetrieveComments.php
+01/03/2014 01:13:50 - Retrieve Comments
+01/03/2014 01:13:57 - /Login/
+01/03/2014 01:13:57 - /bootstrap/bootstrap.css
+01/03/2014 01:13:57 - /Login/login.css
+01/03/2014 01:13:57 - /Common/ajaxRequest.js
+01/03/2014 01:13:57 - /Login/login.js
+01/03/2014 01:13:57 - /Common/backButton.js
+01/03/2014 01:13:57 - /Common/jquery.js
+01/03/2014 01:13:58 - /favicon.ico
+01/03/2014 01:13:58 - Index.php, not logged in - SESSION['loggedIn'] contents: 
+01/03/2014 01:14:02 - /Login/login.php
+01/03/2014 01:14:02 - Login.php - login success.  SESSION['loggedIn'] before:
+
+01/03/2014 01:14:02 - Login.php - login success.  SESSION['loggedIn'] after:
+1
+01/03/2014 01:14:05 - /
+01/03/2014 01:14:05 - Index.php, logged in - SESSION['loggedIn'] contents: 1
+01/03/2014 01:14:05 - /bootstrap/bootstrap.css
+01/03/2014 01:14:05 - /Common/ajaxRequest.js
+01/03/2014 01:14:05 - /Index/index.js
+01/03/2014 01:14:05 - /Index/index.css
+01/03/2014 01:14:05 - /Index/floatingBrad.jpg
+01/03/2014 01:14:05 - /Index/RetrieveComments.php
+01/03/2014 01:14:05 - Retrieve Comments
+01/03/2014 01:14:08 - /Resume/
+01/03/2014 01:14:08 - /Resume/bootstrap/bootstrap.css
+01/03/2014 01:14:08 - /Resume/resume.css
+01/03/2014 01:14:08 - /Common/backButton.js
+01/03/2014 01:14:09 - /
+01/03/2014 01:14:09 - Index.php, logged in - SESSION['loggedIn'] contents: 1
+01/03/2014 01:14:09 - /Index/index.css
+01/03/2014 01:14:09 - /bootstrap/bootstrap.css
+01/03/2014 01:14:09 - /Index/index.js
+01/03/2014 01:14:09 - /Common/ajaxRequest.js
+01/03/2014 01:14:09 - /Index/floatingBrad.jpg
+01/03/2014 01:14:09 - /Index/RetrieveComments.php
+01/03/2014 01:14:09 - Retrieve Comments
+01/03/2014 01:14:12 - /
+01/03/2014 01:14:12 - Index.php, logged in - SESSION['loggedIn'] contents: 1
+01/03/2014 01:14:12 - /bootstrap/bootstrap.css
+01/03/2014 01:14:12 - /Common/ajaxRequest.js
+01/03/2014 01:14:12 - /Index/index.css
+01/03/2014 01:14:12 - /Index/index.js
+01/03/2014 01:14:12 - /Index/floatingBrad.jpg
+01/03/2014 01:14:12 - /Index/RetrieveComments.php
+01/03/2014 01:14:12 - Retrieve Comments
+01/03/2014 01:21:12 - /
+01/03/2014 01:21:12 - Index.php, not logged in - SESSION['loggedIn'] contents: 
+01/03/2014 01:31:06 - /
+01/03/2014 01:31:06 - Index.php, not logged in - SESSION['loggedIn'] contents: 
+01/03/2014 01:31:06 - /bootstrap/bootstrap.css
+01/03/2014 01:31:06 - /Index/index.css
+01/03/2014 01:31:06 - /Index/index.js
+01/03/2014 01:31:06 - /Common/ajaxRequest.js
+01/03/2014 01:31:06 - /Index/floatingBrad.jpg
+01/03/2014 01:31:06 - /Index/RetrieveComments.php
+01/03/2014 01:31:06 - Retrieve Comments
+01/03/2014 01:39:50 - /
+01/03/2014 01:39:50 - Index.php, not logged in - SESSION['loggedIn'] contents: 
+01/03/2014 01:39:50 - /bootstrap/bootstrap.css
+01/03/2014 01:39:50 - /Index/index.css
+01/03/2014 01:39:50 - /Common/ajaxRequest.js
+01/03/2014 01:39:50 - /Index/index.js
+01/03/2014 01:39:50 - /Index/RetrieveComments.php
+01/03/2014 01:39:50 - Retrieve Comments
+01/03/2014 01:39:50 - /Index/floatingBrad.jpg
+01/03/2014 01:39:54 - /
+01/03/2014 01:39:54 - Index.php, not logged in - SESSION['loggedIn'] contents: 
+01/03/2014 01:39:54 - /bootstrap/bootstrap.css
+01/03/2014 01:39:54 - /Index/index.js
+01/03/2014 01:39:54 - /Index/index.css
+01/03/2014 01:39:54 - /Common/ajaxRequest.js
+01/03/2014 01:39:55 - /Index/floatingBrad.jpg
+01/03/2014 01:39:55 - /Index/RetrieveComments.php
+01/03/2014 01:39:55 - Retrieve Comments
+01/03/2014 01:39:58 - /Resume/
+01/03/2014 01:39:58 - /Resume/bootstrap/bootstrap.css
+01/03/2014 01:39:58 - /Resume/resume.css
+01/03/2014 01:39:58 - /Common/backButton.js
+01/03/2014 01:40:00 - /
+01/03/2014 01:40:00 - Index.php, not logged in - SESSION['loggedIn'] contents: 
+01/03/2014 01:40:00 - /bootstrap/bootstrap.css
+01/03/2014 01:40:00 - /Common/ajaxRequest.js
+01/03/2014 01:40:00 - /Index/index.css
+01/03/2014 01:40:00 - /Index/index.js
+01/03/2014 01:40:00 - /Index/floatingBrad.jpg
+01/03/2014 01:40:00 - /Index/RetrieveComments.php
+01/03/2014 01:40:00 - Retrieve Comments
+01/03/2014 01:43:57 - /Thesaurify/
+01/03/2014 01:43:57 - /Thesaurify/thesaurify.js
+01/03/2014 01:43:57 - /Thesaurify/thesaurify.css
+01/03/2014 01:43:57 - /Common/backButton.js
+01/03/2014 01:43:57 - /Thesaurify/loading.gif
+01/03/2014 01:45:46 - /
+01/03/2014 01:45:46 - Index.php, not logged in - SESSION['loggedIn'] contents: 
+01/03/2014 01:45:46 - /bootstrap/bootstrap.css
+01/03/2014 01:45:46 - /Index/index.css
+01/03/2014 01:45:46 - /Index/index.js
+01/03/2014 01:45:46 - /Common/ajaxRequest.js
+01/03/2014 01:45:46 - /Index/floatingBrad.jpg
+01/03/2014 01:45:47 - /Index/RetrieveComments.php
+01/03/2014 01:45:47 - Retrieve Comments
+01/03/2014 01:56:10 - /Thesaurify/
+01/03/2014 01:56:10 - /Thesaurify/thesaurify.css
+01/03/2014 01:56:10 - /Common/font-awesome1.css
+01/03/2014 01:56:10 - /Thesaurify/thesaurify.js
+01/03/2014 01:56:10 - /Common/backButton.js
+01/03/2014 01:56:10 - /Thesaurify/loading.gif
+01/03/2014 01:56:21 - /Thesaurify/
+01/03/2014 01:56:21 - /Thesaurify/thesaurify.css
+01/03/2014 01:56:21 - /Common/font-awesome1.css
+01/03/2014 01:56:21 - /Thesaurify/thesaurify.js
+01/03/2014 01:56:21 - /Common/backButton.js
+01/03/2014 01:56:21 - /Thesaurify/loading.gif
+01/03/2014 02:01:22 - /Common/font-awesome1.css
+01/03/2014 02:02:02 - /Common/font-awesome1.css
+01/03/2014 02:02:24 - /Thesaurify/thesaurify.css
+01/03/2014 02:02:41 - /Common/font-awesome1.css
+01/03/2014 02:06:46 - /Common/jquery.js
+01/03/2014 02:07:01 - /Common/font-awesome1.css
+01/03/2014 02:08:12 - /Common/font-awesome1.css
+01/03/2014 02:08:25 - /Common/fontawesome1.css
+01/03/2014 02:08:56 - /Thesaurify/thesaurify.css
+01/03/2014 02:09:09 - /
+01/03/2014 02:09:09 - Index.php, not logged in - SESSION['loggedIn'] contents: 
+01/03/2014 02:09:09 - /bootstrap/bootstrap.css
+01/03/2014 02:09:10 - /Index/index.css
+01/03/2014 02:09:10 - /Index/index.js
+01/03/2014 02:09:10 - /Common/ajaxRequest.js
+01/03/2014 02:09:10 - /Index/floatingBrad.jpg
+01/03/2014 02:09:10 - /Index/RetrieveComments.php
+01/03/2014 02:09:10 - Retrieve Comments
+01/03/2014 02:09:12 - /Thesaurify/
+01/03/2014 02:09:12 - /Thesaurify/thesaurify.css
+01/03/2014 02:09:12 - /Common/fontawesome1.css
+01/03/2014 02:09:12 - /Thesaurify/thesaurify.js
+01/03/2014 02:09:12 - /Common/backButton.js
+01/03/2014 02:09:12 - /Thesaurify/loading.gif
+01/03/2014 02:10:23 - /Thesaurify/
+01/03/2014 02:10:24 - /Thesaurify/thesaurify.css
+01/03/2014 02:10:24 - /Common/backButton.js
+01/03/2014 02:10:24 - /Common/fontawesome1.css
+01/03/2014 02:10:24 - /Thesaurify/thesaurify.js
+01/03/2014 02:10:24 - /Thesaurify/loading.gif
+01/03/2014 02:11:09 - /Thesaurify/
+01/03/2014 02:11:09 - /Thesaurify/thesaurify.css
+01/03/2014 02:11:09 - /Common/fontawesome1.css
+01/03/2014 02:11:09 - /Common/backButton.js
+01/03/2014 02:11:10 - /Thesaurify/thesaurify.js
+01/03/2014 02:11:10 - /Thesaurify/loading.gif
+01/03/2014 02:12:51 - /Thesaurify/
+01/03/2014 02:12:51 - /Thesaurify/thesaurify.css
+01/03/2014 02:12:51 - /Common/fontawesome1.css
+01/03/2014 02:12:51 - /Common/test.css
+01/03/2014 02:12:51 - /Thesaurify/thesaurify.js
+01/03/2014 02:12:51 - /Common/backButton.js
+01/03/2014 02:12:51 - /Thesaurify/loading.gif
+01/03/2014 02:16:10 - /Thesaurify/
+01/03/2014 02:16:10 - /Thesaurify/thesaurify.css
+01/03/2014 02:16:10 - /Common/fontawesome1.css
+01/03/2014 02:16:10 - /Thesaurify/thesaurify.js
+01/03/2014 02:16:10 - /Common/backButton.js
+01/03/2014 02:16:10 - /Common/test.css
+01/03/2014 02:16:10 - /Thesaurify/loading.gif
+01/03/2014 02:17:19 - /Thesaurify/
+01/03/2014 02:17:19 - /Thesaurify/thesaurify.css
+01/03/2014 02:17:20 - /Common/fontawesome.css
+01/03/2014 02:17:20 - /Thesaurify/thesaurify.js
+01/03/2014 02:17:20 - /Common/backButton.js
+01/03/2014 02:17:20 - /Thesaurify/loading.gif
+01/03/2014 02:17:32 - /Common/fontawesome-webfont.eot?v=4.0.3
+01/03/2014 02:18:07 - /Thesaurify/
+01/03/2014 02:18:07 - /Thesaurify/thesaurify.css
+01/03/2014 02:18:07 - /Common/fontawesome.css
+01/03/2014 02:18:07 - /Common/backButton.js
+01/03/2014 02:18:07 - /Thesaurify/thesaurify.js
+01/03/2014 02:18:07 - /Thesaurify/loading.gif
+01/03/2014 02:18:12 - /Common/fontawesome-webfont.eot
+01/03/2014 02:18:44 - /Common/fontawesome-webfont.eot
+01/03/2014 02:18:47 - /Common/fontawesome-webfont.eot
+01/03/2014 02:18:57 - /Common/fontawesome-webfont.eot
+01/03/2014 02:23:54 - /Thesaurify/
+01/03/2014 02:23:54 - /Thesaurify/thesaurify.css
+01/03/2014 02:23:54 - /Common/fontawesome.css
+01/03/2014 02:23:54 - /Thesaurify/thesaurify.js
+01/03/2014 02:23:55 - /Common/backButton.js
+01/03/2014 02:23:55 - /Thesaurify/loading.gif
+01/03/2014 02:23:58 - /Common/fontawesome1-webfont.eot
+01/03/2014 02:24:57 - /Common/fontawesome-webfont.eot
+01/03/2014 02:25:00 - /Common/fontawesome1-webfont.eot
+01/03/2014 02:28:24 - /Thesaurify/
+01/03/2014 02:28:24 - /Thesaurify/thesaurify.css
+01/03/2014 02:28:24 - /Common/fontawesome.css
+01/03/2014 02:28:24 - /Thesaurify/thesaurify.js
+01/03/2014 02:28:24 - /Common/backButton.js
+01/03/2014 02:28:25 - /Thesaurify/loading.gif
+01/03/2014 02:28:29 - /Common/fontawesome1-webfont.eot
+01/03/2014 02:30:12 - /Thesaurify/
+01/03/2014 02:30:12 - /Thesaurify/thesaurify.css
+01/03/2014 02:30:12 - /Common/fontawesome.css
+01/03/2014 02:30:12 - /Thesaurify/thesaurify.js
+01/03/2014 02:30:12 - /Common/backButton.js
+01/03/2014 02:30:13 - /Thesaurify/loading.gif
+01/03/2014 02:30:16 - /Common/fontawesome1-webfont.eot
+01/03/2014 02:31:38 - /Thesaurify/
+01/03/2014 02:31:38 - /Thesaurify/thesaurify.css
+01/03/2014 02:31:38 - /Common/fontawesome.css
+01/03/2014 02:31:38 - /Common/backButton.js
+01/03/2014 02:31:38 - /Thesaurify/thesaurify.js
+01/03/2014 02:31:38 - /Thesaurify/loading.gif
+01/03/2014 02:31:42 - /Common/fontawesome1-webfont.eot
+01/03/2014 02:32:27 - /Common/fontawesome1-webfont.eot
+01/03/2014 02:32:31 - /Thesaurify/
+01/03/2014 02:32:32 - /Thesaurify/thesaurify.css
+01/03/2014 02:32:32 - /Common/fontawesome.css
+01/03/2014 02:32:32 - /Thesaurify/thesaurify.js
+01/03/2014 02:32:32 - /Common/backButton.js
+01/03/2014 02:32:32 - /Thesaurify/loading.gif
+01/03/2014 02:32:39 - /Common/fontawesome1-webfont.eot
+01/03/2014 02:34:47 - /
+01/03/2014 02:34:47 - Index.php, not logged in - SESSION['loggedIn'] contents: 
+01/03/2014 02:34:47 - /Index/index.css
+01/03/2014 02:34:47 - /bootstrap/bootstrap.css
+01/03/2014 02:34:47 - /Common/ajaxRequest.js
+01/03/2014 02:34:47 - /Index/index.js
+01/03/2014 02:34:47 - /Index/floatingBrad.jpg
+01/03/2014 02:34:47 - /Index/RetrieveComments.php
+01/03/2014 02:34:47 - Retrieve Comments
+01/03/2014 02:34:48 - /Thesaurify/
+01/03/2014 02:34:48 - /Thesaurify/thesaurify.css
+01/03/2014 02:34:48 - /Common/backButton.js
+01/03/2014 02:34:48 - /Thesaurify/loading.gif
+01/03/2014 02:34:48 - /Common/fontawesome.css
+01/03/2014 02:34:48 - /Thesaurify/thesaurify.js
+01/03/2014 02:34:48 - /Common/fontawesome.css
+01/03/2014 02:34:48 - /Thesaurify/thesaurify.css
+01/03/2014 02:34:48 - /Thesaurify/loading.gif
+01/03/2014 02:34:48 - /Common/backButton.js
+01/03/2014 02:34:48 - /Thesaurify/thesaurify.js
+01/03/2014 02:34:53 - /Common/fontawesome1-webfont.eot
+01/03/2014 02:38:53 - /Thesaurify/
+01/03/2014 02:38:53 - /Thesaurify/thesaurify.css
+01/03/2014 02:38:53 - /Common/fontawesome.css
+01/03/2014 02:38:53 - /Thesaurify/thesaurify.js
+01/03/2014 02:38:53 - /Common/backButton.js
+01/03/2014 02:38:53 - /Thesaurify/loading.gif
+01/03/2014 02:38:57 - /Common/fontawesome1-webfont.ttf
+01/03/2014 02:39:47 - /Thesaurify/
+01/03/2014 02:39:47 - /Thesaurify/thesaurify.css
+01/03/2014 02:39:47 - /Common/fontawesome.css
+01/03/2014 02:39:47 - /Thesaurify/thesaurify.js
+01/03/2014 02:39:47 - /Common/backButton.js
+01/03/2014 02:39:47 - /Thesaurify/loading.gif
+01/03/2014 02:39:51 - /Common/fontawesome1-webfont.ttf?v=4.0.3
+01/03/2014 02:40:50 - /Thesaurify/
+01/03/2014 02:40:50 - /Thesaurify/thesaurify.css
+01/03/2014 02:40:50 - /Common/fontawesome.css
+01/03/2014 02:40:50 - /Common/backButton.js
+01/03/2014 02:40:50 - /Thesaurify/thesaurify.js
+01/03/2014 02:40:50 - /Thesaurify/loading.gif
+01/03/2014 02:40:54 - /Common/fontawesome1-webfont.ttf?v=4.0.3
+01/03/2014 02:47:18 - /Thesaurify/
+01/03/2014 02:47:18 - /Thesaurify/thesaurify.css
+01/03/2014 02:47:18 - /Common/backButton.js
+01/03/2014 02:47:18 - /Common/fontawesome.css
+01/03/2014 02:47:18 - /Thesaurify/thesaurify.js
+01/03/2014 02:47:18 - /Thesaurify/loading.gif
+01/03/2014 02:47:22 - /Common/fontawesome1-webfont.ttf?v=4.0.3
+01/03/2014 02:47:54 - /
+01/03/2014 02:47:54 - Index.php, not logged in - SESSION['loggedIn'] contents: 
+01/03/2014 02:47:55 - /bootstrap/bootstrap.css
+01/03/2014 02:47:55 - /Index/index.css
+01/03/2014 02:47:55 - /Common/ajaxRequest.js
+01/03/2014 02:47:55 - /Index/floatingBrad.jpg
+01/03/2014 02:47:55 - /Index/index.js
+01/03/2014 02:47:55 - /Index/RetrieveComments.php
+01/03/2014 02:47:55 - Retrieve Comments
+01/03/2014 02:48:08 - /Thesaurify/
+01/03/2014 02:48:08 - /Thesaurify/thesaurify.css
+01/03/2014 02:48:08 - /Common/fontawesome.css
+01/03/2014 02:48:08 - /Thesaurify/thesaurify.css
+01/03/2014 02:48:08 - /Common/fontawesome.css
+01/03/2014 02:48:08 - /Thesaurify/loading.gif
+01/03/2014 02:48:08 - /Thesaurify/thesaurify.js
+01/03/2014 02:48:08 - /Common/backButton.js
+01/03/2014 02:48:12 - /Common/fontawesome1-webfont.ttf?v=4.0.3
+01/03/2014 02:48:23 - /Thesaurify/
+01/03/2014 02:48:23 - /Thesaurify/thesaurify.css
+01/03/2014 02:48:23 - /Thesaurify/loading.gif
+01/03/2014 02:48:23 - /Common/fontawesome.css
+01/03/2014 02:48:23 - /Thesaurify/thesaurify.js
+01/03/2014 02:48:23 - /Common/backButton.js
+01/03/2014 02:48:27 - /Common/fontawesome1-webfont.ttf?v=4.0.3
+01/03/2014 02:49:37 - /Thesaurify/
+01/03/2014 02:49:37 - /Thesaurify/thesaurify.css
+01/03/2014 02:49:37 - /Common/fontawesome.css
+01/03/2014 02:49:38 - /Thesaurify/thesaurify.js
+01/03/2014 02:49:38 - /Thesaurify/loading.gif
+01/03/2014 02:49:38 - /Common/backButton.js
+01/03/2014 02:49:41 - /Common/fontawesome-webfont.ttf?v=4.0.3
+01/03/2014 02:50:23 - /Thesaurify/
+01/03/2014 02:50:23 - /Thesaurify/thesaurify.css
+01/03/2014 02:50:23 - /Common/fontawesome.css
+01/03/2014 02:50:23 - /Common/backButton.js
+01/03/2014 02:50:23 - /Thesaurify/thesaurify.js
+01/03/2014 02:50:23 - /Thesaurify/loading.gif
+01/03/2014 02:50:27 - /Common/fontawesome-webfont.ttf?v=4.0.3
+01/03/2014 02:53:05 - /Thesaurify/
+01/03/2014 02:53:05 - /Thesaurify/thesaurify.css
+01/03/2014 02:53:05 - /Common/fontawesome.css
+01/03/2014 02:53:05 - /Thesaurify/thesaurify.js
+01/03/2014 02:53:05 - /Common/backButton.js
+01/03/2014 02:53:05 - /Thesaurify/loading.gif
+01/03/2014 02:53:10 - /Common/fontawesome-webfont.ttf?v=4.0.3
+01/03/2014 02:53:38 - /Thesaurify/
+01/03/2014 02:53:38 - /Thesaurify/thesaurify.css
+01/03/2014 02:53:38 - /Common/fontawesome.css
+01/03/2014 02:53:38 - /Common/backButton.js
+01/03/2014 02:53:38 - /Thesaurify/thesaurify.js
+01/03/2014 02:53:38 - /Thesaurify/loading.gif
+01/03/2014 02:53:41 - /Common/fontawesome-webfont.ttf?v=4.0.3
+01/03/2014 02:53:56 - /Common/fontawesome-webfont.ttf?v=4.0.3
+01/03/2014 02:54:06 - /Common/fontawesome-webfont.ttf
+01/03/2014 02:54:27 - /Thesaurify/
+01/03/2014 02:54:27 - /Thesaurify/thesaurify.css
+01/03/2014 02:54:28 - /Common/fontawesome.css
+01/03/2014 02:54:28 - /Thesaurify/thesaurify.js
+01/03/2014 02:54:28 - /Common/backButton.js
+01/03/2014 02:54:28 - /Thesaurify/loading.gif
+01/03/2014 02:54:32 - /Common/fontawesome-webfont.ttf
+01/03/2014 02:54:47 - /Thesaurify/
+01/03/2014 02:54:47 - /Thesaurify/thesaurify.css
+01/03/2014 02:54:47 - /Common/fontawesome.css
+01/03/2014 02:54:47 - /Common/backButton.js
+01/03/2014 02:54:47 - /Thesaurify/thesaurify.js
+01/03/2014 02:54:47 - /Thesaurify/loading.gif
+01/03/2014 02:54:51 - /Common/fontawesome-webfont.ttf
+01/03/2014 02:58:18 - /Thesaurify/
+01/03/2014 02:58:18 - /Thesaurify/thesaurify.css
+01/03/2014 02:58:19 - /Common/fontawesome.css
+01/03/2014 02:58:19 - /Thesaurify/thesaurify.js
+01/03/2014 02:58:19 - /Common/backButton.js
+01/03/2014 02:58:19 - /Thesaurify/loading.gif
+01/03/2014 02:58:22 - /Common/fontawesome-webfont.ttf?v=4.0.3
+01/03/2014 02:58:30 - /Thesaurify/
+01/03/2014 02:58:30 - /Thesaurify/thesaurify.css
+01/03/2014 02:58:30 - /Common/fontawesome.css
+01/03/2014 02:58:30 - /Thesaurify/thesaurify.js
+01/03/2014 02:58:30 - /Thesaurify/loading.gif
+01/03/2014 02:58:30 - /Common/backButton.js
+01/03/2014 02:58:33 - /Common/fontawesome-webfont.ttf?v=4.0.3
+01/03/2014 03:00:15 - /Thesaurify/
+01/03/2014 03:00:16 - /Thesaurify/thesaurify.css
+01/03/2014 03:00:16 - /Thesaurify/thesaurify.js
+01/03/2014 03:00:16 - /Common/backButton.js
+01/03/2014 03:00:16 - /Thesaurify/loading.gif
+01/03/2014 03:08:14 - /Thesaurify/
+01/03/2014 03:08:14 - /Thesaurify/thesaurify.css
+01/03/2014 03:08:14 - /Thesaurify/thesaurify.js
+01/03/2014 03:08:14 - /Common/backButton.js
+01/03/2014 03:08:14 - /Thesaurify/loading.gif
+01/03/2014 03:08:49 - /Thesaurify/
+01/03/2014 03:08:49 - /Thesaurify/thesaurify.css
+01/03/2014 03:08:49 - /Common/fontawesome.css
+01/03/2014 03:08:49 - /Common/backButton.js
+01/03/2014 03:08:49 - /Thesaurify/thesaurify.js
+01/03/2014 03:08:49 - /Thesaurify/loading.gif
+01/03/2014 03:08:54 - /Common/Common/fontawesome-webfont.woff?v=4.0.3
+01/03/2014 03:08:55 - /Common/Common/fontawesome-webfont.ttf?v=4.0.3
+01/03/2014 03:09:22 - /Thesaurify/
+01/03/2014 03:09:22 - /Thesaurify/thesaurify.css
+01/03/2014 03:09:22 - /Common/fontawesome.css
+01/03/2014 03:09:22 - /Common/backButton.js
+01/03/2014 03:09:22 - /Thesaurify/thesaurify.js
+01/03/2014 03:09:22 - /Thesaurify/loading.gif
+01/03/2014 03:09:28 - /Common/Common/fontawesome-webfont.eot?
+01/03/2014 03:09:28 - /Common/Common/fontawesome-webfont.woff?v=4.0.3
+01/03/2014 03:09:28 - /Common/Common/fontawesome-webfont.ttf?v=4.0.3
+01/03/2014 03:10:33 - /Thesaurify/
+01/03/2014 03:10:33 - /Thesaurify/thesaurify.css
+01/03/2014 03:10:33 - /Common/fontawesome.css
+01/03/2014 03:10:33 - /Thesaurify/thesaurify.js
+01/03/2014 03:10:33 - /Thesaurify/loading.gif
+01/03/2014 03:10:33 - /Common/backButton.js
+01/03/2014 03:10:37 - /Common/Common/fontawesome-webfont.eot?
+01/03/2014 03:10:37 - /Common/Common/fontawesome-webfont.woff?v=4.0.3
+01/03/2014 03:10:37 - /Common/Common/fontawesome-webfont.ttf?v=4.0.3
+01/03/2014 03:10:50 - /Thesaurify/
+01/03/2014 03:10:50 - /Thesaurify/thesaurify.css
+01/03/2014 03:10:50 - /Common/fontawesome.css
+01/03/2014 03:10:50 - /Common/backButton.js
+01/03/2014 03:10:50 - /Thesaurify/thesaurify.js
+01/03/2014 03:10:50 - /Thesaurify/loading.gif
+01/03/2014 03:10:54 - /Common/Common/fontawesome-webfont.woff?v=4.0.3
+01/03/2014 03:10:54 - /Common/Common/fontawesome-webfont.ttf?v=4.0.3
+01/03/2014 03:12:44 - /Thesaurify/
+01/03/2014 03:12:44 - /Thesaurify/thesaurify.css
+01/03/2014 03:12:44 - /Common/fontawesome.css
+01/03/2014 03:12:44 - /Common/backButton.js
+01/03/2014 03:12:44 - /Thesaurify/thesaurify.js
+01/03/2014 03:12:44 - /Thesaurify/loading.gif
+01/03/2014 03:12:49 - /Common/fontawesome-webfont.woff?v=4.0.3
+01/03/2014 03:12:49 - /Common/fontawesome-webfont.ttf?v=4.0.3
+01/03/2014 03:12:53 - /Thesaurify/
+01/03/2014 03:12:53 - /Thesaurify/thesaurify.css
+01/03/2014 03:12:53 - /Common/fontawesome.css
+01/03/2014 03:12:53 - /Thesaurify/thesaurify.js
+01/03/2014 03:12:53 - /Common/backButton.js
+01/03/2014 03:12:53 - /Thesaurify/loading.gif
+01/03/2014 03:12:57 - /Common/fontawesome-webfont.eot?
+01/03/2014 03:12:57 - /Common/fontawesome-webfont.woff?v=4.0.3
+01/03/2014 03:12:57 - /Common/fontawesome-webfont.ttf?v=4.0.3
+01/03/2014 03:14:13 - /Common/fontawesome-webfont.ttf
+01/03/2014 03:33:31 - /Thesaurify/
+01/03/2014 03:33:31 - /Thesaurify/thesaurify.css
+01/03/2014 03:33:31 - /Common/fontawesome.css
+01/03/2014 03:33:31 - /Thesaurify/thesaurify.js
+01/03/2014 03:33:31 - /Common/backButton.js
+01/03/2014 03:33:31 - /Thesaurify/loading.gif
+01/03/2014 03:33:40 - /Common/fontawesome-webfont.woff?v=4.0.3
+01/03/2014 03:33:40 - /Common/fontawesome-webfont.ttf?v=4.0.3
+01/03/2014 03:43:50 - /Thesaurify/
+01/03/2014 03:43:50 - /Thesaurify/thesaurify.css
+01/03/2014 03:43:50 - /Common/fontawesome.css
+01/03/2014 03:43:50 - /Thesaurify/loading.gif
+01/03/2014 03:43:50 - /Thesaurify/thesaurify.js
+01/03/2014 03:43:50 - /Common/backButton.js
+01/03/2014 03:43:55 - /Common/fontawesome-webfont.eot?
+01/03/2014 03:43:56 - /Common/fontawesome-webfont.woff?v=4.0.3
+01/03/2014 03:43:56 - /Common/fontawesome-webfont.ttf?v=4.0.3
+01/03/2014 03:46:45 - /Thesaurify/
+01/03/2014 03:46:46 - /Thesaurify/thesaurify.css
+01/03/2014 03:46:46 - /Common/fontawesome.css
+01/03/2014 03:46:46 - /Thesaurify/thesaurify.js
+01/03/2014 03:46:46 - /Common/backButton.js
+01/03/2014 03:46:46 - /Thesaurify/loading.gif
+01/03/2014 03:46:50 - /Common/fontawesome-webfont.woff?v=4.0.3
+01/03/2014 03:46:50 - /Common/fontawesome-webfont.ttf?v=4.0.3
+01/03/2014 03:48:10 - /Thesaurify/
+01/03/2014 03:48:10 - /Thesaurify/thesaurify.css
+01/03/2014 03:48:10 - /Common/fontawesome.css
+01/03/2014 03:48:10 - /Common/backButton.js
+01/03/2014 03:48:10 - /Thesaurify/thesaurify.js
+01/03/2014 03:48:10 - /Thesaurify/loading.gif
+01/03/2014 03:48:15 - /Common/fontawesome-webfont.woff?v=4.0.3
+01/03/2014 03:48:15 - /Common/fontawesome-webfont.ttf?v=4.0.3
+01/03/2014 03:48:57 - /Thesaurify/
+01/03/2014 03:48:57 - /Thesaurify/thesaurify.css
+01/03/2014 03:48:57 - /Common/fontawesome.css
+01/03/2014 03:48:57 - /Common/backButton.js
+01/03/2014 03:48:57 - /Thesaurify/thesaurify.js
+01/03/2014 03:48:57 - /Thesaurify/loading.gif
+01/03/2014 03:49:01 - /Common/fontawesome-webfont.eot?
+01/03/2014 03:49:01 - /Common/fontawesome-webfont.woff?v=4.0.3
+01/03/2014 03:49:01 - /Common/fontawesome-webfont.ttf?v=4.0.3
+01/03/2014 03:49:30 - /
+01/03/2014 03:49:30 - Index.php, not logged in - SESSION['loggedIn'] contents: 
+01/03/2014 03:49:30 - /bootstrap/bootstrap.css
+01/03/2014 03:49:30 - /Index/index.css
+01/03/2014 03:49:30 - /Index/floatingBrad.jpg
+01/03/2014 03:49:30 - /Index/index.js
+01/03/2014 03:49:30 - /Common/ajaxRequest.js
+01/03/2014 03:49:30 - /Index/RetrieveComments.php
+01/03/2014 03:49:30 - Retrieve Comments
+01/03/2014 03:50:17 - /Login/
+01/03/2014 03:50:17 - /bootstrap/bootstrap.css
+01/03/2014 03:50:17 - /Login/login.css
+01/03/2014 03:50:18 - /Common/ajaxRequest.js
+01/03/2014 03:50:18 - /Common/jquery.js
+01/03/2014 03:50:18 - /Login/login.css
+01/03/2014 03:50:18 - /Login/login.js
+01/03/2014 03:50:18 - /Common/backButton.js
+01/03/2014 03:50:18 - /bootstrap/bootstrap.css
+01/03/2014 03:50:21 - /
+01/03/2014 03:50:21 - Index.php, not logged in - SESSION['loggedIn'] contents: 
+01/03/2014 03:50:21 - /bootstrap/bootstrap.css
+01/03/2014 03:50:21 - /Index/index.css
+01/03/2014 03:50:21 - /Index/index.js
+01/03/2014 03:50:21 - /Index/floatingBrad.jpg
+01/03/2014 03:50:21 - /Common/ajaxRequest.js
+01/03/2014 03:50:21 - /Index/RetrieveComments.php
+01/03/2014 03:50:21 - Retrieve Comments
+01/03/2014 03:50:24 - /
+01/03/2014 03:50:24 - Index.php, not logged in - SESSION['loggedIn'] contents: 
+01/03/2014 03:50:24 - /bootstrap/bootstrap.css
+01/03/2014 03:50:24 - /Index/index.css
+01/03/2014 03:50:24 - /Index/index.js
+01/03/2014 03:50:24 - /Common/ajaxRequest.js
+01/03/2014 03:50:24 - /Index/floatingBrad.jpg
+01/03/2014 03:50:25 - /Index/RetrieveComments.php
+01/03/2014 03:50:25 - Retrieve Comments
+01/03/2014 03:50:27 - /Login/
+01/03/2014 03:50:27 - /bootstrap/bootstrap.css
+01/03/2014 03:50:27 - /Common/backButton.js
+01/03/2014 03:50:27 - /Common/ajaxRequest.js
+01/03/2014 03:50:27 - /Login/login.css
+01/03/2014 03:50:27 - /Common/jquery.js
+01/03/2014 03:50:28 - /Login/login.js
+01/03/2014 03:50:31 - /Login/login.php
+01/03/2014 03:50:31 - Login.php - login success.  SESSION['loggedIn'] before:
+
+01/03/2014 03:50:31 - Login.php - login success.  SESSION['loggedIn'] after:
+1
+01/03/2014 03:50:36 - /
+01/03/2014 03:50:36 - Index.php, logged in - SESSION['loggedIn'] contents: 1
+01/03/2014 03:50:36 - /bootstrap/bootstrap.css
+01/03/2014 03:50:36 - /Common/ajaxRequest.js
+01/03/2014 03:50:36 - /Index/index.css
+01/03/2014 03:50:36 - /Index/index.js
+01/03/2014 03:50:36 - /Index/floatingBrad.jpg
+01/03/2014 03:50:36 - /Index/RetrieveComments.php
+01/03/2014 03:50:36 - Retrieve Comments
+01/03/2014 03:50:43 - /?logout=1
+01/03/2014 03:50:43 - Index.php, not logged in - SESSION['loggedIn'] contents: 
+01/03/2014 03:50:43 - /bootstrap/bootstrap.css
+01/03/2014 03:50:43 - /Index/index.js
+01/03/2014 03:50:43 - /Index/index.css
+01/03/2014 03:50:43 - /Common/ajaxRequest.js
+01/03/2014 03:50:44 - /Index/floatingBrad.jpg
+01/03/2014 03:50:44 - /Index/RetrieveComments.php
+01/03/2014 03:50:44 - Retrieve Comments
+01/03/2014 03:50:45 - /robots.txt
+01/03/2014 03:50:45 - Index.php, not logged in - SESSION['loggedIn'] contents: 
+01/03/2014 03:50:45 - /?logout=1
+01/03/2014 03:50:45 - Index.php, not logged in - SESSION['loggedIn'] contents: 
+01/03/2014 03:51:37 - /
+01/03/2014 03:51:37 - Index.php, not logged in - SESSION['loggedIn'] contents: 
+01/03/2014 03:51:51 - /?logout=1
+01/03/2014 03:51:51 - Index.php, not logged in - SESSION['loggedIn'] contents: 
+01/03/2014 03:51:52 - /bootstrap/bootstrap.css
+01/03/2014 03:51:52 - /Index/index.css
+01/03/2014 03:51:52 - /Common/ajaxRequest.js
+01/03/2014 03:51:52 - /Index/index.js
+01/03/2014 03:51:52 - /Index/floatingBrad.jpg
+01/03/2014 03:51:52 - /Index/RetrieveComments.php
+01/03/2014 03:51:52 - Retrieve Comments
+01/03/2014 03:51:53 - /Resume/
+01/03/2014 03:51:53 - /Resume/bootstrap/bootstrap.css
+01/03/2014 03:51:53 - /Common/backButton.js
+01/03/2014 03:51:53 - /Resume/resume.css
+01/03/2014 03:51:54 - /
+01/03/2014 03:51:54 - Index.php, not logged in - SESSION['loggedIn'] contents: 
+01/03/2014 03:51:54 - /bootstrap/bootstrap.css
+01/03/2014 03:51:54 - /Index/index.js
+01/03/2014 03:51:54 - /Index/index.css
+01/03/2014 03:51:54 - /Common/ajaxRequest.js
+01/03/2014 03:51:54 - /Index/floatingBrad.jpg
+01/03/2014 03:51:54 - /Index/RetrieveComments.php
+01/03/2014 03:51:54 - Retrieve Comments
+01/03/2014 03:51:56 - /Login/
+01/03/2014 03:51:56 - /bootstrap/bootstrap.css
+01/03/2014 03:51:56 - /Login/login.css
+01/03/2014 03:51:56 - /Common/jquery.js
+01/03/2014 03:51:56 - /Common/backButton.js
+01/03/2014 03:51:56 - /Login/login.js
+01/03/2014 03:51:56 - /Common/ajaxRequest.js
+01/03/2014 03:51:59 - /Login/login.php
+01/03/2014 03:51:59 - Login.php - login success.  SESSION['loggedIn'] before:
+
+01/03/2014 03:51:59 - Login.php - login success.  SESSION['loggedIn'] after:
+1
+01/03/2014 03:52:01 - /
+01/03/2014 03:52:01 - Index.php, logged in - SESSION['loggedIn'] contents: 1
+01/03/2014 03:52:01 - /bootstrap/bootstrap.css
+01/03/2014 03:52:01 - /Common/ajaxRequest.js
+01/03/2014 03:52:01 - /Index/index.css
+01/03/2014 03:52:01 - /Index/index.js
+01/03/2014 03:52:01 - /Index/floatingBrad.jpg
+01/03/2014 03:52:01 - /Index/RetrieveComments.php
+01/03/2014 03:52:01 - Retrieve Comments
+01/03/2014 03:52:03 - /?logout=1
+01/03/2014 03:52:03 - Index.php, not logged in - SESSION['loggedIn'] contents: 
+01/03/2014 03:52:03 - /bootstrap/bootstrap.css
+01/03/2014 03:52:03 - /Index/index.js
+01/03/2014 03:52:03 - /Common/ajaxRequest.js
+01/03/2014 03:52:03 - /Index/index.css
+01/03/2014 03:52:03 - /Index/floatingBrad.jpg
+01/03/2014 03:52:03 - /Index/RetrieveComments.php
+01/03/2014 03:52:03 - Retrieve Comments
+01/03/2014 03:52:05 - /Thesaurify/
+01/03/2014 03:52:05 - /Common/fontawesome.css
+01/03/2014 03:52:05 - /Thesaurify/thesaurify.js
+01/03/2014 03:52:05 - /Common/backButton.js
+01/03/2014 03:52:05 - /Thesaurify/thesaurify.css
+01/03/2014 03:52:05 - /Thesaurify/loading.gif
+01/03/2014 03:52:11 - /Common/fontawesome-webfont.woff?v=4.0.3
+01/03/2014 03:52:11 - /Common/fontawesome-webfont.ttf?v=4.0.3
+01/03/2014 03:53:00 - /Common/fontawesome-webfont.woff?v=4.0.3
+01/03/2014 03:55:22 - /Common/fontawesome-webfont.woff?v=4.0.3
+01/03/2014 03:55:22 - Index - filename: ./Common/fontawesome-webfont.woff?v=4.0.3
+01/03/2014 03:56:54 - /Thesaurify/
+01/03/2014 03:56:54 - Index - filename: ./Thesaurify/thesaurify.html
+01/03/2014 03:56:54 - /Thesaurify/thesaurify.css
+01/03/2014 03:56:54 - Index - filename: ./Thesaurify/thesaurify.css
+01/03/2014 03:56:54 - /Common/fontawesome.css
+01/03/2014 03:56:54 - Index - filename: ./Common/fontawesome.css
+01/03/2014 03:56:54 - /Thesaurify/thesaurify.js
+01/03/2014 03:56:54 - Index - filename: ./Thesaurify/thesaurify.js
+01/03/2014 03:56:54 - /Common/backButton.js
+01/03/2014 03:56:54 - Index - filename: ./Common/backButton.js
+01/03/2014 03:56:54 - /Thesaurify/loading.gif
+01/03/2014 03:56:54 - Index - filename: ./Thesaurify/loading.gif
+01/03/2014 03:56:59 - /Common/fontawesome-webfont.woff?v=4.0.3
+01/03/2014 03:56:59 - Index - filename: ./Common/fontawesome-webfont.woff?v=4.0.3
+01/03/2014 03:56:59 - /Common/fontawesome-webfont.ttf?v=4.0.3
+01/03/2014 03:56:59 - Index - filename: ./Common/fontawesome-webfont.ttf?v=4.0.3
+01/03/2014 04:14:18 - Index.php, not logged in - SESSION['loggedIn'] contents: 
+01/03/2014 06:13:45 - Index.php, not logged in - SESSION['loggedIn'] contents: 
+01/03/2014 06:16:56 - Index.php, not logged in - SESSION['loggedIn'] contents: 
+01/03/2014 01:05:58 - Index.php, not logged in - SESSION['loggedIn'] contents: 
+01/03/2014 01:05:59 - Retrieve Comments
+01/03/2014 01:06:00 - Index.php, not logged in - SESSION['loggedIn'] contents: 
+01/03/2014 01:30:37 - Index.php, not logged in - SESSION['loggedIn'] contents: 
+01/03/2014 01:30:37 - Retrieve Comments
+01/03/2014 01:30:47 - Index.php, not logged in - SESSION['loggedIn'] contents: 
+01/03/2014 01:30:51 - Index.php, not logged in - SESSION['loggedIn'] contents: 
+01/03/2014 01:30:51 - Retrieve Comments
+01/03/2014 01:30:58 - Index.php, not logged in - SESSION['loggedIn'] contents: 
+01/03/2014 01:31:00 - Login.php - login success.  SESSION['loggedIn'] before:
+
+01/03/2014 01:31:00 - Login.php - login success.  SESSION['loggedIn'] after:
+1
+01/03/2014 01:31:02 - Index.php, logged in - SESSION['loggedIn'] contents: 1
+01/03/2014 01:31:02 - Retrieve Comments
+01/03/2014 01:31:07 - Index.php, not logged in - SESSION['loggedIn'] contents: 
+01/03/2014 01:31:07 - Retrieve Comments
+01/03/2014 05:04:32 - Login.php - login success.  SESSION['loggedIn'] before:
+
+01/03/2014 05:04:32 - Login.php - login success.  SESSION['loggedIn'] after:
+1
+01/03/2014 05:04:34 - Index.php, logged in - SESSION['loggedIn'] contents: 1
+01/03/2014 05:04:35 - Retrieve Comments
+01/03/2014 05:04:40 - Index.php, not logged in - SESSION['loggedIn'] contents: 
+01/03/2014 05:04:41 - Retrieve Comments
+01/03/2014 05:04:46 - Index.php, logged in - SESSION['loggedIn'] contents: 1
+01/03/2014 05:04:47 - Retrieve Comments
+01/03/2014 05:05:41 - Index.php, logged in - SESSION['loggedIn'] contents: 1
+01/03/2014 05:05:41 - Retrieve Comments
+01/03/2014 05:05:44 - Index.php, logged in - SESSION['loggedIn'] contents: 1
+01/03/2014 05:05:45 - Retrieve Comments
+01/03/2014 05:06:06 - Index.php, logged in - SESSION['loggedIn'] contents: 1
+01/03/2014 05:06:07 - Retrieve Comments
+01/03/2014 05:06:11 - Index.php, logged in - SESSION['loggedIn'] contents: 1
+01/03/2014 05:06:11 - Retrieve Comments
+01/03/2014 05:06:13 - Index.php, logged in - SESSION['loggedIn'] contents: 1
+01/03/2014 05:06:14 - Retrieve Comments
+01/03/2014 05:06:20 - Index.php, logged in - SESSION['loggedIn'] contents: 1
+01/03/2014 05:06:20 - Retrieve Comments
+01/03/2014 05:06:35 - Index.php, not logged in - SESSION['loggedIn'] contents: 
+01/03/2014 05:06:35 - Retrieve Comments
+01/03/2014 05:06:36 - Index.php, not logged in - SESSION['loggedIn'] contents: 
+01/03/2014 05:06:52 - Index.php, not logged in - SESSION['loggedIn'] contents: 
+01/03/2014 05:06:52 - Retrieve Comments
+01/03/2014 05:21:16 - Index.php, not logged in - SESSION['loggedIn'] contents: 

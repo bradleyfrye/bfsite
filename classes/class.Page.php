@@ -1,10 +1,11 @@
 <?php
 
 class Page {
-	function __construct($pageName,$file,$pageType){
+	function __construct($pageName,$file,$pageType,$path){
         $this->folder   = $pageName;
         $this->file     = $file;
         $this->type     = $pageType;
+        $this->path     = $path;
 		
 		$this->init();
 	}
@@ -13,7 +14,7 @@ class Page {
 		// get content into this->content, don't echo yet
 		// assume we know content exists already, url parsing should confirm
 
-		$filename = "./".$this->folder."/".$this->file;
+		$filename = "./".$this->path."/".$this->file;
 		$this->content = file_get_contents($filename);
         $this->doHeaders();
 	}

@@ -1,0 +1,86 @@
+12/29/2013 02:56:43 - /robots.txt
+12/29/2013 02:56:43 - Index.php, not logged in - SESSION['loggedIn'] contents: 
+12/29/2013 03:12:45 - /
+12/29/2013 03:12:45 - Index.php, not logged in - SESSION['loggedIn'] contents: 
+12/29/2013 03:12:45 - /cgi-bin/php?%2D%64+%61%6C%6C%6F%77%5F%75%72%6C%5F%69%6E%63%6C%75%64%65%3D%6F%6E+%2D%64+%73%61%66%65%5F%6D%6F%64%65%3D%6F%66%66+%2D%64+%73%75%68%6F%73%69%6E%2E%73%69%6D%75%6C%61%74%69%6F%6E%3D%6F%6E+%2D%64+%64%69%73%61%62%6C%65%5F%66%75%6E%63%74%69%6F%6E%73%3D%22%22+%2D%64+%6F%70%65%6E%5F%62%61%73%65%64%69%72%3D%6E%6F%6E%65+%2D%64+%61%75%74%6F%5F%70%72%65%70%65%6E%64%5F%66%69%6C%65%3D%70%68%70%3A%2F%2F%69%6E%70%75%74+%2D%64+%63%67%69%2E%66%6F%72%63%65%5F%72%65%64%69%72%65%63%74%3D%30+%2D%64+%63%67%69%2E%72%65%64%69%72%65%63%74%5F%73%74%61%74%75%73%5F%65%6E%76%3D%30+%2D%6E
+12/29/2013 03:12:45 - Index.php, not logged in - SESSION['loggedIn'] contents: 
+12/29/2013 03:12:45 - /cgi-bin/php5?%2D%64+%61%6C%6C%6F%77%5F%75%72%6C%5F%69%6E%63%6C%75%64%65%3D%6F%6E+%2D%64+%73%61%66%65%5F%6D%6F%64%65%3D%6F%66%66+%2D%64+%73%75%68%6F%73%69%6E%2E%73%69%6D%75%6C%61%74%69%6F%6E%3D%6F%6E+%2D%64+%64%69%73%61%62%6C%65%5F%66%75%6E%63%74%69%6F%6E%73%3D%22%22+%2D%64+%6F%70%65%6E%5F%62%61%73%65%64%69%72%3D%6E%6F%6E%65+%2D%64+%61%75%74%6F%5F%70%72%65%70%65%6E%64%5F%66%69%6C%65%3D%70%68%70%3A%2F%2F%69%6E%70%75%74+%2D%64+%63%67%69%2E%66%6F%72%63%65%5F%72%65%64%69%72%65%63%74%3D%30+%2D%64+%63%67%69%2E%72%65%64%69%72%65%63%74%5F%73%74%61%74%75%73%5F%65%6E%76%3D%30+%2D%6E
+12/29/2013 03:12:45 - Index.php, not logged in - SESSION['loggedIn'] contents: 
+12/29/2013 03:12:45 - /cgi-bin/php-cgi?%2D%64+%61%6C%6C%6F%77%5F%75%72%6C%5F%69%6E%63%6C%75%64%65%3D%6F%6E+%2D%64+%73%61%66%65%5F%6D%6F%64%65%3D%6F%66%66+%2D%64+%73%75%68%6F%73%69%6E%2E%73%69%6D%75%6C%61%74%69%6F%6E%3D%6F%6E+%2D%64+%64%69%73%61%62%6C%65%5F%66%75%6E%63%74%69%6F%6E%73%3D%22%22+%2D%64+%6F%70%65%6E%5F%62%61%73%65%64%69%72%3D%6E%6F%6E%65+%2D%64+%61%75%74%6F%5F%70%72%65%70%65%6E%64%5F%66%69%6C%65%3D%70%68%70%3A%2F%2F%69%6E%70%75%74+%2D%64+%63%67%69%2E%66%6F%72%63%65%5F%72%65%64%69%72%65%63%74%3D%30+%2D%64+%63%67%69%2E%72%65%64%69%72%65%63%74%5F%73%74%61%74%75%73%5F%65%6E%76%3D%30+%2D%6E
+12/29/2013 03:12:45 - Index.php, not logged in - SESSION['loggedIn'] contents: 
+12/29/2013 03:12:45 - /cgi-bin/php.cgi?%2D%64+%61%6C%6C%6F%77%5F%75%72%6C%5F%69%6E%63%6C%75%64%65%3D%6F%6E+%2D%64+%73%61%66%65%5F%6D%6F%64%65%3D%6F%66%66+%2D%64+%73%75%68%6F%73%69%6E%2E%73%69%6D%75%6C%61%74%69%6F%6E%3D%6F%6E+%2D%64+%64%69%73%61%62%6C%65%5F%66%75%6E%63%74%69%6F%6E%73%3D%22%22+%2D%64+%6F%70%65%6E%5F%62%61%73%65%64%69%72%3D%6E%6F%6E%65+%2D%64+%61%75%74%6F%5F%70%72%65%70%65%6E%64%5F%66%69%6C%65%3D%70%68%70%3A%2F%2F%69%6E%70%75%74+%2D%64+%63%67%69%2E%66%6F%72%63%65%5F%72%65%64%69%72%65%63%74%3D%30+%2D%64+%63%67%69%2E%72%65%64%69%72%65%63%74%5F%73%74%61%74%75%73%5F%65%6E%76%3D%30+%2D%6E
+12/29/2013 03:12:45 - Index.php, not logged in - SESSION['loggedIn'] contents: 
+12/29/2013 03:12:46 - /cgi-bin/php4?%2D%64+%61%6C%6C%6F%77%5F%75%72%6C%5F%69%6E%63%6C%75%64%65%3D%6F%6E+%2D%64+%73%61%66%65%5F%6D%6F%64%65%3D%6F%66%66+%2D%64+%73%75%68%6F%73%69%6E%2E%73%69%6D%75%6C%61%74%69%6F%6E%3D%6F%6E+%2D%64+%64%69%73%61%62%6C%65%5F%66%75%6E%63%74%69%6F%6E%73%3D%22%22+%2D%64+%6F%70%65%6E%5F%62%61%73%65%64%69%72%3D%6E%6F%6E%65+%2D%64+%61%75%74%6F%5F%70%72%65%70%65%6E%64%5F%66%69%6C%65%3D%70%68%70%3A%2F%2F%69%6E%70%75%74+%2D%64+%63%67%69%2E%66%6F%72%63%65%5F%72%65%64%69%72%65%63%74%3D%30+%2D%64+%63%67%69%2E%72%65%64%69%72%65%63%74%5F%73%74%61%74%75%73%5F%65%6E%76%3D%30+%2D%6E
+12/29/2013 03:12:46 - Index.php, not logged in - SESSION['loggedIn'] contents: 
+12/29/2013 05:34:56 - /
+12/29/2013 05:34:56 - Index.php, not logged in - SESSION['loggedIn'] contents: 
+12/29/2013 08:46:30 - /robots.txt
+12/29/2013 08:46:30 - Index.php, not logged in - SESSION['loggedIn'] contents: 
+12/29/2013 08:46:30 - /
+12/29/2013 08:46:30 - Index.php, not logged in - SESSION['loggedIn'] contents: 
+12/29/2013 08:54:42 - /RetrieveComments.php
+12/29/2013 08:54:42 - Index.php, not logged in - SESSION['loggedIn'] contents: 
+12/29/2013 08:54:43 - /bootstrap/bootstrap.css
+12/29/2013 08:54:45 - /Common/ajaxRequest.js
+12/29/2013 09:06:48 - /
+12/29/2013 09:06:48 - Index.php, not logged in - SESSION['loggedIn'] contents: 
+12/29/2013 09:14:14 - /
+12/29/2013 09:14:14 - Index.php, not logged in - SESSION['loggedIn'] contents: 
+12/29/2013 09:23:46 - /
+12/29/2013 09:23:46 - Index.php, not logged in - SESSION['loggedIn'] contents: 
+12/29/2013 09:30:33 - http://www.bob-n.com/
+12/29/2013 09:30:33 - Index.php, not logged in - SESSION['loggedIn'] contents: 
+12/29/2013 09:48:54 - /
+12/29/2013 09:48:54 - Index.php, not logged in - SESSION['loggedIn'] contents: 
+12/29/2013 11:43:33 - /robots.txt
+12/29/2013 11:43:33 - Index.php, not logged in - SESSION['loggedIn'] contents: 
+12/29/2013 11:43:34 - /Contact/
+12/29/2013 11:44:07 - /Index/index.css
+12/29/2013 11:49:59 - /Contact/contact.css
+12/29/2013 11:50:01 - /Contact/bootstrap/bootstrap.css
+12/29/2013 11:50:02 - /Common/backButton.js
+12/29/2013 01:16:41 - /Login/
+12/29/2013 01:16:41 - /bootstrap/bootstrap.css
+12/29/2013 01:16:41 - /Login/login.css
+12/29/2013 01:16:41 - /Common/backButton.js
+12/29/2013 01:16:41 - /Common/jquery.js
+12/29/2013 01:16:41 - /Common/ajaxRequest.js
+12/29/2013 01:16:41 - /Login/login.js
+12/29/2013 01:16:44 - /
+12/29/2013 01:16:44 - Index.php, not logged in - SESSION['loggedIn'] contents: 
+12/29/2013 01:16:44 - /bootstrap/bootstrap.css
+12/29/2013 01:16:44 - /Index/index.js
+12/29/2013 01:16:44 - /Index/index.css
+12/29/2013 01:16:44 - /Common/ajaxRequest.js
+12/29/2013 01:16:44 - /Index/floatingBrad.jpg
+12/29/2013 01:16:44 - /Index/RetrieveComments.php
+12/29/2013 01:16:44 - Retrieve Comments
+12/29/2013 01:54:44 - /manager/html
+12/29/2013 01:54:44 - Index.php, not logged in - SESSION['loggedIn'] contents: 
+12/29/2013 02:04:44 - /
+12/29/2013 02:04:44 - Index.php, not logged in - SESSION['loggedIn'] contents: 
+12/29/2013 02:04:44 - /Index/index.css
+12/29/2013 02:04:44 - /bootstrap/bootstrap.css
+12/29/2013 02:04:44 - /Common/ajaxRequest.js
+12/29/2013 02:04:44 - /Index/index.js
+12/29/2013 02:04:44 - /Index/floatingBrad.jpg
+12/29/2013 02:04:44 - /Index/RetrieveComments.php
+12/29/2013 02:04:44 - Retrieve Comments
+12/29/2013 03:21:37 - /robots.txt
+12/29/2013 03:21:37 - Index.php, not logged in - SESSION['loggedIn'] contents: 
+12/29/2013 03:26:47 - /
+12/29/2013 03:26:47 - Index.php, not logged in - SESSION['loggedIn'] contents: 
+12/29/2013 03:41:02 - /Resume/
+12/29/2013 03:41:02 - /Resume/resume.css
+12/29/2013 03:41:02 - /Resume/bootstrap/bootstrap.css
+12/29/2013 03:41:02 - /Common/backButton.js
+12/29/2013 04:27:51 - /
+12/29/2013 04:27:51 - Index.php, not logged in - SESSION['loggedIn'] contents: 
+12/29/2013 04:34:59 - /robots.txt
+12/29/2013 04:34:59 - Index.php, not logged in - SESSION['loggedIn'] contents: 
+12/29/2013 07:17:22 - /
+12/29/2013 07:17:22 - Index.php, not logged in - SESSION['loggedIn'] contents: 
+12/29/2013 08:23:15 - /
+12/29/2013 08:23:15 - Index.php, not logged in - SESSION['loggedIn'] contents: 
+12/29/2013 11:01:14 - /
+12/29/2013 11:01:14 - Index.php, not logged in - SESSION['loggedIn'] contents: 

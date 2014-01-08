@@ -1,0 +1,48 @@
+body{
+	margin:10px;
+    margin-left:100px;
+	width:800px;
+	border: 2px solid gray;
+	padding:5px;
+}
+
+#nameDiv{
+    margin:10px;
+}
+
+#nameField{
+    position:absolute;
+    left:250px;
+}
+
+#pwDiv{
+    margin:10px;
+    margin-top:15px;
+}
+
+#pwField{
+    position:absolute;
+    left:250px;
+}
+
+.bold{
+	font-weight:bold;
+}
+
+.italics{
+	font-style:italic;
+}
+
+.underlined{
+	text-decoration:underline;
+}
+
+.rightAlign{
+	float:right;
+}
+
+.leftIndent{
+	position:relative;
+	left:8px;
+}
+
