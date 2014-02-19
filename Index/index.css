@@ -8,9 +8,37 @@ html,body{
     background:transparent;
 }
 
+#adsInfo{
+    position:absolute;
+    float:left;
+    font-size:0.8em;
+    text-decoration:underline;
+}
+
+#adsExplain{
+    position:absolute;
+    display:none;
+    left:2px;
+    top:2px;
+    width:260px;
+    height:400px;
+    z-index:2000;
+    border:2px solid black;
+    padding:3px;
+    margin:2px;
+    background:white;
+}
+
+#adsCollapse{
+    text-decoration:underline;
+}
+
 .adsbygoogle{
     position:absolute;
     float:left;
+    top:25px;
+    left:-1px;
+    border:1px solid black;
 }
 
 #navbar{
@@ -90,7 +118,7 @@ html,body{
 }
 
 .program{
-	margin:2px;
+	margin:5px 8px;
 	display:inline-block;
 	text-align:center;
 	font-size:1.2em;

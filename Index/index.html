@@ -9,9 +9,11 @@
         <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
         <script type="text/javascript" src='/Common/ajaxRequest.js'></script>
         <script type="text/javascript" src='/Index/index.js'></script>
+        <script type="text/javascript" src="/Index/adsInfo.js"></script>
 	</head>
 	
 	<body>
+        <a href="#" id=adsInfo>Ads?! BLAARGGH &gt;</a>
         <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
         <!-- Main page ads --> 
         <ins class="adsbygoogle"
@@ -35,13 +37,27 @@
 				<p>Hi, my name is Brad Frye, welcome to my website.  This site is run on a LAMP stack hosted 
                 on Amazon Web Services (AWS).  I'm using this site to share programs I've written with friends and 
                 family, and to develop a portfolio to demonstrate my experience in HTML, CSS, JavaScript, PHP, and MySQL.</p>
-                <p>Currently, you may view my resume, play the card game UNO, or try out Thesaurify (click the 
+                <p>Currently, you may view my resume, play UNO, or try out the Shopping List or Thesaurify programs (click the 
                 orange Instructions box on any Program page if you need help using it.) You may also leave me a 
                 comment at the bottom of this page if you'd like - let me know if you have any questions, 
                 suggestions, or problems with the site.  Please keep it clean!</p>
-                <p>I have more content in progress, and will add it to the site when I have time.</p>
+                <p>I have more content in progress, and will add it to the site when I have time. </p>
                 </div>
 			</div>
+        <div id=adsExplain>
+            <p><strong>You put ads in here? Why??</strong></p>
+            <p>Yeah, I did, sorry.  Most of this site is about learning how to
+            make a "real" website, including this - I wanted to see what it's like
+            working with Google AdSense, since a lot of websites use this to turn
+            traffic into revenue.  I don't expect to make significant revenue with
+            this.  If you use an adblocker to make my ads go away, I won't mind.</p>
+            <p><strong>I don't see any ads.</strong></p>
+            <p>You probably have an adblocker that is doing its job. I'd appreciate if
+            you would whitelist my website, but it's not a big deal.</p>
+            <p><a href="#" id=adsCollapse>&lt;&lt; Collapse</a></p>
+        </div>
+
+
 			<div id=main>
                 <h2 style="text-align:center">Programs</h2>
 				<div class=program>
@@ -54,6 +70,11 @@
 					<img id=dinoPic src="http://images1.wikia.nocookie.net/__cb20120302055807/arthur/images/4/48/Thesaurus.jpg" width=166px height=190px>
 					<p id="the">Thesaurify</p></a>
 				</div>
+                <div class=program>
+                    <a href="/List">
+                    <img id=sweep src="/Index/sweep.jpg" alt="Shopping List" height=190px width=119px>
+                    <p id=list>Shopping List</p></a>
+                </div>
                                 <div id="placeholder">More programs to come...</div>
 			</div>
             <div id=guestBook>

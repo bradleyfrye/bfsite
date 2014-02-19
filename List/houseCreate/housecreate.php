@@ -54,6 +54,7 @@
     $result = $mysql->changeQuery($query,$types,$valAry);
     if($result){
         echo ("SUCCESS");
+        // now then - need to create content for the house
     }
     else{
         echo ("FAILURE");

@@ -1,0 +1,48 @@
+﻿<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		<title>{pageTitlePlaceholder}</title>
+		<link rel="stylesheet" href="/bootstrap/bootstrap.css" />
+		<link rel="stylesheet" href="/List/house/house.css" />
+        <script src="/Common/jquery.js"></script>
+        <script type="text/javascript" src="/Common/listBackButton.js"></script>
+        <script type="text/javascript" src="/Common/ajaxRequest.js"></script>
+        <script type="text/javascript" src="/List/house/house.js"></script>
+	</head>
+	
+	<body>
+        <div id=wrapper>
+            <h2 id=title>{h1TitlePlaceholder} shopping list</h2>
+            {itemsPlaceholder}
+            <div id=itemsFormDiv>
+                <h4 id=addTitle>Add an item to the list:</h4>
+                <div id=headerWrapper>
+                    <div id=quantHeader>Quantity</div><div id=descHeader>Item Description</div><div id=catHeader>Category</div>
+                </div>
+                <div id=formWrapper>
+                    <input id=quantForm name=quantForm type=text><input id=descForm name=descForm type=text>
+                    <select id=category name=category>
+                        <option value="Select a category" selected>Select a category</option>
+                        <option value="Meat">Meat</option>
+                        <option value="Produce">Produce</option>
+                        <option value="Frozen foods">Frozen foods</option>
+                        <option value="Drinks (non-alcoholic)">Drinks (non-alcoholic)</option>
+                        <option value="Dairy">Dairy</option>
+                        <option value="Snacks">Snacks</option>
+                        <option value="Booze">Booze</option>
+                        <option value="Bread/grains">Bread/grains</option>
+                        <option value="Misc">Misc</option>
+                        <option value="Custom">Custom</option>
+                    </select>
+                    <br/>
+                    <input id=submit name=submit type=button value="Add Item">
+                    <div id=customCatText>Custom Category: </div>
+                    <input id=customCat name=customCat type=text>
+                </div>
+            </div>
+            <h4 id=membersTitle>Members of {h1TitlePlaceholder}:</h4>
+            {membersPlaceholder}
+        </div>
+	</body>
+</html>

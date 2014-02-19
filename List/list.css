@@ -6,6 +6,32 @@ body{
 	padding:5px;
 }
 
+.welcome{
+    position:relative;
+    left:-6px;
+    font-size:1.3em;
+    margin:10px 0px;
+    border:1px solid black;
+    padding:5px;
+    background:lightblue;
+    display:inline-block;
+    width:100%;
+}
+
+#houseWrapper{
+    border-bottom:1px solid gray;
+    padding:5px 5px 10px 5px;
+}
+
+.houseDisplay{
+    display:inline-block;
+    margin:5px;
+    text-align:center;
+    border:1px solid black;
+    border-radius:15px;
+    padding:2px;
+}
+
 .bold{
 	font-weight:bold;
 }

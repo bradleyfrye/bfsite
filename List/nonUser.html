@@ -6,9 +6,10 @@
 		<link rel="stylesheet" href="/bootstrap/bootstrap.css" />
 		<link rel="stylesheet" href="/List/list.css" />
         <script src="/Common/jquery.js"></script>
-        <link rel="stylesheet" href="/Common/instructions.css" />
         <script type="text/javascript" src="/Common/backButton.js"></script>
+        <link rel="stylesheet" href="/Common/instructions.css" />
         <script type="text/javascript" src="/Common/instructions.js"></script>
+        <script type="text/javascript" src="/List/list.js"></script>
 	</head>
 	
 	<body>
@@ -27,7 +28,7 @@
                     to register and click <a href="/Login">here</a> to log in.</p>
                     <p><strong>Step 1:</strong> Visiting this page as a logged in user, you'll see house icons showing
                     any houses you're a member of, a link to join a house, and a link to create a house. Click the
-                    <a href="/List/houseCreate">create link</a> if you'd like to make a new list for a group of people
+                    <a href="/List/houseCreate">create link</a> if you'd like to make a new list for a group of people 
                     (or just for yourself.) On the create page, just specify a name and click Submit, and the
                     house is made.</p>
                     <p><strong>Step 2:</strong> If you'd like to add yourself to a house someone else created, click
@@ -39,10 +40,11 @@
                 </div>
             </div>        
             <h1 id=title>Shopping List</h1>
-            {welcome_placeholder}
-            {houses_display_placeholder}
-            {houses_search_placeholder}
-            {new_house_placeholder}
+            <div id=nonUser>This program requires that you're logged in as a registered user.  If you
+            already have a user, click <a href='https://www.bradleyfrye.com/Login'>here</a> to get to the login page. Otherwise, you
+            can create a user by going <a href='https://www.bradleyfrye.com/Register'>here</a>.
+            </div>
+
         </div>
 	</body>
 </html>

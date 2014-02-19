@@ -1,0 +1,151 @@
+body{
+	margin:10px;
+    margin-left:100px;
+	width:700px;
+	border: 2px solid gray;
+	padding:10px;
+}
+
+a:hover{
+    text-decoration:none;
+}
+
+#itemTable > td{
+    padding:0px 9px;
+    text-align:left;
+}
+
+th{
+    text-align:left;
+    padding:0px 9px;
+    background: linear-gradient(#EFEFEF,#9F9F9F);
+    color:black;
+    border:1px solid black;
+    cursor:pointer;
+}
+
+#QUANTITY{
+    width:80px;
+}
+
+#DESCRIPTION{
+    width:135px;
+}
+
+#CATEGORY{
+    width:85px;
+}
+
+#USER_NAME{
+    width:85px;
+}
+
+#TIMESTAMP{
+    width:108px;
+}
+
+.xDiv{
+    background:red;
+    border-radius:5px;
+    color:white;
+    text-align:right;
+    padding-right:5px;
+    padding-bottom:4px;
+    font-family:Consolas;
+    font-size:1.5em;
+    font-weight:bold;
+}
+
+td{
+    padding-left:3px;
+}
+
+.xItem{
+    padding:1px;
+}
+
+#quantForm{
+    width:150px;
+    margin-right:20px;
+}
+
+#descForm{
+    margin-right:15px;
+}
+
+#itemsFormDiv{
+    margin:15px 0px;
+    padding:5px;
+    border-top:1px solid gray;
+    border-bottom:1px solid gray;
+    font-weight:bold;
+}
+
+#quantHeader{
+    display:inline-block;
+}
+
+#descHeader{
+    position:relative;
+    left:127px;
+    display:inline-block;
+}
+
+#catHeader{
+    display:inline-block;
+    position:relative;
+    left:251px;
+}
+
+#submit{
+    width:100px;
+    height:32px;
+    position:relative;
+    bottom:5px;
+}
+
+#customCatText{
+    display:none;
+    position:relative;
+    left:190px;
+    bottom:4px;
+}
+
+#customCat{
+    display:none;
+    position:relative;
+    left:191px;
+}
+
+#membersTitle{
+    padding-left:5px;
+}
+
+.houseMember{
+    font-family:cursive;
+    font-size:1.2em;
+    margin:1px;
+    padding:2px 10px;
+}
+
+.bold{
+	font-weight:bold;
+}
+
+.italics{
+	font-style:italic;
+}
+
+.underlined{
+	text-decoration:underline;
+}
+
+.rightAlign{
+	float:right;
+}
+
+.leftIndent{
+	position:relative;
+	left:8px;
+}
+

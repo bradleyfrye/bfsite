@@ -18,7 +18,7 @@ var Comments = function(){
     };
     // these should be refactored as function factories TODO
     this.getCommentID = function(index){
-        return this.comments[index].split("|")[0]
+        return this.comments[index].split("|")[0];
     };
     this.getCommentText = function(index){
         return this.comments[index].split("|")[1];
@@ -119,7 +119,7 @@ var Comments = function(){
         var dateAry = dateString.split("-"); // 0-Y, 1-M, 2-D
         var dateTime = new Date(dateAry[1]+"/"+dateAry[2]+"/"+dateAry[0]+" "+timeString+" UTC");
         timestamp = dateTime.toLocaleString(); // Convert to client's locale
-        return "<div id='"+id+"c' class=comment><div id='"+id+"n' class=commentName><span class=boldName>"+name+"</span><span class=commentTimestamp> wrote at "+timestamp+":</span></div><div id='"+id+"t' class=commentText>"+text+"</div></div>";
+        return "<div id='"+id+"c' class=comment><div id='"+id+"n' class=commentName><span class=boldName>"+name+"</span><span class=commentTimestamp> wrote on "+timestamp+":</span></div><div id='"+id+"t' class=commentText>"+text+"</div></div>";
     };
 }
 
